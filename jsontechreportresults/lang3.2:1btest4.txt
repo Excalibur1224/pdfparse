@@ -1,0 +1,17 @@
+Starting RAG Pipeline Test...
+RAG System Test Results
+==================================================
+
+Test 1: Describe satellite in terms of ID, Name, frequencies and bandwidths, Active or inactive, source or origin, orbit type
+----------------------------------------
+Response: Based on the provided context information from the PDF file, here is a description of satellites in terms of ID, Name, frequencies and bandwidths, Active or inactive, source or origin, and orbit type:
+
+- **ID**: The satellite's unique identifier.
+- **Name**: A descriptive name for the satellite.
+- **Frequencies**: The range of frequencies used by the satellite, including the highest frequency (e.g., 25.208 MHz) and the lowest frequency (e.g., 25.210 MHz).
+- **Bandwidths**: The range of bandwidths used by the satellite, which can include various types such as power-flux-density limits.
+- **Active or inactive**: Whether the satellite is currently operational or not.
+- **Source or origin**: Where the satellite was developed or manufactured from (e.g., a specific country, organization).
+- **Orbit type**: The type of orbit the satellite follows, which can include various parameters such as altitude, inclination, and longitude of ascending node.
+Status: SUCCESS
+----------------------------------------

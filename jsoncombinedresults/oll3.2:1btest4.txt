@@ -1,0 +1,30 @@
+Starting RAG Pipeline Test...
+RAG System Test Results
+==================================================
+
+Test 1: Describe satellite in terms of ID, Name, frequencies and bandwidths, Active or inactive, source or origin, orbit type
+----------------------------------------
+Response: Based on the provided context information, here is a description of the satellites mentioned:
+
+1. **MuSat 2-3 Antenna Ga.pdfconvert.json**
+   - **ID**: Not explicitly stated in the query, but based on the file path and content, it appears to be related to MuSat.
+   - **Name**: Not specified in the provided context information.
+   - **Frequencies**: The frequencies mentioned are "25.114(c)(4)(vi)(B)" which refers to a specific regulation or standard. However, no other frequency details are provided.
+   - **Bandwidths**: The bandwidths mentioned are not explicitly stated, but based on the context, it seems that they refer to the antenna gain contours and beamwidths for different orbital planes.
+   - **Active/Inactive**: The query does not specify whether these satellites are active or inactive. However, based on the context, it appears that some of them might be operational.
+   - **Source/Organization**: The source or origin of these satellites is not explicitly stated in the provided context information.
+
+2. **Sched S Tech Report.pdfconvert.json**
+   - **ID**: 29
+   - **Name**: Response
+   - **Frequencies**: Not specified in the query, but based on the content, it appears to be related to a satellite network.
+   - **Bandwidths**: The bandwidths mentioned are not explicitly stated, but based on the context, it seems that they refer to the antenna gain contours and beamwidths for different orbital planes.
+   - **Active/Inactive**: The query does not specify whether this satellite is active or inactive. However, based on the context, it appears that some of them might be operational.
+   - **Source/Organization**: The source or origin of this satellite is not explicitly stated in the provided context information.
+
+In summary, the satellites mentioned in the provided context information are:
+
+- MuSat 2-3 Antenna Ga.pdfconvert.json
+- Sched S Tech Report.pdfconvert.json
+Status: SUCCESS
+----------------------------------------

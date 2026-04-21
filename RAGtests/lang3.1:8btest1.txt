@@ -1,0 +1,19 @@
+Starting RAG Pipeline Test...
+RAG System Test Results
+==================================================
+
+Test 1: Describe satellite in terms of ID, Name, MHz Frequency, kHz Bandwidth, Active or inactive, source, orbit type
+----------------------------------------
+Response: There is no mention of a "satellite" in the provided context information. The text appears to be related to a PDF file and its metadata, but it does not contain any information about satellites.
+
+However, if we were to extract some relevant information from the context:
+
+* There are links (objects 31-37) that point to external URLs, which might be related to satellite communications or data transmission.
+* The PDF file has metadata associated with it, including author and title information, but no specific details about satellites.
+
+If you'd like me to describe something else based on the context, please let me know!
+Status: SUCCESS
+----------------------------------------
+
+RAG system is working correctly!
+You can now use the query_engine to ask questions about your documents.

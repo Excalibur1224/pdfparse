@@ -1,0 +1,24 @@
+Starting RAG Pipeline Test...
+RAG System Test Results
+==================================================
+
+Test 1: Describe satellite in terms of ID, Name, frequencies and bandwidths, Active or inactive, source or origin, orbit type
+----------------------------------------
+Response: Based on the provided context information about the PDF file, here's a description of satellites in terms of ID, Name, frequencies and bandwidths, Active or inactive, source or origin, and orbit type:
+
+- **ID**: The satellite's identification number is not explicitly mentioned in the given text. However, based on common satellite naming conventions, it can be inferred that the ID might be related to its designation (e.g., "Sched S Tech Report" suggests a specific satellite).
+
+- **Name**: There are no explicit names provided for the satellites in the given context.
+
+- **Frequencies and Bandwidths**: The frequencies mentioned range from 2.4 GHz to 6 GHz, which could be indicative of various satellite communications systems (e.g., GPS, telecommunications). However, without further information, it's challenging to determine specific frequency allocations or bandwidths associated with these satellites.
+
+- **Active or Inactive**: There is no indication in the provided context whether any of the mentioned satellites are active or inactive. Typically, active satellites would be operational and transmitting signals, while inactive ones might not be transmitting at all.
+
+- **Source or Origin**: The origin of the satellite(s) is not specified in the given text. It could be a government agency (e.g., FCC), a private company, or an organization with unknown affiliations.
+
+- **Orbit Type**: There are various types of orbits satellites can have, including Low Earth Orbit (LEO), Medium Earth Orbit (MEO), Geostationary Orbit (GEO), and others. Without specific information about the satellite(s) in question, it's difficult to determine their orbit type.
+Status: SUCCESS
+----------------------------------------
+
+RAG system is working correctly!
+You can now use the query_engine to ask questions about your documents.

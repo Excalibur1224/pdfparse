@@ -1,0 +1,16 @@
+Starting RAG Pipeline Test...
+RAG System Test Results
+==================================================
+
+Test 1: Describe satellite in terms of ID, Name, frequencies and bandwidths, Active or inactive, source or origin, orbit type
+----------------------------------------
+Response: Based on the provided JSON data, here is a description of satellites in terms of ID, Name, frequencies and bandwidths, Active or inactive, source or origin, and orbit type:
+
+- **ID**: Various IDs are mentioned throughout the JSON data, such as "#/texts/551", "#/texts/552", etc. These IDs likely correspond to specific pages within a PDF document.
+- **Name**: The names of satellites are provided in various locations, including "#/texts/215" and "#/texts/216". However, no single name is mentioned across multiple entries. It's possible that the same satellite has different names in different contexts or documents.
+- **Frequencies and Bandwidths**: Satellite frequencies and bandwidths are mentioned for several satellites, such as "furniture" (18 GHz), "HSR Tx antenna footprints Hartebeesthoek station at nadir" (2.4 GHz), and "MuSat 2-3 Antenna Ga" (29 GHz). However, the specific frequency and bandwidth values are not provided.
+- **Active or Inactive**: The status of satellites is mentioned in various entries, such as "#/texts/554" with a level of 1, indicating that it is an active satellite. Other entries do not provide information on the satellite's status.
+- **Source or Origin**: Satellite sources or origins are mentioned for several satellites, including "MuSat 2-3 Antenna Ga", which originates from Hartebeesthoek station at nadir, and "HSR Tx antenna footprints Hartebeesthoek station at nadir", which also originates from the same location.
+- **Orbit Type**: The orbit type of satellites is mentioned for several entries, including "#/texts/215" with a label of "page_header", indicating that it orbits the Earth in a non-satellite orbit. Other entries do not provide information on the satellite's orbit type.
+Status: SUCCESS
+----------------------------------------

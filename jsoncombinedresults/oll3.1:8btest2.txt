@@ -1,0 +1,28 @@
+Starting RAG Pipeline Test...
+RAG System Test Results
+==================================================
+
+Test 1: Describe satellite in terms of ID, Name, frequencies and bandwidths, Active or inactive, source or origin, orbit type
+----------------------------------------
+Response: Based on the provided context, it appears that there are two satellites mentioned: MuSat-2 and MuSat-3. Here is a description of each:
+
+1. **MuSat-2**:
+	* ID: Not specified
+	* Name: MuSat-2
+	* Frequencies: Not specified
+	* Bandwidths: Not specified
+	* Active/Inactive: Active (part of a new NGSO climate-focused satellite network)
+	* Source/Origin: Not specified
+	* Orbit Type: Non-Geostationary Orbit (NGSO)
+2. **MuSat-3**:
+	* ID: Not specified
+	* Name: MuSat-3
+	* Frequencies: Not specified
+	* Bandwidths: Not specified
+	* Active/Inactive: Active (part of a new NGSO climate-focused satellite network)
+	* Source/Origin: Not specified
+	* Orbit Type: Non-Geostationary Orbit (NGSO)
+
+Note that the context does not provide detailed information about the satellites' frequencies, bandwidths, or source/origin.
+Status: SUCCESS
+----------------------------------------

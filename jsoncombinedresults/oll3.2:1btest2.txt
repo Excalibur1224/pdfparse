@@ -1,0 +1,25 @@
+Starting RAG Pipeline Test...
+RAG System Test Results
+==================================================
+
+Test 1: Describe satellite in terms of ID, Name, frequencies and bandwidths, Active or inactive, source or origin, orbit type
+----------------------------------------
+Response: Based on the provided context information, here is a description of the satellites mentioned:
+
+1. **MuSat 2-3 Antenna Ga.pdfconvert.json**
+   - **ID**: Not explicitly stated in the query.
+   - **Name**: MuSat 2 and Musat 3 (note: "Musat" seems to be an abbreviation for "Mars Orbiter Satellite", but it's not clear if this is a typo or part of the actual satellite names).
+   - **Frequencies**: Not specified, but based on the context, it appears to be related to radio frequencies.
+   - **Bandwidths**: Not specified, but likely in the range of millimeter waves (mmw) or submillimeter wavelengths (SMMW), given the mention of "space stations" and "antenna beams".
+   - **Active/Inactive**: Active satellites are typically operational and transmitting data, while inactive satellites may be in a dormant state.
+   - **Source/Organization**: The text mentions "space stations", which suggests that these satellites are part of a larger space-based network or system. However, the exact source or origin is not specified.
+
+2. **Sched S Tech Report.pdfconvert.json**
+   - **ID**: 29
+   - **Name**: Response
+   - **Frequencies**: Not specified.
+   - **Bandwidths**: Not specified.
+   - **Active/Inactive**: Active (as indicated by the presence of data in the "Response" column).
+   - **Source/Organization**: The text mentions "Mars Orbiter Satellite", which suggests that this is an active satellite part of a larger Mars exploration mission.
+Status: SUCCESS
+----------------------------------------
