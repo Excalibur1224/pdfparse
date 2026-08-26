@@ -32,6 +32,8 @@ elif(embed == 'langchain'):
         embed_model = langembeddings(model="llama3.2:1b")
     elif model == "3.1":
         embed_model = langembeddings(model="llama3.1:8b")
+    elif model == "gemma":
+        embed_model = langembeddings(model="gemma4:e2b")
 
 if(model == "3.2"):
     llm = Ollama(
@@ -45,6 +47,12 @@ elif(model == "3.1"):
         request_timeout=300.0,
         temperature=0.1,          # Lower temperature for more factual responses
         )
+elif(model == "gemma"):
+    llm = Ollama(
+        model="gemma4:e2b",
+        request_timeout=300.0,
+        temperature=0.1,
+    )
 
 # Set global configurations
 Settings.embed_model = embed_model
