@@ -3,14 +3,8 @@ from llama_index.core import VectorStoreIndex, SimpleDirectoryReader, Settings
 from llama_index.llms.ollama import Ollama
 from llama_index.embeddings.ollama import OllamaEmbedding
 from langchain_ollama import OllamaEmbeddings as langembeddings
-
-# from llama_index.readers.json import JSONReader
-# from llama_index.core import VectorStoreIndex
-# reader = JSONReader(clean_json=True)
-# documents = reader.load_data(input_file="data.json")
-# index = VectorStoreIndex.from_documents(documents)
-# query_engine = index.as_query_engine()
-# response = query_engine.query("What is in this JSON?")
+prompt = "Describe satellite from description in terms of Name, frequencies and bandwidths, Active or inactive, source or company origin, and orbit type" \
+"in the order as described as comma seperated values for insertion into a database"
 
 import sys
 
@@ -58,7 +52,7 @@ elif(model == "gemma"):
 Settings.embed_model = embed_model
 Settings.llm = llm
 
-def load_and_index_documents(data_dir="pdfs"):
+def load_and_index_documents(data_dir="fcc_recent_filings"):
     """Load documents and create vector index"""
 
     # Check if data directory exists
@@ -100,15 +94,14 @@ def test_rag_system():
 
         # Sample test queries
         test_queries = [
-            # "Describe satellite in terms of ID, Name, MHz Frequency, kHz Bandwidth, Active or inactive, source, orbit type",
-            "Describe satellite in terms of ID, Name, frequencies and bandwidths, Active or inactive, source or origin, orbit type",
+            prompt,
         ]
 
-        print("RAG System Test Results")
-        print("=" * 50)
+        # print("RAG System Test Results")
+        # print("=" * 50)
 
         for i, query in enumerate(test_queries, 1):
-            print(f"\nTest {i}: {query}")
+            print(query)
             print("-" * 40)
 
             try:
