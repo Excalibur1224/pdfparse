@@ -1,0 +1,485 @@
+{
+  "schema_name": "DoclingDocument",
+  "version": "1.9.0",
+  "name": "Exhibit A - E980137 Renewal Narrative Statement (9.9.2026)",
+  "origin": {
+    "mimetype": "application/pdf",
+    "binary_hash": 7183343585899967797,
+    "filename": "Exhibit A - E980137 Renewal Narrative Statement (9.9.2026).pdf"
+  },
+  "furniture": {
+    "self_ref": "#/furniture",
+    "children": [],
+    "content_layer": "furniture",
+    "name": "_root_",
+    "label": "unspecified"
+  },
+  "body": {
+    "self_ref": "#/body",
+    "children": [
+      {
+        "$ref": "#/texts/0"
+      },
+      {
+        "$ref": "#/texts/1"
+      },
+      {
+        "$ref": "#/texts/2"
+      },
+      {
+        "$ref": "#/texts/3"
+      },
+      {
+        "$ref": "#/texts/4"
+      },
+      {
+        "$ref": "#/texts/5"
+      },
+      {
+        "$ref": "#/texts/6"
+      },
+      {
+        "$ref": "#/texts/7"
+      },
+      {
+        "$ref": "#/texts/8"
+      },
+      {
+        "$ref": "#/texts/9"
+      },
+      {
+        "$ref": "#/texts/10"
+      },
+      {
+        "$ref": "#/texts/11"
+      },
+      {
+        "$ref": "#/texts/12"
+      },
+      {
+        "$ref": "#/texts/13"
+      }
+    ],
+    "content_layer": "body",
+    "name": "_root_",
+    "label": "unspecified"
+  },
+  "groups": [],
+  "texts": [
+    {
+      "self_ref": "#/texts/0",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "furniture",
+      "label": "page_header",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 313.97,
+            "t": 753.1560000000001,
+            "r": 543.1,
+            "b": 729.024,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            55
+          ]
+        }
+      ],
+      "orig": "COMSAT LLC Application for Renewal of Call Sign E980137",
+      "text": "COMSAT LLC Application for Renewal of Call Sign E980137"
+    },
+    {
+      "self_ref": "#/texts/1",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "furniture",
+      "label": "page_header",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 384.79,
+            "t": 725.556,
+            "r": 543.1,
+            "b": 715.224,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            30
+          ]
+        }
+      ],
+      "orig": "Exhibit A -Narrative Statement",
+      "text": "Exhibit A -Narrative Statement"
+    },
+    {
+      "self_ref": "#/texts/2",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 192.98,
+            "t": 683.9440000000001,
+            "r": 422.11,
+            "b": 673.8505454545455,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            30
+          ]
+        }
+      ],
+      "orig": "EXHIBIT A -NARRATIVE STATEMENT",
+      "text": "EXHIBIT A -NARRATIVE STATEMENT",
+      "level": 1
+    },
+    {
+      "self_ref": "#/texts/3",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 72.024,
+            "t": 656.5360000000001,
+            "r": 543.112,
+            "b": 591.004,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            192
+          ]
+        }
+      ],
+      "orig": "Pursuant to COMSAT LLC's ('COMSAT') application for renewal of Call Sign E980137 ('Application'), COMSAT submits this narrative statement to address certain discrete points of its Application.",
+      "text": "Pursuant to COMSAT LLC's ('COMSAT') application for renewal of Call Sign E980137 ('Application'), COMSAT submits this narrative statement to address certain discrete points of its Application."
+    },
+    {
+      "self_ref": "#/texts/4",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 90.024,
+            "t": 573.544,
+            "r": 217.73,
+            "b": 563.4505454545454,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            17
+          ]
+        }
+      ],
+      "orig": "I. Main Form 312R",
+      "text": "I. Main Form 312R",
+      "level": 1
+    },
+    {
+      "self_ref": "#/texts/5",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 72.024,
+            "t": 546.106,
+            "r": 543.0939999999998,
+            "b": 508.174,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            159
+          ]
+        }
+      ],
+      "orig": "In the ICFS system, COMSAT is unable to select any options from the drop-down menu under Question 17a of the Main Form 312R. For this reason, it is left blank.",
+      "text": "In the ICFS system, COMSAT is unable to select any options from the drop-down menu under Question 17a of the Main Form 312R. For this reason, it is left blank."
+    },
+    {
+      "self_ref": "#/texts/6",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 72.024,
+            "t": 490.90599999999995,
+            "r": 543.1,
+            "b": 397.774,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            368
+          ]
+        }
+      ],
+      "orig": "To remain consistent with previous filings under Call Sign E980137, COMSAT references multiple Sites in Schedule B, despite all Sites and antennas on the Application being located within the same teleport location in Santa Paula, California. For this reason, COMSAT answers Question 17c of the Main Form 312R as reflecting that the Application includes multiple Sites.",
+      "text": "To remain consistent with previous filings under Call Sign E980137, COMSAT references multiple Sites in Schedule B, despite all Sites and antennas on the Application being located within the same teleport location in Santa Paula, California. For this reason, COMSAT answers Question 17c of the Main Form 312R as reflecting that the Application includes multiple Sites."
+    },
+    {
+      "self_ref": "#/texts/7",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 72.024,
+            "t": 380.506,
+            "r": 542.9379999999998,
+            "b": 287.354,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            334
+          ]
+        }
+      ],
+      "orig": "As  regards  COMSAT's  response  to  Question  25d  of  the  Main  Form  312R,  COMSAT understands that the requirements of 47 C.F.R. 25.137 are not applicable because the Points of Communication  identified  in  the  Schedule  B  have  already  obtained  U.S.  market  access authorization and are on the Approved Space Station List.",
+      "text": "As  regards  COMSAT's  response  to  Question  25d  of  the  Main  Form  312R,  COMSAT understands that the requirements of 47 C.F.R. 25.137 are not applicable because the Points of Communication  identified  in  the  Schedule  B  have  already  obtained  U.S.  market  access authorization and are on the Approved Space Station List."
+    },
+    {
+      "self_ref": "#/texts/8",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 90.024,
+            "t": 269.894,
+            "r": 186.02,
+            "b": 259.8005454545455,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            14
+          ]
+        }
+      ],
+      "orig": "II. Schedule B",
+      "text": "II. Schedule B",
+      "level": 1
+    },
+    {
+      "self_ref": "#/texts/9",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 72.024,
+            "t": 242.486,
+            "r": 543.088,
+            "b": 121.72399999999993,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            471
+          ]
+        },
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 72.024,
+            "t": 717.1360000000001,
+            "r": 542.8799999999998,
+            "b": 679.2040000000001,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            472,
+            630
+          ]
+        }
+      ],
+      "orig": "Pursuant to Schedule B, Question 3(b) for Site 1-16.4M, COMSAT understands that frequency coordination is required given antenna 16.4M 's use of extended C-band frequencies. With respect to coordination, please be aware that antenna 16.4M is a longstanding authorized facility by the Federal  Communications  Commission  ('FCC') .  The  FCC  has  previously  authorized  the operations described in the Application for this antenna based on frequency coordination reports previously submitted by the Applicant and its predecessors. Those frequency coordination reports are hereby incorporated by reference into this Application. 1",
+      "text": "Pursuant to Schedule B, Question 3(b) for Site 1-16.4M, COMSAT understands that frequency coordination is required given antenna 16.4M 's use of extended C-band frequencies. With respect to coordination, please be aware that antenna 16.4M is a longstanding authorized facility by the Federal  Communications  Commission  ('FCC') .  The  FCC  has  previously  authorized  the operations described in the Application for this antenna based on frequency coordination reports previously submitted by the Applicant and its predecessors. Those frequency coordination reports are hereby incorporated by reference into this Application. 1"
+    },
+    {
+      "self_ref": "#/texts/10",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 72.024,
+            "t": 661.936,
+            "r": 543.0519999999998,
+            "b": 485.974,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            589
+          ]
+        }
+      ],
+      "orig": "COMSAT is not seeking any modification to the coordinated parameters, and no changes have been made to the technical characteristics on which the prior coordination was based. Accordingly, the previously submitted coordination remains valid and continues to support the operations for which  renewal  is  requested,  and  COMSAT  will  continue  to  comply  with  such  frequency coordination parameters. Additionally, COMSAT,  concurrently with submission of this Application,  will  reaffirm  its  24-hour  emergency  contact  phone  number  to  relevant  federal agencies: 805-933-4010.",
+      "text": "COMSAT is not seeking any modification to the coordinated parameters, and no changes have been made to the technical characteristics on which the prior coordination was based. Accordingly, the previously submitted coordination remains valid and continues to support the operations for which  renewal  is  requested,  and  COMSAT  will  continue  to  comply  with  such  frequency coordination parameters. Additionally, COMSAT,  concurrently with submission of this Application,  will  reaffirm  its  24-hour  emergency  contact  phone  number  to  relevant  federal agencies: 805-933-4010."
+    },
+    {
+      "self_ref": "#/texts/11",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 72.024,
+            "t": 468.70599999999996,
+            "r": 543.1239999999999,
+            "b": 265.154,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            759
+          ]
+        }
+      ],
+      "orig": "Finally, this Application proposes no changes to the operational parameters at the Santa Paula, California teleport. Any differences between the data in this Application 's Schedule B and the data reflected  in  the  current  authorization  result  solely  from  necessary  corrections  to  the  prior authorization and the resulting auto-calculations generated by the FCC's ICFS system , 2 which more accurately reflect the existing operating parameters at the Sites. COMSAT confirms that these  variations  are  administrative  in  nature  and  do  not  represent  any  modification  to  the authorized infrastructure or its  operation.  Accordingly,  the  facility  continues  to  operate  in  full conformance with the terms of its existing authorization.",
+      "text": "Finally, this Application proposes no changes to the operational parameters at the Santa Paula, California teleport. Any differences between the data in this Application 's Schedule B and the data reflected  in  the  current  authorization  result  solely  from  necessary  corrections  to  the  prior authorization and the resulting auto-calculations generated by the FCC's ICFS system , 2 which more accurately reflect the existing operating parameters at the Sites. COMSAT confirms that these  variations  are  administrative  in  nature  and  do  not  represent  any  modification  to  the authorized infrastructure or its  operation.  Accordingly,  the  facility  continues  to  operate  in  full conformance with the terms of its existing authorization."
+    },
+    {
+      "self_ref": "#/texts/12",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "footnote",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 72.024,
+            "t": 116.47064,
+            "r": 286.7,
+            "b": 106.82430545454542,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            49
+          ]
+        }
+      ],
+      "orig": "1 See, e.g. , File Number SES-MFS-20140630-00548.",
+      "text": "1 See, e.g. , File Number SES-MFS-20140630-00548."
+    },
+    {
+      "self_ref": "#/texts/13",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "footnote",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 72.024,
+            "t": 105.07064000000003,
+            "r": 542.5781199999999,
+            "b": 72.39071999999999,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            298
+          ]
+        }
+      ],
+      "orig": "2  For example, the range of satellite arc western limit for antenna 16.4M in the frequency range 6454.4-6456.6 MHz has been updated to 179 degrees East to ensure the resulting antenna elevation and azimuth angle limits are calculated to align with the correct operational arc of the 16.4M antenna.",
+      "text": "2  For example, the range of satellite arc western limit for antenna 16.4M in the frequency range 6454.4-6456.6 MHz has been updated to 179 degrees East to ensure the resulting antenna elevation and azimuth angle limits are calculated to align with the correct operational arc of the 16.4M antenna."
+    }
+  ],
+  "pictures": [],
+  "tables": [],
+  "key_value_items": [],
+  "form_items": [],
+  "pages": {
+    "1": {
+      "size": {
+        "width": 612.0,
+        "height": 792.0
+      },
+      "page_no": 1
+    },
+    "2": {
+      "size": {
+        "width": 612.0,
+        "height": 792.0
+      },
+      "page_no": 2
+    }
+  }
+}

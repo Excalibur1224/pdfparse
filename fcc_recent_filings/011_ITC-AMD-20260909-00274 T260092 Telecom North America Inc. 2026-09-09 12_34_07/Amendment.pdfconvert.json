@@ -1,0 +1,315 @@
+{
+  "schema_name": "DoclingDocument",
+  "version": "1.9.0",
+  "name": "Amendment",
+  "origin": {
+    "mimetype": "application/pdf",
+    "binary_hash": 15048466811809619291,
+    "filename": "Amendment.pdf"
+  },
+  "furniture": {
+    "self_ref": "#/furniture",
+    "children": [],
+    "content_layer": "furniture",
+    "name": "_root_",
+    "label": "unspecified"
+  },
+  "body": {
+    "self_ref": "#/body",
+    "children": [
+      {
+        "$ref": "#/texts/0"
+      },
+      {
+        "$ref": "#/texts/1"
+      },
+      {
+        "$ref": "#/texts/2"
+      },
+      {
+        "$ref": "#/texts/3"
+      },
+      {
+        "$ref": "#/texts/4"
+      },
+      {
+        "$ref": "#/texts/5"
+      },
+      {
+        "$ref": "#/texts/6"
+      },
+      {
+        "$ref": "#/texts/7"
+      },
+      {
+        "$ref": "#/texts/8"
+      }
+    ],
+    "content_layer": "body",
+    "name": "_root_",
+    "label": "unspecified"
+  },
+  "groups": [],
+  "texts": [
+    {
+      "self_ref": "#/texts/0",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 214.32000750000003,
+            "t": 716.7689583,
+            "r": 400.38650679263844,
+            "b": 706.9178310863637,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            27
+          ]
+        }
+      ],
+      "orig": "SECTION 214 T/C APPLICATION",
+      "text": "SECTION 214 T/C APPLICATION",
+      "level": 1
+    },
+    {
+      "self_ref": "#/texts/1",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 206.04000075000002,
+            "t": 689.1689613,
+            "r": 408.661105903543,
+            "b": 665.5178273363637,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            50
+          ]
+        }
+      ],
+      "orig": "TRANSFER OF CONTROL OF TELECOM NORTH AMERICA, INC.",
+      "text": "TRANSFER OF CONTROL OF TELECOM NORTH AMERICA, INC.",
+      "level": 1
+    },
+    {
+      "self_ref": "#/texts/2",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 212.75999475000003,
+            "t": 647.7689522999999,
+            "r": 398.7469574268871,
+            "b": 637.9178250863636,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            31
+          ]
+        }
+      ],
+      "orig": "FILE NO. ITC-T/C-20240222-00039",
+      "text": "FILE NO. ITC-T/C-20240222-00039",
+      "level": 1
+    },
+    {
+      "self_ref": "#/texts/3",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 207.120003,
+            "t": 620.1689613,
+            "r": 407.6673084910101,
+            "b": 610.3178340863636,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            25
+          ]
+        }
+      ],
+      "orig": "AMENDMENT TO ATTACHMENT 1",
+      "text": "AMENDMENT TO ATTACHMENT 1",
+      "level": 1
+    },
+    {
+      "self_ref": "#/texts/4",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 72.0,
+            "t": 592.5689478,
+            "r": 542.2598649091726,
+            "b": 527.5178385863636,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            468
+          ]
+        }
+      ],
+      "orig": "Telecom North America, Inc. ('Applicant') files this amendment in response to the Commission's request for clarification on the ownership structure of the Applicant set forth in the above-referenced application.  The application notified the Commission of a pro forma transfer of control of the Applicant from Carlyle Kft. to Ki Atlantic Holdings limited ('Ki Atlantic'). The Applicant holds an International Section 214 Authorization, File No. ITC-214-20031031-00499.",
+      "text": "Telecom North America, Inc. ('Applicant') files this amendment in response to the Commission's request for clarification on the ownership structure of the Applicant set forth in the above-referenced application.  The application notified the Commission of a pro forma transfer of control of the Applicant from Carlyle Kft. to Ki Atlantic Holdings limited ('Ki Atlantic'). The Applicant holds an International Section 214 Authorization, File No. ITC-214-20031031-00499."
+    },
+    {
+      "self_ref": "#/texts/5",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 72.0,
+            "t": 509.7689523,
+            "r": 506.14791298774287,
+            "b": 486.11782958636365,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            92
+          ]
+        }
+      ],
+      "orig": "Ki Corporation Limited ('Ki Corp') holds a 100% voting and equity interest in Ki Atlantic. 1",
+      "text": "Ki Corporation Limited ('Ki Corp') holds a 100% voting and equity interest in Ki Atlantic. 1"
+    },
+    {
+      "self_ref": "#/texts/6",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 72.0,
+            "t": 468.3689658,
+            "r": 536.4873798538248,
+            "b": 403.3178340863637,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            428
+          ]
+        }
+      ],
+      "orig": "The equity shares of Ki Corp are all held by the Eurona Foundation, on behalf of various beneficial BVI shareholder trusts (collectively, the 'BVI Trusts').  Each of the BVI Trusts holds an equity interest of less than 25% in Ki Corp, but no disclosable voting interest in Ki Corp and Ki Atlantic respectively.  The trustee for the BVI Trusts has no disclosable equity or voting interest in Ki Corp and Ki Atlantic respectively.",
+      "text": "The equity shares of Ki Corp are all held by the Eurona Foundation, on behalf of various beneficial BVI shareholder trusts (collectively, the 'BVI Trusts').  Each of the BVI Trusts holds an equity interest of less than 25% in Ki Corp, but no disclosable voting interest in Ki Corp and Ki Atlantic respectively.  The trustee for the BVI Trusts has no disclosable equity or voting interest in Ki Corp and Ki Atlantic respectively."
+    },
+    {
+      "self_ref": "#/texts/7",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 72.0,
+            "t": 385.5689710500001,
+            "r": 540.2815091927279,
+            "b": 334.3178340863637,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            326
+          ]
+        }
+      ],
+      "orig": "Philip Kirsh, Linda Mirels, Ron Sandler, Wendy Fisher, Sebastian Prichard Jones and Interstock Anstalt are the six council members of the Eurona Foundation II, being the sole voting shareholder of Ki Corp.  Each council member holds a disclosable voting interest 16.6% in Ki Corp, and therefore by attribution, in Ki Atlantic.",
+      "text": "Philip Kirsh, Linda Mirels, Ron Sandler, Wendy Fisher, Sebastian Prichard Jones and Interstock Anstalt are the six council members of the Eurona Foundation II, being the sole voting shareholder of Ki Corp.  Each council member holds a disclosable voting interest 16.6% in Ki Corp, and therefore by attribution, in Ki Atlantic."
+    },
+    {
+      "self_ref": "#/texts/8",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "footnote",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 72.0,
+            "t": 116.61452733750002,
+            "r": 535.7982877104168,
+            "b": 72.56460782272734,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            398
+          ]
+        }
+      ],
+      "orig": "1 The original filing listed Ki Unlimited as owning Ki Atlantic.  Ki Corp in turn owned Ki Unlimited.  Ki Corp held 100% of the voting and equiy interests in Ki Unlimited, and Ki Unlimited held 100% of the voting and equity interests in Kit Atlantic.  Ki Unlimited has been removed from the ownership structure, and Ki Corp now directly holds 100% of the voting and equity interests in Ki Atlantic.",
+      "text": "1 The original filing listed Ki Unlimited as owning Ki Atlantic.  Ki Corp in turn owned Ki Unlimited.  Ki Corp held 100% of the voting and equiy interests in Ki Unlimited, and Ki Unlimited held 100% of the voting and equity interests in Kit Atlantic.  Ki Unlimited has been removed from the ownership structure, and Ki Corp now directly holds 100% of the voting and equity interests in Ki Atlantic."
+    }
+  ],
+  "pictures": [],
+  "tables": [],
+  "key_value_items": [],
+  "form_items": [],
+  "pages": {
+    "1": {
+      "size": {
+        "width": 612.0,
+        "height": 792.0
+      },
+      "page_no": 1
+    }
+  }
+}

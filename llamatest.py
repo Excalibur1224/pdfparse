@@ -3,18 +3,19 @@ from llama_index.core import VectorStoreIndex, SimpleDirectoryReader, Settings
 from llama_index.llms.ollama import Ollama
 from llama_index.embeddings.ollama import OllamaEmbedding
 from langchain_ollama import OllamaEmbeddings as langembeddings
-prompt = "Describe satellite from description in terms of Name, frequencies and bandwidths, Active or inactive, source or company origin, and orbit type" \
-"in the order as described as comma seperated values for insertion into a database"
+prompt = "Describe satellite from description in terms of satellite name, frequencies, Active or inactive, source or company origin, and orbit type" \
+"in the order as described as structured json file"
 
 import sys
 
-# Ensure at least two arguments are provided
-if len(sys.argv) < 3:
-    print("Usage: python script.py <string1> <string2>")
+# model, embed, parent_folder, output_folder
+if len(sys.argv) < 5:
     sys.exit(1)
 
 model = sys.argv[1]
 embed = sys.argv[2]
+parent_folder = sys.argv[3]
+output_folder = sys.argv[4]
 
 if(embed == 'llama'):
     embed_model = OllamaEmbedding(
@@ -52,21 +53,18 @@ elif(model == "gemma"):
 Settings.embed_model = embed_model
 Settings.llm = llm
 
-def load_and_index_documents(data_dir="fcc_recent_filings"):
-    """Load documents and create vector index"""
+def load_and_index_documents(data_dir):
+    """Load documents (json/md only) from a single folder and create vector index"""
 
-    # Check if data directory exists
     if not Path(data_dir).exists():
-        raise FileNotFoundError(f"Data directory '{data_dir}' not found. Please create it and add your PDF files.")
+        raise FileNotFoundError(f"Data directory '{data_dir}' not found.")
 
-    # Load documents from the data folder
-    docs = SimpleDirectoryReader(data_dir).load_data()
+    # Only json and markdown files feed the LLM workflow
+    docs = SimpleDirectoryReader(data_dir, required_exts=[".json", ".md"]).load_data()
 
     if not docs:
-        raise ValueError(f"No documents found in {data_dir}")
+        raise ValueError(f"No .json or .md documents found in {data_dir}")
 
-
-    # Build vector index from documents
     index = VectorStoreIndex.from_documents(docs, embed_model=embed_model)
 
     return index
@@ -82,48 +80,41 @@ def create_query_engine(index, similarity_top_k=3):
 
     return query_engine
 
-def test_rag_system():
-    """Test the RAG system with sample queries"""
+def run_rag_query(data_dir):
+    """Run the RAG system against a single folder's documents; return LLM output only"""
 
     try:
-        # Load documents and create index
-        index = load_and_index_documents()
-
-        # Create query engine
+        index = load_and_index_documents(data_dir)
         query_engine = create_query_engine(index)
+        response = query_engine.query(prompt)
+        return str(response)
+    except Exception:
+        return None
 
-        # Sample test queries
-        test_queries = [
-            prompt,
-        ]
+def run_for_all_subfolders(parent_folder, output_folder):
+    """Iterate every subfolder of parent_folder; write one output file per subfolder"""
 
-        # print("RAG System Test Results")
-        # print("=" * 50)
+    parent = Path(parent_folder)
+    if not parent.exists() or not parent.is_dir():
+        return
 
-        for i, query in enumerate(test_queries, 1):
-            print(query)
-            print("-" * 40)
+    out_dir = Path(output_folder)
+    out_dir.mkdir(parents=True, exist_ok=True)
 
-            try:
-                response = query_engine.query(query)
-                print(f"Response: {response}")
-                print(f"Status: SUCCESS")
-            except Exception as e:
-                print(f"Error: {str(e)}")
-                print(f"Status: FAILED")
+    subfolders = sorted([f for f in parent.iterdir() if f.is_dir()])
 
-            print("-" * 40)
+    for subfolder in subfolders:
+        has_target_files = any(
+            f.suffix.lower() in {".json", ".md"} for f in subfolder.iterdir() if f.is_file()
+        )
+        if not has_target_files:
+            continue
 
-        return True
-
-    except Exception as e:
-        print(f"System Error: {str(e)}")
-        return False
+        response = run_rag_query(str(subfolder))
+        if response is not None:
+            out_file = out_dir / f"{subfolder.name}.{embed}_{model}.txt"
+            out_file.write_text(response)
 
 # Main execution
 if __name__ == "__main__":
-
-    print("Starting RAG Pipeline Test...")
-
-    # Test the complete system
-    success = test_rag_system()
+    run_for_all_subfolders(parent_folder, output_folder)

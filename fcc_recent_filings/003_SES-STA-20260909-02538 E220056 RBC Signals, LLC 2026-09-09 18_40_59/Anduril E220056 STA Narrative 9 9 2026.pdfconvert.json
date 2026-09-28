@@ -1,0 +1,4285 @@
+{
+  "schema_name": "DoclingDocument",
+  "version": "1.9.0",
+  "name": "Anduril E220056 STA Narrative 9 9 2026",
+  "origin": {
+    "mimetype": "application/pdf",
+    "binary_hash": 15641786892013477956,
+    "filename": "Anduril E220056 STA Narrative 9 9 2026.pdf"
+  },
+  "furniture": {
+    "self_ref": "#/furniture",
+    "children": [],
+    "content_layer": "furniture",
+    "name": "_root_",
+    "label": "unspecified"
+  },
+  "body": {
+    "self_ref": "#/body",
+    "children": [
+      {
+        "$ref": "#/texts/0"
+      },
+      {
+        "$ref": "#/tables/0"
+      },
+      {
+        "$ref": "#/texts/1"
+      },
+      {
+        "$ref": "#/texts/2"
+      },
+      {
+        "$ref": "#/texts/3"
+      },
+      {
+        "$ref": "#/texts/4"
+      },
+      {
+        "$ref": "#/texts/5"
+      },
+      {
+        "$ref": "#/texts/6"
+      },
+      {
+        "$ref": "#/texts/7"
+      },
+      {
+        "$ref": "#/texts/8"
+      },
+      {
+        "$ref": "#/texts/9"
+      },
+      {
+        "$ref": "#/texts/10"
+      },
+      {
+        "$ref": "#/texts/11"
+      },
+      {
+        "$ref": "#/texts/12"
+      },
+      {
+        "$ref": "#/texts/13"
+      },
+      {
+        "$ref": "#/texts/14"
+      },
+      {
+        "$ref": "#/texts/15"
+      },
+      {
+        "$ref": "#/texts/16"
+      },
+      {
+        "$ref": "#/tables/1"
+      },
+      {
+        "$ref": "#/texts/17"
+      },
+      {
+        "$ref": "#/texts/18"
+      },
+      {
+        "$ref": "#/texts/19"
+      },
+      {
+        "$ref": "#/texts/20"
+      },
+      {
+        "$ref": "#/texts/21"
+      },
+      {
+        "$ref": "#/texts/22"
+      },
+      {
+        "$ref": "#/texts/23"
+      },
+      {
+        "$ref": "#/texts/24"
+      },
+      {
+        "$ref": "#/texts/25"
+      },
+      {
+        "$ref": "#/texts/26"
+      },
+      {
+        "$ref": "#/texts/27"
+      },
+      {
+        "$ref": "#/texts/28"
+      },
+      {
+        "$ref": "#/texts/29"
+      },
+      {
+        "$ref": "#/texts/30"
+      },
+      {
+        "$ref": "#/texts/31"
+      },
+      {
+        "$ref": "#/texts/32"
+      },
+      {
+        "$ref": "#/texts/33"
+      },
+      {
+        "$ref": "#/texts/34"
+      },
+      {
+        "$ref": "#/texts/35"
+      },
+      {
+        "$ref": "#/texts/36"
+      },
+      {
+        "$ref": "#/texts/37"
+      },
+      {
+        "$ref": "#/texts/38"
+      },
+      {
+        "$ref": "#/texts/39"
+      },
+      {
+        "$ref": "#/texts/40"
+      },
+      {
+        "$ref": "#/texts/41"
+      },
+      {
+        "$ref": "#/texts/42"
+      },
+      {
+        "$ref": "#/texts/43"
+      },
+      {
+        "$ref": "#/texts/44"
+      },
+      {
+        "$ref": "#/texts/45"
+      },
+      {
+        "$ref": "#/texts/46"
+      },
+      {
+        "$ref": "#/texts/47"
+      },
+      {
+        "$ref": "#/texts/48"
+      },
+      {
+        "$ref": "#/texts/49"
+      },
+      {
+        "$ref": "#/texts/50"
+      },
+      {
+        "$ref": "#/texts/51"
+      },
+      {
+        "$ref": "#/texts/52"
+      },
+      {
+        "$ref": "#/texts/53"
+      },
+      {
+        "$ref": "#/texts/54"
+      },
+      {
+        "$ref": "#/texts/55"
+      },
+      {
+        "$ref": "#/texts/56"
+      },
+      {
+        "$ref": "#/texts/57"
+      },
+      {
+        "$ref": "#/texts/58"
+      },
+      {
+        "$ref": "#/texts/59"
+      },
+      {
+        "$ref": "#/texts/60"
+      },
+      {
+        "$ref": "#/texts/61"
+      },
+      {
+        "$ref": "#/texts/62"
+      },
+      {
+        "$ref": "#/texts/63"
+      },
+      {
+        "$ref": "#/texts/64"
+      },
+      {
+        "$ref": "#/texts/65"
+      },
+      {
+        "$ref": "#/texts/66"
+      },
+      {
+        "$ref": "#/texts/67"
+      },
+      {
+        "$ref": "#/texts/68"
+      },
+      {
+        "$ref": "#/tables/2"
+      },
+      {
+        "$ref": "#/tables/3"
+      }
+    ],
+    "content_layer": "body",
+    "name": "_root_",
+    "label": "unspecified"
+  },
+  "groups": [],
+  "texts": [
+    {
+      "self_ref": "#/texts/0",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 78.025,
+            "t": 656.5160000000001,
+            "r": 155.58,
+            "b": 646.1840000000001,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            16
+          ]
+        }
+      ],
+      "orig": "In the Matter of",
+      "text": "In the Matter of"
+    },
+    {
+      "self_ref": "#/texts/1",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 171.83,
+            "t": 545.794,
+            "r": 443.17,
+            "b": 521.9505454545454,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            51
+          ]
+        }
+      ],
+      "orig": "REQUEST FOR  60-DAY SPECIAL TEMPORARY AUTHORIZATION",
+      "text": "REQUEST FOR  60-DAY SPECIAL TEMPORARY AUTHORIZATION",
+      "level": 1
+    },
+    {
+      "self_ref": "#/texts/2",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 141.55,
+            "t": 518.274,
+            "r": 473.62600000000015,
+            "b": 494.18054545454544,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            75
+          ]
+        }
+      ],
+      "orig": "(Deadhorse UHF Systems Antenna UHF Uplinks and Downlinks Deadhorse, Alaska)",
+      "text": "(Deadhorse UHF Systems Antenna UHF Uplinks and Downlinks Deadhorse, Alaska)"
+    },
+    {
+      "self_ref": "#/texts/3",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 72.025,
+            "t": 463.21599999999995,
+            "r": 531.2519999999998,
+            "b": 314.834,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            514
+          ]
+        }
+      ],
+      "orig": "RBC Signals, LLC ('RBC Signals'), pursuant to Section 25.120 of the Commission's rules, 47 C.F.R. \u00a7 25.120, respectfully seeks a 60day special temporary authorization ('STA') to operate its fixed UHF earth station in Deadhorse, Alaska to conduct telemetry, tracking, and command ('TT&C') and uplinks in portions of the 400 MHz band (Earth-to-space) and TT&C and payload downlink in the 402 MHz band (Space-to-Earth) to support the U.S.-licensed satellite known as Anduril-216 1 , scheduled for launch in July 2026.",
+      "text": "RBC Signals, LLC ('RBC Signals'), pursuant to Section 25.120 of the Commission's rules, 47 C.F.R. \u00a7 25.120, respectfully seeks a 60day special temporary authorization ('STA') to operate its fixed UHF earth station in Deadhorse, Alaska to conduct telemetry, tracking, and command ('TT&C') and uplinks in portions of the 400 MHz band (Earth-to-space) and TT&C and payload downlink in the 402 MHz band (Space-to-Earth) to support the U.S.-licensed satellite known as Anduril-216 1 , scheduled for launch in July 2026."
+    },
+    {
+      "self_ref": "#/texts/4",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 72.025,
+            "t": 297.416,
+            "r": 523.72,
+            "b": 121.53399999999999,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            605
+          ]
+        }
+      ],
+      "orig": "RBC Signals is awaiting a grant of amendment to its earth station application for this same ground system (E220056) to add this satellite as a point of communication to its earth station license 2  with another round of modifications.  RBC Signals respectfully requests the Commission grant this 60-day STA to allow it to provide necessary TT&C support during the pendency of the application for longer-term authority. A grant of this STA will allow for TT&C support for Anduril-216 while the longer-term license works through process. This system previously received an STA permission for this operation.",
+      "text": "RBC Signals is awaiting a grant of amendment to its earth station application for this same ground system (E220056) to add this satellite as a point of communication to its earth station license 2  with another round of modifications.  RBC Signals respectfully requests the Commission grant this 60-day STA to allow it to provide necessary TT&C support during the pendency of the application for longer-term authority. A grant of this STA will allow for TT&C support for Anduril-216 while the longer-term license works through process. This system previously received an STA permission for this operation."
+    },
+    {
+      "self_ref": "#/texts/5",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "footnote",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 72.025,
+            "t": 100.995,
+            "r": 335.4,
+            "b": 93.1790606060606,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            77
+          ]
+        }
+      ],
+      "orig": "1 See Anduril 0005-EX-ST-2026 via OET, Callsign WA9XOO (Granted April 4 2026)",
+      "text": "1 See Anduril 0005-EX-ST-2026 via OET, Callsign WA9XOO (Granted April 4 2026)"
+    },
+    {
+      "self_ref": "#/texts/6",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "footnote",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 72.025,
+            "t": 86.495,
+            "r": 403.92,
+            "b": 78.6790606060606,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            97
+          ]
+        }
+      ],
+      "orig": "2 See RBC Signals, LLC, File No. SES-MOD-20241024-02561, Call Sign E220056 (filed Oct. 24, 2024).",
+      "text": "2 See RBC Signals, LLC, File No. SES-MOD-20241024-02561, Call Sign E220056 (filed Oct. 24, 2024)."
+    },
+    {
+      "self_ref": "#/texts/7",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 176.33,
+            "t": 752.844,
+            "r": 438.92,
+            "b": 715.2505454545454,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            65
+          ]
+        }
+      ],
+      "orig": "Before the FEDERAL COMMUNICATIONS COMMISSION Washington, DC 20554",
+      "text": "Before the FEDERAL COMMUNICATIONS COMMISSION Washington, DC 20554",
+      "level": 1
+    },
+    {
+      "self_ref": "#/texts/8",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 72.025,
+            "t": 716.844,
+            "r": 183.33,
+            "b": 706.7505454545454,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            13
+          ]
+        }
+      ],
+      "orig": "I. DISCUSSION",
+      "text": "I. DISCUSSION",
+      "level": 1
+    },
+    {
+      "self_ref": "#/texts/9",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 72.025,
+            "t": 689.2860000000001,
+            "r": 534.1820000000002,
+            "b": 541.154,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            545
+          ]
+        }
+      ],
+      "orig": "RBC Signals is a Redmond, Washington-based company providing innovative earth station services in the United States and around the world both to U.S. government and commercial clients.  RBC Signals has historically provided similar ground station support for multiple spacecraft from this earth station with no resulting harmful interference 3 .  RBC Signals will continue to ensure that its operations will not cause harmful interference to current or future co-frequency operations and that the interests of the United States are accommodated.",
+      "text": "RBC Signals is a Redmond, Washington-based company providing innovative earth station services in the United States and around the world both to U.S. government and commercial clients.  RBC Signals has historically provided similar ground station support for multiple spacecraft from this earth station with no resulting harmful interference 3 .  RBC Signals will continue to ensure that its operations will not cause harmful interference to current or future co-frequency operations and that the interests of the United States are accommodated."
+    },
+    {
+      "self_ref": "#/texts/10",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 72.025,
+            "t": 523.466,
+            "r": 527.888,
+            "b": 430.614,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            264
+          ]
+        }
+      ],
+      "orig": "RBC Signals seeks to provide TT&C communications using the UHF Antenna in portions of the 402MHz (Earth-to-space) band and TT&C and payload downlink in portions of the 400 MHz band (Space-to-Earth) to support U.S.-licensed satellite operations, as described below.",
+      "text": "RBC Signals seeks to provide TT&C communications using the UHF Antenna in portions of the 402MHz (Earth-to-space) band and TT&C and payload downlink in portions of the 400 MHz band (Space-to-Earth) to support U.S.-licensed satellite operations, as described below."
+    },
+    {
+      "self_ref": "#/texts/11",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 108.05,
+            "t": 413.254,
+            "r": 239.35,
+            "b": 403.16054545454546,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            21
+          ]
+        }
+      ],
+      "orig": "A. Satellite Overview",
+      "text": "A. Satellite Overview",
+      "level": 1
+    },
+    {
+      "self_ref": "#/texts/12",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 72.025,
+            "t": 385.69599999999997,
+            "r": 535.3210000000001,
+            "b": 237.31400000000008,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            498
+          ]
+        }
+      ],
+      "orig": "Anduril-216 is an experimental mission designed to test a series of sensors, including long wave infrared, narrow and medium field of view electro-optical sensors and a mission data processer for the purpose of remote sensing and space object tracking.  RBC Signals incorporates by reference the technical and public interest considerations set forth in the underlying satellite applications filed by the satellite operator and highlights the need for TT&C support for this U.S.-licensed satellite.",
+      "text": "Anduril-216 is an experimental mission designed to test a series of sensors, including long wave infrared, narrow and medium field of view electro-optical sensors and a mission data processer for the purpose of remote sensing and space object tracking.  RBC Signals incorporates by reference the technical and public interest considerations set forth in the underlying satellite applications filed by the satellite operator and highlights the need for TT&C support for this U.S.-licensed satellite."
+    },
+    {
+      "self_ref": "#/texts/13",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "footnote",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 72.025,
+            "t": 185.51999999999998,
+            "r": 468.2,
+            "b": 177.70406060606058,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            112
+          ]
+        }
+      ],
+      "orig": "3  See, e.g., RBC Signals, LLC, File Nos.SES-STA-20250225-00254,  SES-STA-20260212-00852, SES-LIC-20220509-00467",
+      "text": "3  See, e.g., RBC Signals, LLC, File Nos.SES-STA-20250225-00254,  SES-STA-20260212-00852, SES-LIC-20220509-00467"
+    },
+    {
+      "self_ref": "#/texts/14",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "furniture",
+      "label": "page_footer",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 303.13,
+            "t": 46.56600000000003,
+            "r": 312.13,
+            "b": 36.23400000000004,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            1
+          ]
+        }
+      ],
+      "orig": "2",
+      "text": "2"
+    },
+    {
+      "self_ref": "#/texts/15",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 108.05,
+            "t": 716.844,
+            "r": 288.13,
+            "b": 706.7505454545454,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            27
+          ]
+        }
+      ],
+      "orig": "B. Summary of Frequency Use",
+      "text": "B. Summary of Frequency Use",
+      "level": 1
+    },
+    {
+      "self_ref": "#/texts/16",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 67.025,
+            "t": 689.5360000000001,
+            "r": 506.1099999999999,
+            "b": 651.4340000000001,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            131
+          ]
+        }
+      ],
+      "orig": "RBC Signals is requesting permission for the uplink and downlink frequencies listed in the summary table below for TT&C operations.",
+      "text": "RBC Signals is requesting permission for the uplink and downlink frequencies listed in the summary table below for TT&C operations."
+    },
+    {
+      "self_ref": "#/texts/17",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 108.05,
+            "t": 472.274,
+            "r": 356.65,
+            "b": 462.18054545454544,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            42
+          ]
+        }
+      ],
+      "orig": "C. Frequency Allocations and Compatibility",
+      "text": "C. Frequency Allocations and Compatibility",
+      "level": 1
+    },
+    {
+      "self_ref": "#/texts/18",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 145.05,
+            "t": 444.504,
+            "r": 435.68,
+            "b": 434.41054545454546,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            49
+          ]
+        }
+      ],
+      "orig": "a. TT&C Downlink -400.15-401 MHz (space-to-Earth)",
+      "text": "a. TT&C Downlink -400.15-401 MHz (space-to-Earth)",
+      "level": 1
+    },
+    {
+      "self_ref": "#/texts/19",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 73.025,
+            "t": 413.94599999999997,
+            "r": 546.4720000000002,
+            "b": 293.334,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            480
+          ]
+        }
+      ],
+      "orig": "The United States Table of Frequency Allocations ('Table of Allocations'), Section 2.106 of the Commission's rules, 47 C.F.R. \u00a7 2.106, provides that the 400.15 -401 MHz band is shared between meteorological aids (Earth-to-space), mobile satellite (space-to-Earth), space research (space-toEarth)  and  space  operation  services  (space-to-Earth). RBC  Signals  seeks  to  perform TT&C downlink operations consistent with the co-primary space operations allocation in this band. 6",
+      "text": "The United States Table of Frequency Allocations ('Table of Allocations'), Section 2.106 of the Commission's rules, 47 C.F.R. \u00a7 2.106, provides that the 400.15 -401 MHz band is shared between meteorological aids (Earth-to-space), mobile satellite (space-to-Earth), space research (space-toEarth)  and  space  operation  services  (space-to-Earth). RBC  Signals  seeks  to  perform TT&C downlink operations consistent with the co-primary space operations allocation in this band. 6"
+    },
+    {
+      "self_ref": "#/texts/20",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 73.025,
+            "t": 276.14599999999996,
+            "r": 546.456,
+            "b": 127.78399999999999,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            519
+          ]
+        }
+      ],
+      "orig": "RBC Signals seeks to perform TT&C downlink operations using the 400 MHz Yagi in the 400.15-401  MHz  band  (space-to-Earth;  center  frequency  400.5  MHz)  consistent  with  the secondary allocation for space operations in this band.  RBC Signals is not currently aware of any use of the subject frequency bands by incumbent operators near the Deadhorse, Alaska facility and will coordinate as needed to ensure its TT&C operations do not cause interference with primary mobile satellite or meteorological-aid services.",
+      "text": "RBC Signals seeks to perform TT&C downlink operations using the 400 MHz Yagi in the 400.15-401  MHz  band  (space-to-Earth;  center  frequency  400.5  MHz)  consistent  with  the secondary allocation for space operations in this band.  RBC Signals is not currently aware of any use of the subject frequency bands by incumbent operators near the Deadhorse, Alaska facility and will coordinate as needed to ensure its TT&C operations do not cause interference with primary mobile satellite or meteorological-aid services."
+    },
+    {
+      "self_ref": "#/texts/21",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "footnote",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 73.025,
+            "t": 107.245,
+            "r": 534.23,
+            "b": 90.18100000000004,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            214
+          ]
+        }
+      ],
+      "orig": "6 See 47 C.F.R. \u00a7 2.106 (defining 'space operations' as 'radiocommunication service concerned exclusively with the operation of spacecraft, in particularly space tracking, space telemetry, and space telecommand.').",
+      "text": "6 See 47 C.F.R. \u00a7 2.106 (defining 'space operations' as 'radiocommunication service concerned exclusively with the operation of spacecraft, in particularly space tracking, space telemetry, and space telecommand.')."
+    },
+    {
+      "self_ref": "#/texts/22",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "furniture",
+      "label": "page_footer",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 303.13,
+            "t": 46.56600000000003,
+            "r": 312.13,
+            "b": 36.23400000000004,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            1
+          ]
+        }
+      ],
+      "orig": "3",
+      "text": "3"
+    },
+    {
+      "self_ref": "#/texts/23",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 145.05,
+            "t": 720.844,
+            "r": 154.05,
+            "b": 710.7505454545454,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            2
+          ]
+        }
+      ],
+      "orig": "a.",
+      "text": "a."
+    },
+    {
+      "self_ref": "#/texts/24",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 163.08,
+            "t": 720.844,
+            "r": 239.35,
+            "b": 710.7505454545454,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            11
+          ]
+        }
+      ],
+      "orig": "TT&C Uplink",
+      "text": "TT&C Uplink"
+    },
+    {
+      "self_ref": "#/texts/25",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 239.35,
+            "t": 720.844,
+            "r": 245.35,
+            "b": 710.7505454545454,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            1
+          ]
+        }
+      ],
+      "orig": "-",
+      "text": "-"
+    },
+    {
+      "self_ref": "#/texts/26",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 245.1,
+            "t": 720.844,
+            "r": 434.92,
+            "b": 710.7505454545454,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            33
+          ]
+        }
+      ],
+      "orig": "401-402 MHz band (Earth-to-space)",
+      "text": "401-402 MHz band (Earth-to-space)"
+    },
+    {
+      "self_ref": "#/texts/27",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 109.05,
+            "t": 693.2860000000001,
+            "r": 301.38,
+            "b": 682.9540000000001,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            38
+          ]
+        }
+      ],
+      "orig": "The Table of Allocations provides that",
+      "text": "The Table of Allocations provides that"
+    },
+    {
+      "self_ref": "#/texts/28",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 301.88,
+            "t": 693.2860000000001,
+            "r": 316.38800000000003,
+            "b": 682.9540000000001,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            3
+          ]
+        },
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 316.63,
+            "t": 693.2860000000001,
+            "r": 546.4400000000002,
+            "b": 682.9540000000001,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            4,
+            47
+          ]
+        }
+      ],
+      "orig": "'in the band 401-403 MHz, the non-federal Earth",
+      "text": "'in the band 401-403 MHz, the non-federal Earth"
+    },
+    {
+      "self_ref": "#/texts/29",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 73.025,
+            "t": 665.7660000000001,
+            "r": 546.286,
+            "b": 655.4340000000001,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            103
+          ]
+        },
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 73.025,
+            "t": 638.2660000000001,
+            "r": 333.15,
+            "b": 627.9340000000001,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            104,
+            159
+          ]
+        }
+      ],
+      "orig": "exploration-satellite  (Earth-to-space)  and  meteorological-satellite  (Earth-to-space)  services  are limited to earth stations transmitting to Federal space",
+      "text": "exploration-satellite  (Earth-to-space)  and  meteorological-satellite  (Earth-to-space)  services  are limited to earth stations transmitting to Federal space"
+    },
+    {
+      "self_ref": "#/texts/30",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 333.65,
+            "t": 638.2660000000001,
+            "r": 378.45799999999997,
+            "b": 627.9340000000001,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            10
+          ]
+        }
+      ],
+      "orig": "stations.'",
+      "text": "stations.'"
+    },
+    {
+      "self_ref": "#/texts/31",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 378.4,
+            "t": 639.494,
+            "r": 546.4680000000002,
+            "b": 627.9340000000001,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            33
+          ]
+        },
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 73.025,
+            "t": 610.5160000000001,
+            "r": 546.414,
+            "b": 600.1840000000001,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            34,
+            130
+          ]
+        }
+      ],
+      "orig": "7   RBC Signals acknowledges that there are certain U.S. government meteorological aids and Earth exploration operations conducted",
+      "text": "7   RBC Signals acknowledges that there are certain U.S. government meteorological aids and Earth exploration operations conducted"
+    },
+    {
+      "self_ref": "#/texts/32",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 73.025,
+            "t": 582.986,
+            "r": 210.08,
+            "b": 572.654,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            27
+          ]
+        }
+      ],
+      "orig": "in the 402-403 MHz band.  8",
+      "text": "in the 402-403 MHz band.  8"
+    },
+    {
+      "self_ref": "#/texts/33",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 73.025,
+            "t": 539.385,
+            "r": 75.525,
+            "b": 535.0799999999999,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            1
+          ]
+        }
+      ],
+      "orig": "7",
+      "text": "7"
+    },
+    {
+      "self_ref": "#/texts/34",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 75.525,
+            "t": 538.4639999999999,
+            "r": 172.08,
+            "b": 531.5759999999999,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            28
+          ]
+        }
+      ],
+      "orig": "47 C.F.R. \u00a72.106, fn. US384.",
+      "text": "47 C.F.R. \u00a72.106, fn. US384."
+    },
+    {
+      "self_ref": "#/texts/35",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 73.025,
+            "t": 517.615,
+            "r": 75.525,
+            "b": 513.31,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            1
+          ]
+        }
+      ],
+      "orig": "8",
+      "text": "8"
+    },
+    {
+      "self_ref": "#/texts/36",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 79.525,
+            "t": 516.702,
+            "r": 92.3,
+            "b": 509.8040606060606,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            3
+          ]
+        },
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 94.05,
+            "t": 516.694,
+            "r": 393.67,
+            "b": 509.806,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            4,
+            92
+          ]
+        }
+      ],
+      "orig": "See https://www.ntia.doc.gov/files/ntia/publications/compendium/0402.00-0403.00_01MAR14.pdf.",
+      "text": "See https://www.ntia.doc.gov/files/ntia/publications/compendium/0402.00-0403.00_01MAR14.pdf."
+    },
+    {
+      "self_ref": "#/texts/37",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 108.05,
+            "t": 435.004,
+            "r": 119.39965,
+            "b": 424.91054545454546,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            2
+          ]
+        }
+      ],
+      "orig": "D.",
+      "text": "D."
+    },
+    {
+      "self_ref": "#/texts/38",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 144.05,
+            "t": 435.004,
+            "r": 359.65,
+            "b": 424.91054545454546,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            39
+          ]
+        }
+      ],
+      "orig": "Frequency Coordination and Interference",
+      "text": "Frequency Coordination and Interference"
+    },
+    {
+      "self_ref": "#/texts/39",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 67.025,
+            "t": 407.19599999999997,
+            "r": 517.23,
+            "b": 396.864,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            91
+          ]
+        }
+      ],
+      "orig": "Previous coordination reports which supported these antennas as well as the nearby 6.0m and",
+      "text": "Previous coordination reports which supported these antennas as well as the nearby 6.0m and"
+    },
+    {
+      "self_ref": "#/texts/40",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 67.025,
+            "t": 379.94599999999997,
+            "r": 519.2540000000001,
+            "b": 369.614,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            95
+          ]
+        },
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 67.025,
+            "t": 352.416,
+            "r": 512.73,
+            "b": 342.084,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            96,
+            190
+          ]
+        }
+      ],
+      "orig": "4.5-meter earth station show no interference cases.  RBC Signals understands that the satellite operators have coordinated access to the required frequencies for their respective operations.",
+      "text": "4.5-meter earth station show no interference cases.  RBC Signals understands that the satellite operators have coordinated access to the required frequencies for their respective operations."
+    },
+    {
+      "self_ref": "#/texts/41",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 67.025,
+            "t": 324.666,
+            "r": 512.97,
+            "b": 314.334,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            87
+          ]
+        },
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 67.025,
+            "t": 297.166,
+            "r": 526.164,
+            "b": 286.834,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            88,
+            185
+          ]
+        }
+      ],
+      "orig": "Nonetheless, RBC Signals will operate the Deadhorse UHF antenna on an unprotected, non- interference basis and if RBC Signals learns that its operations are causing harmful interference",
+      "text": "Nonetheless, RBC Signals will operate the Deadhorse UHF antenna on an unprotected, non- interference basis and if RBC Signals learns that its operations are causing harmful interference"
+    },
+    {
+      "self_ref": "#/texts/42",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 67.025,
+            "t": 269.39599999999996,
+            "r": 491.58500000000004,
+            "b": 259.06399999999996,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            89
+          ]
+        },
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 67.025,
+            "t": 241.89599999999996,
+            "r": 129.05,
+            "b": 231.56400000000008,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            90,
+            103
+          ]
+        }
+      ],
+      "orig": "to other operations, it will suspend or modify its operations immediately to resolve such interference.",
+      "text": "to other operations, it will suspend or modify its operations immediately to resolve such interference."
+    },
+    {
+      "self_ref": "#/texts/43",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 108.05,
+            "t": 214.39599999999996,
+            "r": 516.72,
+            "b": 204.06400000000008,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            84
+          ]
+        }
+      ],
+      "orig": "The 24/7 point of contact and emergency stop contact for the proposed operations is:",
+      "text": "The 24/7 point of contact and emergency stop contact for the proposed operations is:"
+    },
+    {
+      "self_ref": "#/texts/44",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 108.05,
+            "t": 186.61599999999999,
+            "r": 163.58,
+            "b": 176.284,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            9
+          ]
+        }
+      ],
+      "orig": "John Ames",
+      "text": "John Ames"
+    },
+    {
+      "self_ref": "#/texts/45",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 108.05,
+            "t": 172.86599999999999,
+            "r": 227.6,
+            "b": 162.534,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            22
+          ]
+        }
+      ],
+      "orig": "RBC Signals Operations",
+      "text": "RBC Signals Operations"
+    },
+    {
+      "self_ref": "#/texts/46",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 108.05,
+            "t": 159.11599999999999,
+            "r": 277.38,
+            "b": 148.784,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            31
+          ]
+        }
+      ],
+      "orig": "Email: john.ames@rbcsignals.com",
+      "text": "Email: john.ames@rbcsignals.com"
+    },
+    {
+      "self_ref": "#/texts/47",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 108.05,
+            "t": 145.11599999999999,
+            "r": 218.1,
+            "b": 134.784,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            20
+          ]
+        }
+      ],
+      "orig": "Mobile: 719.502.6206",
+      "text": "Mobile: 719.502.6206"
+    },
+    {
+      "self_ref": "#/texts/48",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 303.13,
+            "t": 46.56600000000003,
+            "r": 312.13,
+            "b": 36.23400000000004,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            1
+          ]
+        }
+      ],
+      "orig": "4",
+      "text": "4"
+    },
+    {
+      "self_ref": "#/texts/49",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "prov": [
+        {
+          "page_no": 5,
+          "bbox": {
+            "l": 108.05,
+            "t": 707.094,
+            "r": 228.6,
+            "b": 697.0005454545454,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            17
+          ]
+        }
+      ],
+      "orig": "E. Waiver Request",
+      "text": "E. Waiver Request",
+      "level": 1
+    },
+    {
+      "self_ref": "#/texts/50",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 5,
+          "bbox": {
+            "l": 73.025,
+            "t": 680.744,
+            "r": 546.48,
+            "b": 448.38109090909086,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            830
+          ]
+        }
+      ],
+      "orig": "The Commission may waive its rules for 'good cause shown.' 9   RBC Signals respectfully seeks  a  waiver  of  Section  2.106  of  the  Commission's  rules,  47  C.F.R.  \u00a7  2.106,  to  the  extent necessary to operate the 400 MHz Yagi and perform TT&C in the 401-402 MHz band using a 401.5 MHz center frequency.  Good cause exists to grant a waiver in this case to permit RBC Signals to perform critical TT&C functions for the Anduril-216 mission and this waiver would not undermine the purpose of the rules.  The waiver is also consistent with the Commission precedent previously granting such a waiver to operate in this band in a previous satellite authorization. 10  RBC Signals acknowledges that the authority to conduct earth station operations in this band is associated with a similar grant of the Anduril-216 Application .",
+      "text": "The Commission may waive its rules for 'good cause shown.' 9   RBC Signals respectfully seeks  a  waiver  of  Section  2.106  of  the  Commission's  rules,  47  C.F.R.  \u00a7  2.106,  to  the  extent necessary to operate the 400 MHz Yagi and perform TT&C in the 401-402 MHz band using a 401.5 MHz center frequency.  Good cause exists to grant a waiver in this case to permit RBC Signals to perform critical TT&C functions for the Anduril-216 mission and this waiver would not undermine the purpose of the rules.  The waiver is also consistent with the Commission precedent previously granting such a waiver to operate in this band in a previous satellite authorization. 10  RBC Signals acknowledges that the authority to conduct earth station operations in this band is associated with a similar grant of the Anduril-216 Application ."
+    },
+    {
+      "self_ref": "#/texts/51",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 5,
+          "bbox": {
+            "l": 73.025,
+            "t": 430.94599999999997,
+            "r": 546.452,
+            "b": 255.06399999999996,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            643
+          ]
+        }
+      ],
+      "orig": "The Table of Allocations provides that the 402-403 band is allocated on a primary basis to non-federal  meteorological-aid  services  and  on  secondary  basis  to  EESS  (Earth-to-space). Moreover, 'in the band 401-403 MHz, the non-federal Earth exploration-satellite (Earth-to-space) and meteorological-satellite (Earth-to-space) services are limited to earth stations transmitting to Federal space stations.' 11 Thus, RBC Signals seeks a waiver of this footnote to permit it to provide TT&C uplink  support  for  the  Anduril-216  mission,  which  will  facilitate  the  development  and evaluation of an innovative U.S.-licensed satellite.",
+      "text": "The Table of Allocations provides that the 402-403 band is allocated on a primary basis to non-federal  meteorological-aid  services  and  on  secondary  basis  to  EESS  (Earth-to-space). Moreover, 'in the band 401-403 MHz, the non-federal Earth exploration-satellite (Earth-to-space) and meteorological-satellite (Earth-to-space) services are limited to earth stations transmitting to Federal space stations.' 11 Thus, RBC Signals seeks a waiver of this footnote to permit it to provide TT&C uplink  support  for  the  Anduril-216  mission,  which  will  facilitate  the  development  and evaluation of an innovative U.S.-licensed satellite."
+    },
+    {
+      "self_ref": "#/texts/52",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 5,
+          "bbox": {
+            "l": 73.025,
+            "t": 237.90800000000002,
+            "r": 546.3080000000001,
+            "b": 172.284,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            251
+          ]
+        }
+      ],
+      "orig": "Acknowledging the connect between the Anduril-216 Application and this earth station application, a waiver is warranted here because it will provide RBC Signals with the ability to dependably provide critical satellite support for the Anduril mission.",
+      "text": "Acknowledging the connect between the Anduril-216 Application and this earth station application, a waiver is warranted here because it will provide RBC Signals with the ability to dependably provide critical satellite support for the Anduril mission."
+    },
+    {
+      "self_ref": "#/texts/53",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "footnote",
+      "prov": [
+        {
+          "page_no": 5,
+          "bbox": {
+            "l": 73.025,
+            "t": 137.015,
+            "r": 518.7460000000001,
+            "b": 119.92600000000004,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            147
+          ]
+        }
+      ],
+      "orig": "9 See 47 C.F.R. \u00a71.3 ('Any provision of the rules may be waived by the Commission on its own motion or petition if good cause therefor is shown.').",
+      "text": "9 See 47 C.F.R. \u00a71.3 ('Any provision of the rules may be waived by the Commission on its own motion or petition if good cause therefor is shown.')."
+    },
+    {
+      "self_ref": "#/texts/54",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "footnote",
+      "prov": [
+        {
+          "page_no": 5,
+          "bbox": {
+            "l": 73.025,
+            "t": 118.495,
+            "r": 514.408,
+            "b": 110.6740606060606,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            137
+          ]
+        }
+      ],
+      "orig": "10 See Astro Digital U.S., Inc., File No. SAT-LOA-20170508-00071 (grant stamp Oct. 9, 2020) (the ' Astro Digital License '), Condition 9.",
+      "text": "10 See Astro Digital U.S., Inc., File No. SAT-LOA-20170508-00071 (grant stamp Oct. 9, 2020) (the ' Astro Digital License '), Condition 9."
+    },
+    {
+      "self_ref": "#/texts/55",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "footnote",
+      "prov": [
+        {
+          "page_no": 5,
+          "bbox": {
+            "l": 73.025,
+            "t": 96.74000000000001,
+            "r": 116.3,
+            "b": 88.9290606060606,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            14
+          ]
+        }
+      ],
+      "orig": "11 Supra n. 7.",
+      "text": "11 Supra n. 7."
+    },
+    {
+      "self_ref": "#/texts/56",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "furniture",
+      "label": "page_footer",
+      "prov": [
+        {
+          "page_no": 5,
+          "bbox": {
+            "l": 303.13,
+            "t": 46.56600000000003,
+            "r": 312.13,
+            "b": 36.23400000000004,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            1
+          ]
+        }
+      ],
+      "orig": "5",
+      "text": "5"
+    },
+    {
+      "self_ref": "#/texts/57",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 6,
+          "bbox": {
+            "l": 73.025,
+            "t": 690.2860000000001,
+            "r": 546.48,
+            "b": 541.904,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            597
+          ]
+        }
+      ],
+      "orig": "Further,  a  waiver  will  serve  the  public  interest  as  RBC  Signals  will  support  novel  space technologies that bridge traditional launch deployment services.  Finally, given the limited nature of  the  proposed  operations  and  the  coordination  performed  in  support  of  the Anduril-216 Application to ensure the proposed operations will not cause harmful interference to co-frequency operations, grant of the waiver will not undermine the purposes of the rule.  Thus, there is good cause to grant the requested waiver to permit the limited earth station operations proposed herein.",
+      "text": "Further,  a  waiver  will  serve  the  public  interest  as  RBC  Signals  will  support  novel  space technologies that bridge traditional launch deployment services.  Finally, given the limited nature of  the  proposed  operations  and  the  coordination  performed  in  support  of  the Anduril-216 Application to ensure the proposed operations will not cause harmful interference to co-frequency operations, grant of the waiver will not undermine the purposes of the rule.  Thus, there is good cause to grant the requested waiver to permit the limited earth station operations proposed herein."
+    },
+    {
+      "self_ref": "#/texts/58",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "furniture",
+      "label": "page_footer",
+      "prov": [
+        {
+          "page_no": 6,
+          "bbox": {
+            "l": 303.13,
+            "t": 46.56600000000003,
+            "r": 312.13,
+            "b": 36.23400000000004,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            1
+          ]
+        }
+      ],
+      "orig": "6",
+      "text": "6"
+    },
+    {
+      "self_ref": "#/texts/59",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "prov": [
+        {
+          "page_no": 7,
+          "bbox": {
+            "l": 108.05,
+            "t": 720.844,
+            "r": 296.38,
+            "b": 710.7505454545454,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            32
+          ]
+        }
+      ],
+      "orig": "F. Public Interest Consideration",
+      "text": "F. Public Interest Consideration",
+      "level": 1
+    },
+    {
+      "self_ref": "#/texts/60",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 7,
+          "bbox": {
+            "l": 72.025,
+            "t": 689.2860000000001,
+            "r": 525.676,
+            "b": 541.154,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            524
+          ]
+        }
+      ],
+      "orig": "RBC Signals is at the forefront of reinventing TT&C and earth station support solutions and grant of the requested application would promote U.S. leadership in innovative satellite technologies and services.  RBC Signals will conduct all operations in accordance with the Commission's rules and requirements. RBC Signals incorporates by reference the public interest considerations included in the satellite application, as well as the operational specifications included in the authorizations, of the subject spacecraft. 10",
+      "text": "RBC Signals is at the forefront of reinventing TT&C and earth station support solutions and grant of the requested application would promote U.S. leadership in innovative satellite technologies and services.  RBC Signals will conduct all operations in accordance with the Commission's rules and requirements. RBC Signals incorporates by reference the public interest considerations included in the satellite application, as well as the operational specifications included in the authorizations, of the subject spacecraft. 10"
+    },
+    {
+      "self_ref": "#/texts/61",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 7,
+          "bbox": {
+            "l": 72.025,
+            "t": 523.716,
+            "r": 539.9660000000001,
+            "b": 430.614,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            361
+          ]
+        }
+      ],
+      "orig": "Grant of this application will further the public interest by enabling TT&C support for the Anduril-216 Mission.  In addition, there have been no instances of harmful interference from TT&C uplink operations at this or nearby facilities in the subject spectrum and RBC Signals will continue to ensure interference-free operations from its Deadhorse UHF Antenna.",
+      "text": "Grant of this application will further the public interest by enabling TT&C support for the Anduril-216 Mission.  In addition, there have been no instances of harmful interference from TT&C uplink operations at this or nearby facilities in the subject spectrum and RBC Signals will continue to ensure interference-free operations from its Deadhorse UHF Antenna."
+    },
+    {
+      "self_ref": "#/texts/62",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "prov": [
+        {
+          "page_no": 7,
+          "bbox": {
+            "l": 72.025,
+            "t": 413.254,
+            "r": 191.33,
+            "b": 403.16054545454546,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            14
+          ]
+        }
+      ],
+      "orig": "II. CONCLUSION",
+      "text": "II. CONCLUSION",
+      "level": 1
+    },
+    {
+      "self_ref": "#/texts/63",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 7,
+          "bbox": {
+            "l": 72.025,
+            "t": 385.69599999999997,
+            "r": 520.6940000000001,
+            "b": 292.584,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            258
+          ]
+        }
+      ],
+      "orig": "Based on the foregoing, RBC Signals respectfully requests that the Commission grant this 60-day STA to enable the Deadhorse UHF Antenna to provide TT&C and payload uplink and downlink services while RBC Signals prepares a more permanent modification request.",
+      "text": "Based on the foregoing, RBC Signals respectfully requests that the Commission grant this 60-day STA to enable the Deadhorse UHF Antenna to provide TT&C and payload uplink and downlink services while RBC Signals prepares a more permanent modification request."
+    },
+    {
+      "self_ref": "#/texts/64",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "footnote",
+      "prov": [
+        {
+          "page_no": 7,
+          "bbox": {
+            "l": 72.025,
+            "t": 221.18100000000004,
+            "r": 535.5320000000003,
+            "b": 201.22406060606056,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            197
+          ]
+        }
+      ],
+      "orig": "10 RBC requests leave to update the technical or operational data associated with this application should the Commission seek any clarifying or supplemental information in considering this request.",
+      "text": "10 RBC requests leave to update the technical or operational data associated with this application should the Commission seek any clarifying or supplemental information in considering this request."
+    },
+    {
+      "self_ref": "#/texts/65",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "furniture",
+      "label": "page_footer",
+      "prov": [
+        {
+          "page_no": 7,
+          "bbox": {
+            "l": 303.13,
+            "t": 46.56600000000003,
+            "r": 312.13,
+            "b": 36.23400000000004,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            1
+          ]
+        }
+      ],
+      "orig": "7",
+      "text": "7"
+    },
+    {
+      "self_ref": "#/texts/66",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "furniture",
+      "label": "page_footer",
+      "prov": [
+        {
+          "page_no": 8,
+          "bbox": {
+            "l": 303.13,
+            "t": 46.56600000000003,
+            "r": 312.13,
+            "b": 36.23400000000004,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            1
+          ]
+        }
+      ],
+      "orig": "8",
+      "text": "8"
+    },
+    {
+      "self_ref": "#/texts/67",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "prov": [
+        {
+          "page_no": 9,
+          "bbox": {
+            "l": 247.1,
+            "t": 712.844,
+            "r": 312.13,
+            "b": 702.7505454545454,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            9
+          ]
+        }
+      ],
+      "orig": "EXHIBIT A",
+      "text": "EXHIBIT A",
+      "level": 1
+    },
+    {
+      "self_ref": "#/texts/68",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "prov": [
+        {
+          "page_no": 9,
+          "bbox": {
+            "l": 72.025,
+            "t": 685.344,
+            "r": 534.97,
+            "b": 661.4805454545454,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            164
+          ]
+        }
+      ],
+      "orig": "RBC Signals, LLC -Application for ground station operations to support the Anduril-216 mission from its Deadhorse UHF Antenna in Deadhorse, Alaska Call Sign E220056",
+      "text": "RBC Signals, LLC -Application for ground station operations to support the Anduril-216 mission from its Deadhorse UHF Antenna in Deadhorse, Alaska Call Sign E220056",
+      "level": 1
+    }
+  ],
+  "pictures": [],
+  "tables": [
+    {
+      "self_ref": "#/tables/0",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "table",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 76.24100494384766,
+            "t": 630.2899169921875,
+            "r": 496.2740783691406,
+            "b": 563.5177612304688,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            0
+          ]
+        }
+      ],
+      "captions": [],
+      "references": [],
+      "footnotes": [],
+      "data": {
+        "table_cells": [
+          {
+            "bbox": {
+              "l": 77.775,
+              "t": 163.73399999999992,
+              "r": 275.80800000000005,
+              "b": 215.346,
+              "coord_origin": "TOPLEFT"
+            },
+            "row_span": 1,
+            "col_span": 1,
+            "start_row_offset_idx": 0,
+            "end_row_offset_idx": 1,
+            "start_col_offset_idx": 0,
+            "end_col_offset_idx": 1,
+            "text": "Application of RBC Signals, LLC for a 60-Day Special Temporary Authorization to Operate with Non-Geostationary Orbit Spacecraft",
+            "column_header": false,
+            "row_header": false,
+            "row_section": false,
+            "fillable": false
+          },
+          {
+            "bbox": {
+              "l": 300.13,
+              "t": 162.98399999999992,
+              "r": 497.19399999999996,
+              "b": 214.846,
+              "coord_origin": "TOPLEFT"
+            },
+            "row_span": 1,
+            "col_span": 1,
+            "start_row_offset_idx": 0,
+            "end_row_offset_idx": 1,
+            "start_col_offset_idx": 1,
+            "end_col_offset_idx": 2,
+            "text": ") ) ) ) Call Sign: E220056 File No.: SES-MOD-20241203-02561",
+            "column_header": false,
+            "row_header": false,
+            "row_section": false,
+            "fillable": false
+          }
+        ],
+        "num_rows": 1,
+        "num_cols": 2,
+        "grid": [
+          [
+            {
+              "bbox": {
+                "l": 77.775,
+                "t": 163.73399999999992,
+                "r": 275.80800000000005,
+                "b": 215.346,
+                "coord_origin": "TOPLEFT"
+              },
+              "row_span": 1,
+              "col_span": 1,
+              "start_row_offset_idx": 0,
+              "end_row_offset_idx": 1,
+              "start_col_offset_idx": 0,
+              "end_col_offset_idx": 1,
+              "text": "Application of RBC Signals, LLC for a 60-Day Special Temporary Authorization to Operate with Non-Geostationary Orbit Spacecraft",
+              "column_header": false,
+              "row_header": false,
+              "row_section": false,
+              "fillable": false
+            },
+            {
+              "bbox": {
+                "l": 300.13,
+                "t": 162.98399999999992,
+                "r": 497.19399999999996,
+                "b": 214.846,
+                "coord_origin": "TOPLEFT"
+              },
+              "row_span": 1,
+              "col_span": 1,
+              "start_row_offset_idx": 0,
+              "end_row_offset_idx": 1,
+              "start_col_offset_idx": 1,
+              "end_col_offset_idx": 2,
+              "text": ") ) ) ) Call Sign: E220056 File No.: SES-MOD-20241203-02561",
+              "column_header": false,
+              "row_header": false,
+              "row_section": false,
+              "fillable": false
+            }
+          ]
+        ]
+      },
+      "annotations": []
+    },
+    {
+      "self_ref": "#/tables/1",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "table",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 65.88824462890625,
+            "t": 638.3998413085938,
+            "r": 546.45166015625,
+            "b": 499.474609375,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            0
+          ]
+        }
+      ],
+      "captions": [],
+      "references": [],
+      "footnotes": [],
+      "data": {
+        "table_cells": [
+          {
+            "bbox": {
+              "l": 72.775,
+              "t": 158.42599999999993,
+              "r": 175.39900000000003,
+              "b": 168.51945454545455,
+              "coord_origin": "TOPLEFT"
+            },
+            "row_span": 1,
+            "col_span": 1,
+            "start_row_offset_idx": 0,
+            "end_row_offset_idx": 1,
+            "start_col_offset_idx": 0,
+            "end_col_offset_idx": 1,
+            "text": "Satellite Designation",
+            "column_header": true,
+            "row_header": false,
+            "row_section": false,
+            "fillable": false
+          },
+          {
+            "bbox": {
+              "l": 192.08,
+              "t": 158.42599999999993,
+              "r": 281.59999999999997,
+              "b": 196.01945454545455,
+              "coord_origin": "TOPLEFT"
+            },
+            "row_span": 1,
+            "col_span": 1,
+            "start_row_offset_idx": 0,
+            "end_row_offset_idx": 1,
+            "start_col_offset_idx": 1,
+            "end_col_offset_idx": 2,
+            "text": "Center Frequency (MHz)",
+            "column_header": true,
+            "row_header": false,
+            "row_section": false,
+            "fillable": false
+          },
+          {
+            "bbox": {
+              "l": 312.88,
+              "t": 158.42599999999993,
+              "r": 391.824,
+              "b": 196.01945454545455,
+              "coord_origin": "TOPLEFT"
+            },
+            "row_span": 1,
+            "col_span": 1,
+            "start_row_offset_idx": 0,
+            "end_row_offset_idx": 1,
+            "start_col_offset_idx": 2,
+            "end_col_offset_idx": 3,
+            "text": "Emission Bandwidth KHz",
+            "column_header": true,
+            "row_header": false,
+            "row_section": false,
+            "fillable": false
+          },
+          {
+            "bbox": {
+              "l": 415.93,
+              "t": 158.42599999999993,
+              "r": 462.322,
+              "b": 168.51945454545455,
+              "coord_origin": "TOPLEFT"
+            },
+            "row_span": 1,
+            "col_span": 1,
+            "start_row_offset_idx": 0,
+            "end_row_offset_idx": 1,
+            "start_col_offset_idx": 3,
+            "end_col_offset_idx": 4,
+            "text": "Direction",
+            "column_header": true,
+            "row_header": false,
+            "row_section": false,
+            "fillable": false
+          },
+          {
+            "bbox": {
+              "l": 72.775,
+              "t": 239.25200000000007,
+              "r": 131.3,
+              "b": 249.59890909090916,
+              "coord_origin": "TOPLEFT"
+            },
+            "row_span": 1,
+            "col_span": 1,
+            "start_row_offset_idx": 1,
+            "end_row_offset_idx": 2,
+            "start_col_offset_idx": 0,
+            "end_col_offset_idx": 1,
+            "text": "Anduril-216",
+            "column_header": false,
+            "row_header": false,
+            "row_section": false,
+            "fillable": false
+          },
+          {
+            "bbox": {
+              "l": 192.08,
+              "t": 239.25200000000007,
+              "r": 225.08,
+              "b": 249.59890909090916,
+              "coord_origin": "TOPLEFT"
+            },
+            "row_span": 1,
+            "col_span": 1,
+            "start_row_offset_idx": 1,
+            "end_row_offset_idx": 2,
+            "start_col_offset_idx": 1,
+            "end_col_offset_idx": 2,
+            "text": "402.85",
+            "column_header": false,
+            "row_header": false,
+            "row_section": false,
+            "fillable": false
+          },
+          {
+            "bbox": {
+              "l": 312.88,
+              "t": 239.25200000000007,
+              "r": 324.88,
+              "b": 249.59890909090916,
+              "coord_origin": "TOPLEFT"
+            },
+            "row_span": 1,
+            "col_span": 1,
+            "start_row_offset_idx": 1,
+            "end_row_offset_idx": 2,
+            "start_col_offset_idx": 2,
+            "end_col_offset_idx": 3,
+            "text": "20",
+            "column_header": false,
+            "row_header": false,
+            "row_section": false,
+            "fillable": false
+          },
+          {
+            "bbox": {
+              "l": 415.93,
+              "t": 239.25200000000007,
+              "r": 486.99399999999997,
+              "b": 249.59890909090916,
+              "coord_origin": "TOPLEFT"
+            },
+            "row_span": 1,
+            "col_span": 1,
+            "start_row_offset_idx": 1,
+            "end_row_offset_idx": 2,
+            "start_col_offset_idx": 3,
+            "end_col_offset_idx": 4,
+            "text": "Earth to Space",
+            "column_header": false,
+            "row_header": false,
+            "row_section": false,
+            "fillable": false
+          },
+          {
+            "bbox": {
+              "l": 72.775,
+              "t": 267.27200000000005,
+              "r": 131.3,
+              "b": 277.61890909090914,
+              "coord_origin": "TOPLEFT"
+            },
+            "row_span": 1,
+            "col_span": 1,
+            "start_row_offset_idx": 2,
+            "end_row_offset_idx": 3,
+            "start_col_offset_idx": 0,
+            "end_col_offset_idx": 1,
+            "text": "Anduril-216",
+            "column_header": false,
+            "row_header": false,
+            "row_section": false,
+            "fillable": false
+          },
+          {
+            "bbox": {
+              "l": 192.08,
+              "t": 267.27200000000005,
+              "r": 225.08,
+              "b": 277.61890909090914,
+              "coord_origin": "TOPLEFT"
+            },
+            "row_span": 1,
+            "col_span": 1,
+            "start_row_offset_idx": 2,
+            "end_row_offset_idx": 3,
+            "start_col_offset_idx": 1,
+            "end_col_offset_idx": 2,
+            "text": "400.25",
+            "column_header": false,
+            "row_header": false,
+            "row_section": false,
+            "fillable": false
+          },
+          {
+            "bbox": {
+              "l": 312.88,
+              "t": 267.27200000000005,
+              "r": 324.88,
+              "b": 277.61890909090914,
+              "coord_origin": "TOPLEFT"
+            },
+            "row_span": 1,
+            "col_span": 1,
+            "start_row_offset_idx": 2,
+            "end_row_offset_idx": 3,
+            "start_col_offset_idx": 2,
+            "end_col_offset_idx": 3,
+            "text": "12",
+            "column_header": false,
+            "row_header": false,
+            "row_section": false,
+            "fillable": false
+          },
+          {
+            "bbox": {
+              "l": 415.93,
+              "t": 267.27200000000005,
+              "r": 486.90999999999997,
+              "b": 277.61890909090914,
+              "coord_origin": "TOPLEFT"
+            },
+            "row_span": 1,
+            "col_span": 1,
+            "start_row_offset_idx": 2,
+            "end_row_offset_idx": 3,
+            "start_col_offset_idx": 3,
+            "end_col_offset_idx": 4,
+            "text": "Space to Earth",
+            "column_header": false,
+            "row_header": false,
+            "row_section": false,
+            "fillable": false
+          }
+        ],
+        "num_rows": 3,
+        "num_cols": 4,
+        "grid": [
+          [
+            {
+              "bbox": {
+                "l": 72.775,
+                "t": 158.42599999999993,
+                "r": 175.39900000000003,
+                "b": 168.51945454545455,
+                "coord_origin": "TOPLEFT"
+              },
+              "row_span": 1,
+              "col_span": 1,
+              "start_row_offset_idx": 0,
+              "end_row_offset_idx": 1,
+              "start_col_offset_idx": 0,
+              "end_col_offset_idx": 1,
+              "text": "Satellite Designation",
+              "column_header": true,
+              "row_header": false,
+              "row_section": false,
+              "fillable": false
+            },
+            {
+              "bbox": {
+                "l": 192.08,
+                "t": 158.42599999999993,
+                "r": 281.59999999999997,
+                "b": 196.01945454545455,
+                "coord_origin": "TOPLEFT"
+              },
+              "row_span": 1,
+              "col_span": 1,
+              "start_row_offset_idx": 0,
+              "end_row_offset_idx": 1,
+              "start_col_offset_idx": 1,
+              "end_col_offset_idx": 2,
+              "text": "Center Frequency (MHz)",
+              "column_header": true,
+              "row_header": false,
+              "row_section": false,
+              "fillable": false
+            },
+            {
+              "bbox": {
+                "l": 312.88,
+                "t": 158.42599999999993,
+                "r": 391.824,
+                "b": 196.01945454545455,
+                "coord_origin": "TOPLEFT"
+              },
+              "row_span": 1,
+              "col_span": 1,
+              "start_row_offset_idx": 0,
+              "end_row_offset_idx": 1,
+              "start_col_offset_idx": 2,
+              "end_col_offset_idx": 3,
+              "text": "Emission Bandwidth KHz",
+              "column_header": true,
+              "row_header": false,
+              "row_section": false,
+              "fillable": false
+            },
+            {
+              "bbox": {
+                "l": 415.93,
+                "t": 158.42599999999993,
+                "r": 462.322,
+                "b": 168.51945454545455,
+                "coord_origin": "TOPLEFT"
+              },
+              "row_span": 1,
+              "col_span": 1,
+              "start_row_offset_idx": 0,
+              "end_row_offset_idx": 1,
+              "start_col_offset_idx": 3,
+              "end_col_offset_idx": 4,
+              "text": "Direction",
+              "column_header": true,
+              "row_header": false,
+              "row_section": false,
+              "fillable": false
+            }
+          ],
+          [
+            {
+              "bbox": {
+                "l": 72.775,
+                "t": 239.25200000000007,
+                "r": 131.3,
+                "b": 249.59890909090916,
+                "coord_origin": "TOPLEFT"
+              },
+              "row_span": 1,
+              "col_span": 1,
+              "start_row_offset_idx": 1,
+              "end_row_offset_idx": 2,
+              "start_col_offset_idx": 0,
+              "end_col_offset_idx": 1,
+              "text": "Anduril-216",
+              "column_header": false,
+              "row_header": false,
+              "row_section": false,
+              "fillable": false
+            },
+            {
+              "bbox": {
+                "l": 192.08,
+                "t": 239.25200000000007,
+                "r": 225.08,
+                "b": 249.59890909090916,
+                "coord_origin": "TOPLEFT"
+              },
+              "row_span": 1,
+              "col_span": 1,
+              "start_row_offset_idx": 1,
+              "end_row_offset_idx": 2,
+              "start_col_offset_idx": 1,
+              "end_col_offset_idx": 2,
+              "text": "402.85",
+              "column_header": false,
+              "row_header": false,
+              "row_section": false,
+              "fillable": false
+            },
+            {
+              "bbox": {
+                "l": 312.88,
+                "t": 239.25200000000007,
+                "r": 324.88,
+                "b": 249.59890909090916,
+                "coord_origin": "TOPLEFT"
+              },
+              "row_span": 1,
+              "col_span": 1,
+              "start_row_offset_idx": 1,
+              "end_row_offset_idx": 2,
+              "start_col_offset_idx": 2,
+              "end_col_offset_idx": 3,
+              "text": "20",
+              "column_header": false,
+              "row_header": false,
+              "row_section": false,
+              "fillable": false
+            },
+            {
+              "bbox": {
+                "l": 415.93,
+                "t": 239.25200000000007,
+                "r": 486.99399999999997,
+                "b": 249.59890909090916,
+                "coord_origin": "TOPLEFT"
+              },
+              "row_span": 1,
+              "col_span": 1,
+              "start_row_offset_idx": 1,
+              "end_row_offset_idx": 2,
+              "start_col_offset_idx": 3,
+              "end_col_offset_idx": 4,
+              "text": "Earth to Space",
+              "column_header": false,
+              "row_header": false,
+              "row_section": false,
+              "fillable": false
+            }
+          ],
+          [
+            {
+              "bbox": {
+                "l": 72.775,
+                "t": 267.27200000000005,
+                "r": 131.3,
+                "b": 277.61890909090914,
+                "coord_origin": "TOPLEFT"
+              },
+              "row_span": 1,
+              "col_span": 1,
+              "start_row_offset_idx": 2,
+              "end_row_offset_idx": 3,
+              "start_col_offset_idx": 0,
+              "end_col_offset_idx": 1,
+              "text": "Anduril-216",
+              "column_header": false,
+              "row_header": false,
+              "row_section": false,
+              "fillable": false
+            },
+            {
+              "bbox": {
+                "l": 192.08,
+                "t": 267.27200000000005,
+                "r": 225.08,
+                "b": 277.61890909090914,
+                "coord_origin": "TOPLEFT"
+              },
+              "row_span": 1,
+              "col_span": 1,
+              "start_row_offset_idx": 2,
+              "end_row_offset_idx": 3,
+              "start_col_offset_idx": 1,
+              "end_col_offset_idx": 2,
+              "text": "400.25",
+              "column_header": false,
+              "row_header": false,
+              "row_section": false,
+              "fillable": false
+            },
+            {
+              "bbox": {
+                "l": 312.88,
+                "t": 267.27200000000005,
+                "r": 324.88,
+                "b": 277.61890909090914,
+                "coord_origin": "TOPLEFT"
+              },
+              "row_span": 1,
+              "col_span": 1,
+              "start_row_offset_idx": 2,
+              "end_row_offset_idx": 3,
+              "start_col_offset_idx": 2,
+              "end_col_offset_idx": 3,
+              "text": "12",
+              "column_header": false,
+              "row_header": false,
+              "row_section": false,
+              "fillable": false
+            },
+            {
+              "bbox": {
+                "l": 415.93,
+                "t": 267.27200000000005,
+                "r": 486.90999999999997,
+                "b": 277.61890909090914,
+                "coord_origin": "TOPLEFT"
+              },
+              "row_span": 1,
+              "col_span": 1,
+              "start_row_offset_idx": 2,
+              "end_row_offset_idx": 3,
+              "start_col_offset_idx": 3,
+              "end_col_offset_idx": 4,
+              "text": "Space to Earth",
+              "column_header": false,
+              "row_header": false,
+              "row_section": false,
+              "fillable": false
+            }
+          ]
+        ]
+      },
+      "annotations": []
+    },
+    {
+      "self_ref": "#/tables/2",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "table",
+      "prov": [
+        {
+          "page_no": 9,
+          "bbox": {
+            "l": 83.74820709228516,
+            "t": 648.0538330078125,
+            "r": 537.6203002929688,
+            "b": 439.99017333984375,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            0
+          ]
+        }
+      ],
+      "captions": [],
+      "references": [],
+      "footnotes": [],
+      "data": {
+        "table_cells": [
+          {
+            "bbox": {
+              "l": 246.85,
+              "t": 148.67599999999993,
+              "r": 299.38,
+              "b": 158.76945454545455,
+              "coord_origin": "TOPLEFT"
+            },
+            "row_span": 1,
+            "col_span": 2,
+            "start_row_offset_idx": 0,
+            "end_row_offset_idx": 1,
+            "start_col_offset_idx": 0,
+            "end_col_offset_idx": 2,
+            "text": "Antenna 1",
+            "column_header": true,
+            "row_header": false,
+            "row_section": false,
+            "fillable": false
+          },
+          {
+            "bbox": {
+              "l": 90.8,
+              "t": 169.98399999999992,
+              "r": 189.02400000000003,
+              "b": 180.31599999999992,
+              "coord_origin": "TOPLEFT"
+            },
+            "row_span": 1,
+            "col_span": 1,
+            "start_row_offset_idx": 1,
+            "end_row_offset_idx": 2,
+            "start_col_offset_idx": 0,
+            "end_col_offset_idx": 1,
+            "text": "Antenna Description",
+            "column_header": false,
+            "row_header": false,
+            "row_section": false,
+            "fillable": false
+          },
+          {
+            "bbox": {
+              "l": 276.88,
+              "t": 169.98399999999992,
+              "r": 350.02000000000004,
+              "b": 180.31599999999992,
+              "coord_origin": "TOPLEFT"
+            },
+            "row_span": 1,
+            "col_span": 1,
+            "start_row_offset_idx": 1,
+            "end_row_offset_idx": 2,
+            "start_col_offset_idx": 1,
+            "end_col_offset_idx": 2,
+            "text": "M2 400CP30A",
+            "column_header": false,
+            "row_header": false,
+            "row_section": false,
+            "fillable": false
+          },
+          {
+            "bbox": {
+              "l": 90.8,
+              "t": 189.014,
+              "r": 151.872,
+              "b": 199.346,
+              "coord_origin": "TOPLEFT"
+            },
+            "row_span": 1,
+            "col_span": 1,
+            "start_row_offset_idx": 2,
+            "end_row_offset_idx": 3,
+            "start_col_offset_idx": 0,
+            "end_col_offset_idx": 1,
+            "text": "Antenna size",
+            "column_header": false,
+            "row_header": false,
+            "row_section": false,
+            "fillable": false
+          },
+          {
+            "bbox": {
+              "l": 276.88,
+              "t": 189.014,
+              "r": 299.46399999999994,
+              "b": 199.346,
+              "coord_origin": "TOPLEFT"
+            },
+            "row_span": 1,
+            "col_span": 1,
+            "start_row_offset_idx": 2,
+            "end_row_offset_idx": 3,
+            "start_col_offset_idx": 1,
+            "end_col_offset_idx": 2,
+            "text": "Yagi",
+            "column_header": false,
+            "row_header": false,
+            "row_section": false,
+            "fillable": false
+          },
+          {
+            "bbox": {
+              "l": 90.8,
+              "t": 208.014,
+              "r": 221.074,
+              "b": 218.346,
+              "coord_origin": "TOPLEFT"
+            },
+            "row_span": 1,
+            "col_span": 1,
+            "start_row_offset_idx": 3,
+            "end_row_offset_idx": 4,
+            "start_col_offset_idx": 0,
+            "end_col_offset_idx": 1,
+            "text": "Transmit Center Frequency",
+            "column_header": false,
+            "row_header": false,
+            "row_section": false,
+            "fillable": false
+          },
+          {
+            "bbox": {
+              "l": 276.88,
+              "t": 208.014,
+              "r": 371.51199999999994,
+              "b": 218.346,
+              "coord_origin": "TOPLEFT"
+            },
+            "row_span": 1,
+            "col_span": 1,
+            "start_row_offset_idx": 3,
+            "end_row_offset_idx": 4,
+            "start_col_offset_idx": 1,
+            "end_col_offset_idx": 2,
+            "text": "Summarized Below",
+            "column_header": false,
+            "row_header": false,
+            "row_section": false,
+            "fillable": false
+          },
+          {
+            "bbox": {
+              "l": 90.8,
+              "t": 227.014,
+              "r": 217.324,
+              "b": 237.346,
+              "coord_origin": "TOPLEFT"
+            },
+            "row_span": 1,
+            "col_span": 1,
+            "start_row_offset_idx": 4,
+            "end_row_offset_idx": 5,
+            "start_col_offset_idx": 0,
+            "end_col_offset_idx": 1,
+            "text": "Receive Center Frequency",
+            "column_header": false,
+            "row_header": false,
+            "row_section": false,
+            "fillable": false
+          },
+          {
+            "bbox": {
+              "l": 276.88,
+              "t": 227.014,
+              "r": 297.03999999999996,
+              "b": 237.346,
+              "coord_origin": "TOPLEFT"
+            },
+            "row_span": 1,
+            "col_span": 1,
+            "start_row_offset_idx": 4,
+            "end_row_offset_idx": 5,
+            "start_col_offset_idx": 1,
+            "end_col_offset_idx": 2,
+            "text": "N/A",
+            "column_header": false,
+            "row_header": false,
+            "row_section": false,
+            "fillable": false
+          },
+          {
+            "bbox": {
+              "l": 90.8,
+              "t": 245.764,
+              "r": 147.78799999999998,
+              "b": 256.096,
+              "coord_origin": "TOPLEFT"
+            },
+            "row_span": 1,
+            "col_span": 1,
+            "start_row_offset_idx": 5,
+            "end_row_offset_idx": 6,
+            "start_col_offset_idx": 0,
+            "end_col_offset_idx": 1,
+            "text": "Polarization",
+            "column_header": false,
+            "row_header": false,
+            "row_section": false,
+            "fillable": false
+          },
+          {
+            "bbox": {
+              "l": 276.88,
+              "t": 245.764,
+              "r": 374.1499999999999,
+              "b": 256.096,
+              "coord_origin": "TOPLEFT"
+            },
+            "row_span": 1,
+            "col_span": 1,
+            "start_row_offset_idx": 5,
+            "end_row_offset_idx": 6,
+            "start_col_offset_idx": 1,
+            "end_col_offset_idx": 2,
+            "text": "Right Hand Circular",
+            "column_header": false,
+            "row_header": false,
+            "row_section": false,
+            "fillable": false
+          },
+          {
+            "bbox": {
+              "l": 90.8,
+              "t": 264.764,
+              "r": 159.038,
+              "b": 275.096,
+              "coord_origin": "TOPLEFT"
+            },
+            "row_span": 1,
+            "col_span": 1,
+            "start_row_offset_idx": 6,
+            "end_row_offset_idx": 7,
+            "start_col_offset_idx": 0,
+            "end_col_offset_idx": 1,
+            "text": "Transmit Gain",
+            "column_header": false,
+            "row_header": false,
+            "row_section": false,
+            "fillable": false
+          },
+          {
+            "bbox": {
+              "l": 276.88,
+              "t": 264.764,
+              "r": 317.72,
+              "b": 275.096,
+              "coord_origin": "TOPLEFT"
+            },
+            "row_span": 1,
+            "col_span": 1,
+            "start_row_offset_idx": 6,
+            "end_row_offset_idx": 7,
+            "start_col_offset_idx": 1,
+            "end_col_offset_idx": 2,
+            "text": "16.2 dBi",
+            "column_header": false,
+            "row_header": false,
+            "row_section": false,
+            "fillable": false
+          },
+          {
+            "bbox": {
+              "l": 90.8,
+              "t": 283.78400000000005,
+              "r": 179.25799999999998,
+              "b": 294.11600000000004,
+              "coord_origin": "TOPLEFT"
+            },
+            "row_span": 1,
+            "col_span": 1,
+            "start_row_offset_idx": 7,
+            "end_row_offset_idx": 8,
+            "start_col_offset_idx": 0,
+            "end_col_offset_idx": 1,
+            "text": "Latitude (NAD83)",
+            "column_header": false,
+            "row_header": false,
+            "row_section": false,
+            "fillable": false
+          },
+          {
+            "bbox": {
+              "l": 276.88,
+              "t": 283.78400000000005,
+              "r": 342.294,
+              "b": 294.11600000000004,
+              "coord_origin": "TOPLEFT"
+            },
+            "row_span": 1,
+            "col_span": 1,
+            "start_row_offset_idx": 7,
+            "end_row_offset_idx": 8,
+            "start_col_offset_idx": 1,
+            "end_col_offset_idx": 2,
+            "text": "70\u00b012'43.1\"N",
+            "column_header": false,
+            "row_header": false,
+            "row_section": false,
+            "fillable": false
+          },
+          {
+            "bbox": {
+              "l": 90.8,
+              "t": 302.78400000000005,
+              "r": 188.50799999999998,
+              "b": 313.11600000000004,
+              "coord_origin": "TOPLEFT"
+            },
+            "row_span": 1,
+            "col_span": 1,
+            "start_row_offset_idx": 8,
+            "end_row_offset_idx": 9,
+            "start_col_offset_idx": 0,
+            "end_col_offset_idx": 1,
+            "text": "Longitude (NAD83)",
+            "column_header": false,
+            "row_header": false,
+            "row_section": false,
+            "fillable": false
+          },
+          {
+            "bbox": {
+              "l": 276.88,
+              "t": 302.78400000000005,
+              "r": 359.72799999999995,
+              "b": 313.11600000000004,
+              "coord_origin": "TOPLEFT"
+            },
+            "row_span": 1,
+            "col_span": 1,
+            "start_row_offset_idx": 8,
+            "end_row_offset_idx": 9,
+            "start_col_offset_idx": 1,
+            "end_col_offset_idx": 2,
+            "text": "148\u00b0 26' 13.7\"W",
+            "column_header": false,
+            "row_header": false,
+            "row_section": false,
+            "fillable": false
+          },
+          {
+            "bbox": {
+              "l": 90.8,
+              "t": 321.976,
+              "r": 201.99800000000002,
+              "b": 332.06945454545456,
+              "coord_origin": "TOPLEFT"
+            },
+            "row_span": 1,
+            "col_span": 1,
+            "start_row_offset_idx": 9,
+            "end_row_offset_idx": 10,
+            "start_col_offset_idx": 0,
+            "end_col_offset_idx": 1,
+            "text": "Emission Bandwidths",
+            "column_header": false,
+            "row_header": false,
+            "row_section": false,
+            "fillable": false
+          },
+          {
+            "bbox": {
+              "l": 276.88,
+              "t": 321.976,
+              "r": 521.2099999999999,
+              "b": 332.06945454545456,
+              "coord_origin": "TOPLEFT"
+            },
+            "row_span": 1,
+            "col_span": 1,
+            "start_row_offset_idx": 9,
+            "end_row_offset_idx": 10,
+            "start_col_offset_idx": 1,
+            "end_col_offset_idx": 2,
+            "text": "Maximum EIRP Density per Carrier dBw/4kHz",
+            "column_header": false,
+            "row_header": false,
+            "row_section": false,
+            "fillable": false
+          },
+          {
+            "bbox": {
+              "l": 90.8,
+              "t": 340.53400000000005,
+              "r": 125.864,
+              "b": 350.86600000000004,
+              "coord_origin": "TOPLEFT"
+            },
+            "row_span": 1,
+            "col_span": 1,
+            "start_row_offset_idx": 10,
+            "end_row_offset_idx": 11,
+            "start_col_offset_idx": 0,
+            "end_col_offset_idx": 1,
+            "text": "20 kHz",
+            "column_header": false,
+            "row_header": false,
+            "row_section": false,
+            "fillable": false
+          },
+          {
+            "bbox": {
+              "l": 276.88,
+              "t": 340.53400000000005,
+              "r": 297.88,
+              "b": 350.86600000000004,
+              "coord_origin": "TOPLEFT"
+            },
+            "row_span": 1,
+            "col_span": 1,
+            "start_row_offset_idx": 10,
+            "end_row_offset_idx": 11,
+            "start_col_offset_idx": 1,
+            "end_col_offset_idx": 2,
+            "text": "4.26",
+            "column_header": false,
+            "row_header": false,
+            "row_section": false,
+            "fillable": false
+          }
+        ],
+        "num_rows": 11,
+        "num_cols": 2,
+        "grid": [
+          [
+            {
+              "bbox": {
+                "l": 246.85,
+                "t": 148.67599999999993,
+                "r": 299.38,
+                "b": 158.76945454545455,
+                "coord_origin": "TOPLEFT"
+              },
+              "row_span": 1,
+              "col_span": 2,
+              "start_row_offset_idx": 0,
+              "end_row_offset_idx": 1,
+              "start_col_offset_idx": 0,
+              "end_col_offset_idx": 2,
+              "text": "Antenna 1",
+              "column_header": true,
+              "row_header": false,
+              "row_section": false,
+              "fillable": false
+            },
+            {
+              "bbox": {
+                "l": 246.85,
+                "t": 148.67599999999993,
+                "r": 299.38,
+                "b": 158.76945454545455,
+                "coord_origin": "TOPLEFT"
+              },
+              "row_span": 1,
+              "col_span": 2,
+              "start_row_offset_idx": 0,
+              "end_row_offset_idx": 1,
+              "start_col_offset_idx": 0,
+              "end_col_offset_idx": 2,
+              "text": "Antenna 1",
+              "column_header": true,
+              "row_header": false,
+              "row_section": false,
+              "fillable": false
+            }
+          ],
+          [
+            {
+              "bbox": {
+                "l": 90.8,
+                "t": 169.98399999999992,
+                "r": 189.02400000000003,
+                "b": 180.31599999999992,
+                "coord_origin": "TOPLEFT"
+              },
+              "row_span": 1,
+              "col_span": 1,
+              "start_row_offset_idx": 1,
+              "end_row_offset_idx": 2,
+              "start_col_offset_idx": 0,
+              "end_col_offset_idx": 1,
+              "text": "Antenna Description",
+              "column_header": false,
+              "row_header": false,
+              "row_section": false,
+              "fillable": false
+            },
+            {
+              "bbox": {
+                "l": 276.88,
+                "t": 169.98399999999992,
+                "r": 350.02000000000004,
+                "b": 180.31599999999992,
+                "coord_origin": "TOPLEFT"
+              },
+              "row_span": 1,
+              "col_span": 1,
+              "start_row_offset_idx": 1,
+              "end_row_offset_idx": 2,
+              "start_col_offset_idx": 1,
+              "end_col_offset_idx": 2,
+              "text": "M2 400CP30A",
+              "column_header": false,
+              "row_header": false,
+              "row_section": false,
+              "fillable": false
+            }
+          ],
+          [
+            {
+              "bbox": {
+                "l": 90.8,
+                "t": 189.014,
+                "r": 151.872,
+                "b": 199.346,
+                "coord_origin": "TOPLEFT"
+              },
+              "row_span": 1,
+              "col_span": 1,
+              "start_row_offset_idx": 2,
+              "end_row_offset_idx": 3,
+              "start_col_offset_idx": 0,
+              "end_col_offset_idx": 1,
+              "text": "Antenna size",
+              "column_header": false,
+              "row_header": false,
+              "row_section": false,
+              "fillable": false
+            },
+            {
+              "bbox": {
+                "l": 276.88,
+                "t": 189.014,
+                "r": 299.46399999999994,
+                "b": 199.346,
+                "coord_origin": "TOPLEFT"
+              },
+              "row_span": 1,
+              "col_span": 1,
+              "start_row_offset_idx": 2,
+              "end_row_offset_idx": 3,
+              "start_col_offset_idx": 1,
+              "end_col_offset_idx": 2,
+              "text": "Yagi",
+              "column_header": false,
+              "row_header": false,
+              "row_section": false,
+              "fillable": false
+            }
+          ],
+          [
+            {
+              "bbox": {
+                "l": 90.8,
+                "t": 208.014,
+                "r": 221.074,
+                "b": 218.346,
+                "coord_origin": "TOPLEFT"
+              },
+              "row_span": 1,
+              "col_span": 1,
+              "start_row_offset_idx": 3,
+              "end_row_offset_idx": 4,
+              "start_col_offset_idx": 0,
+              "end_col_offset_idx": 1,
+              "text": "Transmit Center Frequency",
+              "column_header": false,
+              "row_header": false,
+              "row_section": false,
+              "fillable": false
+            },
+            {
+              "bbox": {
+                "l": 276.88,
+                "t": 208.014,
+                "r": 371.51199999999994,
+                "b": 218.346,
+                "coord_origin": "TOPLEFT"
+              },
+              "row_span": 1,
+              "col_span": 1,
+              "start_row_offset_idx": 3,
+              "end_row_offset_idx": 4,
+              "start_col_offset_idx": 1,
+              "end_col_offset_idx": 2,
+              "text": "Summarized Below",
+              "column_header": false,
+              "row_header": false,
+              "row_section": false,
+              "fillable": false
+            }
+          ],
+          [
+            {
+              "bbox": {
+                "l": 90.8,
+                "t": 227.014,
+                "r": 217.324,
+                "b": 237.346,
+                "coord_origin": "TOPLEFT"
+              },
+              "row_span": 1,
+              "col_span": 1,
+              "start_row_offset_idx": 4,
+              "end_row_offset_idx": 5,
+              "start_col_offset_idx": 0,
+              "end_col_offset_idx": 1,
+              "text": "Receive Center Frequency",
+              "column_header": false,
+              "row_header": false,
+              "row_section": false,
+              "fillable": false
+            },
+            {
+              "bbox": {
+                "l": 276.88,
+                "t": 227.014,
+                "r": 297.03999999999996,
+                "b": 237.346,
+                "coord_origin": "TOPLEFT"
+              },
+              "row_span": 1,
+              "col_span": 1,
+              "start_row_offset_idx": 4,
+              "end_row_offset_idx": 5,
+              "start_col_offset_idx": 1,
+              "end_col_offset_idx": 2,
+              "text": "N/A",
+              "column_header": false,
+              "row_header": false,
+              "row_section": false,
+              "fillable": false
+            }
+          ],
+          [
+            {
+              "bbox": {
+                "l": 90.8,
+                "t": 245.764,
+                "r": 147.78799999999998,
+                "b": 256.096,
+                "coord_origin": "TOPLEFT"
+              },
+              "row_span": 1,
+              "col_span": 1,
+              "start_row_offset_idx": 5,
+              "end_row_offset_idx": 6,
+              "start_col_offset_idx": 0,
+              "end_col_offset_idx": 1,
+              "text": "Polarization",
+              "column_header": false,
+              "row_header": false,
+              "row_section": false,
+              "fillable": false
+            },
+            {
+              "bbox": {
+                "l": 276.88,
+                "t": 245.764,
+                "r": 374.1499999999999,
+                "b": 256.096,
+                "coord_origin": "TOPLEFT"
+              },
+              "row_span": 1,
+              "col_span": 1,
+              "start_row_offset_idx": 5,
+              "end_row_offset_idx": 6,
+              "start_col_offset_idx": 1,
+              "end_col_offset_idx": 2,
+              "text": "Right Hand Circular",
+              "column_header": false,
+              "row_header": false,
+              "row_section": false,
+              "fillable": false
+            }
+          ],
+          [
+            {
+              "bbox": {
+                "l": 90.8,
+                "t": 264.764,
+                "r": 159.038,
+                "b": 275.096,
+                "coord_origin": "TOPLEFT"
+              },
+              "row_span": 1,
+              "col_span": 1,
+              "start_row_offset_idx": 6,
+              "end_row_offset_idx": 7,
+              "start_col_offset_idx": 0,
+              "end_col_offset_idx": 1,
+              "text": "Transmit Gain",
+              "column_header": false,
+              "row_header": false,
+              "row_section": false,
+              "fillable": false
+            },
+            {
+              "bbox": {
+                "l": 276.88,
+                "t": 264.764,
+                "r": 317.72,
+                "b": 275.096,
+                "coord_origin": "TOPLEFT"
+              },
+              "row_span": 1,
+              "col_span": 1,
+              "start_row_offset_idx": 6,
+              "end_row_offset_idx": 7,
+              "start_col_offset_idx": 1,
+              "end_col_offset_idx": 2,
+              "text": "16.2 dBi",
+              "column_header": false,
+              "row_header": false,
+              "row_section": false,
+              "fillable": false
+            }
+          ],
+          [
+            {
+              "bbox": {
+                "l": 90.8,
+                "t": 283.78400000000005,
+                "r": 179.25799999999998,
+                "b": 294.11600000000004,
+                "coord_origin": "TOPLEFT"
+              },
+              "row_span": 1,
+              "col_span": 1,
+              "start_row_offset_idx": 7,
+              "end_row_offset_idx": 8,
+              "start_col_offset_idx": 0,
+              "end_col_offset_idx": 1,
+              "text": "Latitude (NAD83)",
+              "column_header": false,
+              "row_header": false,
+              "row_section": false,
+              "fillable": false
+            },
+            {
+              "bbox": {
+                "l": 276.88,
+                "t": 283.78400000000005,
+                "r": 342.294,
+                "b": 294.11600000000004,
+                "coord_origin": "TOPLEFT"
+              },
+              "row_span": 1,
+              "col_span": 1,
+              "start_row_offset_idx": 7,
+              "end_row_offset_idx": 8,
+              "start_col_offset_idx": 1,
+              "end_col_offset_idx": 2,
+              "text": "70\u00b012'43.1\"N",
+              "column_header": false,
+              "row_header": false,
+              "row_section": false,
+              "fillable": false
+            }
+          ],
+          [
+            {
+              "bbox": {
+                "l": 90.8,
+                "t": 302.78400000000005,
+                "r": 188.50799999999998,
+                "b": 313.11600000000004,
+                "coord_origin": "TOPLEFT"
+              },
+              "row_span": 1,
+              "col_span": 1,
+              "start_row_offset_idx": 8,
+              "end_row_offset_idx": 9,
+              "start_col_offset_idx": 0,
+              "end_col_offset_idx": 1,
+              "text": "Longitude (NAD83)",
+              "column_header": false,
+              "row_header": false,
+              "row_section": false,
+              "fillable": false
+            },
+            {
+              "bbox": {
+                "l": 276.88,
+                "t": 302.78400000000005,
+                "r": 359.72799999999995,
+                "b": 313.11600000000004,
+                "coord_origin": "TOPLEFT"
+              },
+              "row_span": 1,
+              "col_span": 1,
+              "start_row_offset_idx": 8,
+              "end_row_offset_idx": 9,
+              "start_col_offset_idx": 1,
+              "end_col_offset_idx": 2,
+              "text": "148\u00b0 26' 13.7\"W",
+              "column_header": false,
+              "row_header": false,
+              "row_section": false,
+              "fillable": false
+            }
+          ],
+          [
+            {
+              "bbox": {
+                "l": 90.8,
+                "t": 321.976,
+                "r": 201.99800000000002,
+                "b": 332.06945454545456,
+                "coord_origin": "TOPLEFT"
+              },
+              "row_span": 1,
+              "col_span": 1,
+              "start_row_offset_idx": 9,
+              "end_row_offset_idx": 10,
+              "start_col_offset_idx": 0,
+              "end_col_offset_idx": 1,
+              "text": "Emission Bandwidths",
+              "column_header": false,
+              "row_header": false,
+              "row_section": false,
+              "fillable": false
+            },
+            {
+              "bbox": {
+                "l": 276.88,
+                "t": 321.976,
+                "r": 521.2099999999999,
+                "b": 332.06945454545456,
+                "coord_origin": "TOPLEFT"
+              },
+              "row_span": 1,
+              "col_span": 1,
+              "start_row_offset_idx": 9,
+              "end_row_offset_idx": 10,
+              "start_col_offset_idx": 1,
+              "end_col_offset_idx": 2,
+              "text": "Maximum EIRP Density per Carrier dBw/4kHz",
+              "column_header": false,
+              "row_header": false,
+              "row_section": false,
+              "fillable": false
+            }
+          ],
+          [
+            {
+              "bbox": {
+                "l": 90.8,
+                "t": 340.53400000000005,
+                "r": 125.864,
+                "b": 350.86600000000004,
+                "coord_origin": "TOPLEFT"
+              },
+              "row_span": 1,
+              "col_span": 1,
+              "start_row_offset_idx": 10,
+              "end_row_offset_idx": 11,
+              "start_col_offset_idx": 0,
+              "end_col_offset_idx": 1,
+              "text": "20 kHz",
+              "column_header": false,
+              "row_header": false,
+              "row_section": false,
+              "fillable": false
+            },
+            {
+              "bbox": {
+                "l": 276.88,
+                "t": 340.53400000000005,
+                "r": 297.88,
+                "b": 350.86600000000004,
+                "coord_origin": "TOPLEFT"
+              },
+              "row_span": 1,
+              "col_span": 1,
+              "start_row_offset_idx": 10,
+              "end_row_offset_idx": 11,
+              "start_col_offset_idx": 1,
+              "end_col_offset_idx": 2,
+              "text": "4.26",
+              "column_header": false,
+              "row_header": false,
+              "row_section": false,
+              "fillable": false
+            }
+          ]
+        ]
+      },
+      "annotations": []
+    },
+    {
+      "self_ref": "#/tables/3",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "table",
+      "prov": [
+        {
+          "page_no": 9,
+          "bbox": {
+            "l": 83.99235534667969,
+            "t": 385.33258056640625,
+            "r": 537.6936645507812,
+            "b": 279.275634765625,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            0
+          ]
+        }
+      ],
+      "captions": [],
+      "references": [],
+      "footnotes": [],
+      "data": {
+        "table_cells": [
+          {
+            "bbox": {
+              "l": 215.35,
+              "t": 410.746,
+              "r": 339.748,
+              "b": 420.83945454545454,
+              "coord_origin": "TOPLEFT"
+            },
+            "row_span": 1,
+            "col_span": 2,
+            "start_row_offset_idx": 0,
+            "end_row_offset_idx": 1,
+            "start_col_offset_idx": 0,
+            "end_col_offset_idx": 2,
+            "text": "Point of Communication",
+            "column_header": true,
+            "row_header": false,
+            "row_section": false,
+            "fillable": false
+          },
+          {
+            "bbox": {
+              "l": 90.8,
+              "t": 436.334,
+              "r": 129.61999999999998,
+              "b": 446.666,
+              "coord_origin": "TOPLEFT"
+            },
+            "row_span": 1,
+            "col_span": 1,
+            "start_row_offset_idx": 1,
+            "end_row_offset_idx": 2,
+            "start_col_offset_idx": 0,
+            "end_col_offset_idx": 1,
+            "text": "Satellite",
+            "column_header": false,
+            "row_header": false,
+            "row_section": false,
+            "fillable": false
+          },
+          {
+            "bbox": {
+              "l": 277.13,
+              "t": 436.334,
+              "r": 336.38,
+              "b": 446.666,
+              "coord_origin": "TOPLEFT"
+            },
+            "row_span": 1,
+            "col_span": 1,
+            "start_row_offset_idx": 1,
+            "end_row_offset_idx": 2,
+            "start_col_offset_idx": 1,
+            "end_col_offset_idx": 2,
+            "text": "Anduril-216",
+            "column_header": false,
+            "row_header": false,
+            "row_section": false,
+            "fillable": false
+          },
+          {
+            "bbox": {
+              "l": 90.8,
+              "t": 458.084,
+              "r": 135.05399999999997,
+              "b": 468.416,
+              "coord_origin": "TOPLEFT"
+            },
+            "row_span": 1,
+            "col_span": 1,
+            "start_row_offset_idx": 2,
+            "end_row_offset_idx": 3,
+            "start_col_offset_idx": 0,
+            "end_col_offset_idx": 1,
+            "text": "Call Sign",
+            "column_header": false,
+            "row_header": false,
+            "row_section": false,
+            "fillable": false
+          },
+          {
+            "bbox": {
+              "l": 276.63,
+              "t": 458.084,
+              "r": 328.2539999999999,
+              "b": 468.416,
+              "coord_origin": "TOPLEFT"
+            },
+            "row_span": 1,
+            "col_span": 1,
+            "start_row_offset_idx": 2,
+            "end_row_offset_idx": 3,
+            "start_col_offset_idx": 1,
+            "end_col_offset_idx": 2,
+            "text": "WA9XOO",
+            "column_header": false,
+            "row_header": false,
+            "row_section": false,
+            "fillable": false
+          },
+          {
+            "bbox": {
+              "l": 90.8,
+              "t": 479.084,
+              "r": 156.87199999999999,
+              "b": 489.416,
+              "coord_origin": "TOPLEFT"
+            },
+            "row_span": 1,
+            "col_span": 1,
+            "start_row_offset_idx": 3,
+            "end_row_offset_idx": 4,
+            "start_col_offset_idx": 0,
+            "end_col_offset_idx": 1,
+            "text": "Satellite Type",
+            "column_header": false,
+            "row_header": false,
+            "row_section": false,
+            "fillable": false
+          },
+          {
+            "bbox": {
+              "l": 276.63,
+              "t": 479.084,
+              "r": 308.53799999999995,
+              "b": 489.416,
+              "coord_origin": "TOPLEFT"
+            },
+            "row_span": 1,
+            "col_span": 1,
+            "start_row_offset_idx": 3,
+            "end_row_offset_idx": 4,
+            "start_col_offset_idx": 1,
+            "end_col_offset_idx": 2,
+            "text": "NGSO",
+            "column_header": false,
+            "row_header": false,
+            "row_section": false,
+            "fillable": false
+          },
+          {
+            "bbox": {
+              "l": 90.8,
+              "t": 499.334,
+              "r": 121.78399999999999,
+              "b": 509.666,
+              "coord_origin": "TOPLEFT"
+            },
+            "row_span": 1,
+            "col_span": 1,
+            "start_row_offset_idx": 4,
+            "end_row_offset_idx": 5,
+            "start_col_offset_idx": 0,
+            "end_col_offset_idx": 1,
+            "text": "Orbit*",
+            "column_header": false,
+            "row_header": false,
+            "row_section": false,
+            "fillable": false
+          },
+          {
+            "bbox": {
+              "l": 276.63,
+              "t": 499.334,
+              "r": 420.39799999999997,
+              "b": 509.666,
+              "coord_origin": "TOPLEFT"
+            },
+            "row_span": 1,
+            "col_span": 1,
+            "start_row_offset_idx": 4,
+            "end_row_offset_idx": 5,
+            "start_col_offset_idx": 1,
+            "end_col_offset_idx": 2,
+            "text": "480-550 km; 97.5\u00b0 inclination",
+            "column_header": false,
+            "row_header": false,
+            "row_section": false,
+            "fillable": false
+          }
+        ],
+        "num_rows": 5,
+        "num_cols": 2,
+        "grid": [
+          [
+            {
+              "bbox": {
+                "l": 215.35,
+                "t": 410.746,
+                "r": 339.748,
+                "b": 420.83945454545454,
+                "coord_origin": "TOPLEFT"
+              },
+              "row_span": 1,
+              "col_span": 2,
+              "start_row_offset_idx": 0,
+              "end_row_offset_idx": 1,
+              "start_col_offset_idx": 0,
+              "end_col_offset_idx": 2,
+              "text": "Point of Communication",
+              "column_header": true,
+              "row_header": false,
+              "row_section": false,
+              "fillable": false
+            },
+            {
+              "bbox": {
+                "l": 215.35,
+                "t": 410.746,
+                "r": 339.748,
+                "b": 420.83945454545454,
+                "coord_origin": "TOPLEFT"
+              },
+              "row_span": 1,
+              "col_span": 2,
+              "start_row_offset_idx": 0,
+              "end_row_offset_idx": 1,
+              "start_col_offset_idx": 0,
+              "end_col_offset_idx": 2,
+              "text": "Point of Communication",
+              "column_header": true,
+              "row_header": false,
+              "row_section": false,
+              "fillable": false
+            }
+          ],
+          [
+            {
+              "bbox": {
+                "l": 90.8,
+                "t": 436.334,
+                "r": 129.61999999999998,
+                "b": 446.666,
+                "coord_origin": "TOPLEFT"
+              },
+              "row_span": 1,
+              "col_span": 1,
+              "start_row_offset_idx": 1,
+              "end_row_offset_idx": 2,
+              "start_col_offset_idx": 0,
+              "end_col_offset_idx": 1,
+              "text": "Satellite",
+              "column_header": false,
+              "row_header": false,
+              "row_section": false,
+              "fillable": false
+            },
+            {
+              "bbox": {
+                "l": 277.13,
+                "t": 436.334,
+                "r": 336.38,
+                "b": 446.666,
+                "coord_origin": "TOPLEFT"
+              },
+              "row_span": 1,
+              "col_span": 1,
+              "start_row_offset_idx": 1,
+              "end_row_offset_idx": 2,
+              "start_col_offset_idx": 1,
+              "end_col_offset_idx": 2,
+              "text": "Anduril-216",
+              "column_header": false,
+              "row_header": false,
+              "row_section": false,
+              "fillable": false
+            }
+          ],
+          [
+            {
+              "bbox": {
+                "l": 90.8,
+                "t": 458.084,
+                "r": 135.05399999999997,
+                "b": 468.416,
+                "coord_origin": "TOPLEFT"
+              },
+              "row_span": 1,
+              "col_span": 1,
+              "start_row_offset_idx": 2,
+              "end_row_offset_idx": 3,
+              "start_col_offset_idx": 0,
+              "end_col_offset_idx": 1,
+              "text": "Call Sign",
+              "column_header": false,
+              "row_header": false,
+              "row_section": false,
+              "fillable": false
+            },
+            {
+              "bbox": {
+                "l": 276.63,
+                "t": 458.084,
+                "r": 328.2539999999999,
+                "b": 468.416,
+                "coord_origin": "TOPLEFT"
+              },
+              "row_span": 1,
+              "col_span": 1,
+              "start_row_offset_idx": 2,
+              "end_row_offset_idx": 3,
+              "start_col_offset_idx": 1,
+              "end_col_offset_idx": 2,
+              "text": "WA9XOO",
+              "column_header": false,
+              "row_header": false,
+              "row_section": false,
+              "fillable": false
+            }
+          ],
+          [
+            {
+              "bbox": {
+                "l": 90.8,
+                "t": 479.084,
+                "r": 156.87199999999999,
+                "b": 489.416,
+                "coord_origin": "TOPLEFT"
+              },
+              "row_span": 1,
+              "col_span": 1,
+              "start_row_offset_idx": 3,
+              "end_row_offset_idx": 4,
+              "start_col_offset_idx": 0,
+              "end_col_offset_idx": 1,
+              "text": "Satellite Type",
+              "column_header": false,
+              "row_header": false,
+              "row_section": false,
+              "fillable": false
+            },
+            {
+              "bbox": {
+                "l": 276.63,
+                "t": 479.084,
+                "r": 308.53799999999995,
+                "b": 489.416,
+                "coord_origin": "TOPLEFT"
+              },
+              "row_span": 1,
+              "col_span": 1,
+              "start_row_offset_idx": 3,
+              "end_row_offset_idx": 4,
+              "start_col_offset_idx": 1,
+              "end_col_offset_idx": 2,
+              "text": "NGSO",
+              "column_header": false,
+              "row_header": false,
+              "row_section": false,
+              "fillable": false
+            }
+          ],
+          [
+            {
+              "bbox": {
+                "l": 90.8,
+                "t": 499.334,
+                "r": 121.78399999999999,
+                "b": 509.666,
+                "coord_origin": "TOPLEFT"
+              },
+              "row_span": 1,
+              "col_span": 1,
+              "start_row_offset_idx": 4,
+              "end_row_offset_idx": 5,
+              "start_col_offset_idx": 0,
+              "end_col_offset_idx": 1,
+              "text": "Orbit*",
+              "column_header": false,
+              "row_header": false,
+              "row_section": false,
+              "fillable": false
+            },
+            {
+              "bbox": {
+                "l": 276.63,
+                "t": 499.334,
+                "r": 420.39799999999997,
+                "b": 509.666,
+                "coord_origin": "TOPLEFT"
+              },
+              "row_span": 1,
+              "col_span": 1,
+              "start_row_offset_idx": 4,
+              "end_row_offset_idx": 5,
+              "start_col_offset_idx": 1,
+              "end_col_offset_idx": 2,
+              "text": "480-550 km; 97.5\u00b0 inclination",
+              "column_header": false,
+              "row_header": false,
+              "row_section": false,
+              "fillable": false
+            }
+          ]
+        ]
+      },
+      "annotations": []
+    }
+  ],
+  "key_value_items": [],
+  "form_items": [],
+  "pages": {
+    "1": {
+      "size": {
+        "width": 612.0,
+        "height": 792.0
+      },
+      "page_no": 1
+    },
+    "2": {
+      "size": {
+        "width": 612.0,
+        "height": 792.0
+      },
+      "page_no": 2
+    },
+    "3": {
+      "size": {
+        "width": 612.0,
+        "height": 792.0
+      },
+      "page_no": 3
+    },
+    "4": {
+      "size": {
+        "width": 612.0,
+        "height": 792.0
+      },
+      "page_no": 4
+    },
+    "5": {
+      "size": {
+        "width": 612.0,
+        "height": 792.0
+      },
+      "page_no": 5
+    },
+    "6": {
+      "size": {
+        "width": 612.0,
+        "height": 792.0
+      },
+      "page_no": 6
+    },
+    "7": {
+      "size": {
+        "width": 612.0,
+        "height": 792.0
+      },
+      "page_no": 7
+    },
+    "8": {
+      "size": {
+        "width": 612.0,
+        "height": 792.0
+      },
+      "page_no": 8
+    },
+    "9": {
+      "size": {
+        "width": 612.0,
+        "height": 792.0
+      },
+      "page_no": 9
+    },
+    "10": {
+      "size": {
+        "width": 612.0,
+        "height": 792.0
+      },
+      "page_no": 10
+    }
+  }
+}

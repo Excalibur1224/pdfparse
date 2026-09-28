@@ -1,0 +1,7962 @@
+{
+  "schema_name": "DoclingDocument",
+  "version": "1.9.0",
+  "name": "Application",
+  "origin": {
+    "mimetype": "application/pdf",
+    "binary_hash": 14283196262189066044,
+    "filename": "Application.pdf"
+  },
+  "furniture": {
+    "self_ref": "#/furniture",
+    "children": [],
+    "content_layer": "furniture",
+    "name": "_root_",
+    "label": "unspecified"
+  },
+  "body": {
+    "self_ref": "#/body",
+    "children": [
+      {
+        "$ref": "#/texts/0"
+      },
+      {
+        "$ref": "#/texts/1"
+      },
+      {
+        "$ref": "#/texts/2"
+      },
+      {
+        "$ref": "#/texts/3"
+      },
+      {
+        "$ref": "#/groups/0"
+      },
+      {
+        "$ref": "#/texts/62"
+      },
+      {
+        "$ref": "#/groups/1"
+      },
+      {
+        "$ref": "#/texts/154"
+      },
+      {
+        "$ref": "#/texts/155"
+      },
+      {
+        "$ref": "#/groups/6"
+      },
+      {
+        "$ref": "#/texts/198"
+      },
+      {
+        "$ref": "#/texts/199"
+      },
+      {
+        "$ref": "#/texts/200"
+      },
+      {
+        "$ref": "#/groups/13"
+      },
+      {
+        "$ref": "#/groups/16"
+      },
+      {
+        "$ref": "#/texts/218"
+      },
+      {
+        "$ref": "#/texts/219"
+      },
+      {
+        "$ref": "#/groups/17"
+      },
+      {
+        "$ref": "#/texts/247"
+      },
+      {
+        "$ref": "#/texts/248"
+      },
+      {
+        "$ref": "#/texts/249"
+      },
+      {
+        "$ref": "#/texts/250"
+      },
+      {
+        "$ref": "#/texts/251"
+      }
+    ],
+    "content_layer": "body",
+    "name": "_root_",
+    "label": "unspecified"
+  },
+  "groups": [
+    {
+      "self_ref": "#/groups/0",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [
+        {
+          "$ref": "#/texts/4"
+        },
+        {
+          "$ref": "#/texts/5"
+        },
+        {
+          "$ref": "#/texts/6"
+        },
+        {
+          "$ref": "#/texts/7"
+        },
+        {
+          "$ref": "#/texts/8"
+        },
+        {
+          "$ref": "#/texts/9"
+        },
+        {
+          "$ref": "#/texts/10"
+        },
+        {
+          "$ref": "#/texts/11"
+        },
+        {
+          "$ref": "#/texts/12"
+        },
+        {
+          "$ref": "#/texts/13"
+        },
+        {
+          "$ref": "#/texts/14"
+        },
+        {
+          "$ref": "#/texts/15"
+        },
+        {
+          "$ref": "#/texts/16"
+        },
+        {
+          "$ref": "#/texts/17"
+        },
+        {
+          "$ref": "#/texts/18"
+        },
+        {
+          "$ref": "#/texts/19"
+        },
+        {
+          "$ref": "#/texts/20"
+        },
+        {
+          "$ref": "#/texts/21"
+        },
+        {
+          "$ref": "#/texts/22"
+        },
+        {
+          "$ref": "#/texts/23"
+        },
+        {
+          "$ref": "#/texts/24"
+        },
+        {
+          "$ref": "#/texts/25"
+        },
+        {
+          "$ref": "#/texts/26"
+        },
+        {
+          "$ref": "#/texts/27"
+        },
+        {
+          "$ref": "#/texts/28"
+        },
+        {
+          "$ref": "#/texts/29"
+        },
+        {
+          "$ref": "#/texts/30"
+        },
+        {
+          "$ref": "#/texts/31"
+        },
+        {
+          "$ref": "#/texts/32"
+        },
+        {
+          "$ref": "#/texts/33"
+        },
+        {
+          "$ref": "#/texts/34"
+        },
+        {
+          "$ref": "#/texts/35"
+        },
+        {
+          "$ref": "#/texts/36"
+        },
+        {
+          "$ref": "#/texts/37"
+        },
+        {
+          "$ref": "#/texts/38"
+        },
+        {
+          "$ref": "#/texts/39"
+        },
+        {
+          "$ref": "#/texts/40"
+        },
+        {
+          "$ref": "#/texts/41"
+        },
+        {
+          "$ref": "#/texts/42"
+        },
+        {
+          "$ref": "#/texts/43"
+        },
+        {
+          "$ref": "#/texts/44"
+        },
+        {
+          "$ref": "#/texts/45"
+        },
+        {
+          "$ref": "#/texts/46"
+        },
+        {
+          "$ref": "#/texts/47"
+        },
+        {
+          "$ref": "#/texts/48"
+        },
+        {
+          "$ref": "#/texts/49"
+        },
+        {
+          "$ref": "#/texts/50"
+        },
+        {
+          "$ref": "#/texts/51"
+        },
+        {
+          "$ref": "#/texts/52"
+        },
+        {
+          "$ref": "#/texts/53"
+        },
+        {
+          "$ref": "#/texts/54"
+        },
+        {
+          "$ref": "#/texts/55"
+        },
+        {
+          "$ref": "#/texts/56"
+        },
+        {
+          "$ref": "#/texts/57"
+        },
+        {
+          "$ref": "#/texts/58"
+        },
+        {
+          "$ref": "#/texts/59"
+        },
+        {
+          "$ref": "#/texts/60"
+        },
+        {
+          "$ref": "#/texts/61"
+        }
+      ],
+      "content_layer": "body",
+      "name": "group",
+      "label": "form_area"
+    },
+    {
+      "self_ref": "#/groups/1",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [
+        {
+          "$ref": "#/texts/63"
+        },
+        {
+          "$ref": "#/texts/64"
+        },
+        {
+          "$ref": "#/texts/65"
+        },
+        {
+          "$ref": "#/texts/66"
+        },
+        {
+          "$ref": "#/groups/2"
+        },
+        {
+          "$ref": "#/texts/68"
+        },
+        {
+          "$ref": "#/texts/69"
+        },
+        {
+          "$ref": "#/texts/70"
+        },
+        {
+          "$ref": "#/texts/71"
+        },
+        {
+          "$ref": "#/texts/72"
+        },
+        {
+          "$ref": "#/texts/73"
+        },
+        {
+          "$ref": "#/texts/74"
+        },
+        {
+          "$ref": "#/texts/75"
+        },
+        {
+          "$ref": "#/texts/76"
+        },
+        {
+          "$ref": "#/texts/77"
+        },
+        {
+          "$ref": "#/texts/78"
+        },
+        {
+          "$ref": "#/texts/79"
+        },
+        {
+          "$ref": "#/texts/80"
+        },
+        {
+          "$ref": "#/texts/81"
+        },
+        {
+          "$ref": "#/texts/82"
+        },
+        {
+          "$ref": "#/texts/83"
+        },
+        {
+          "$ref": "#/texts/84"
+        },
+        {
+          "$ref": "#/texts/85"
+        },
+        {
+          "$ref": "#/texts/86"
+        },
+        {
+          "$ref": "#/texts/87"
+        },
+        {
+          "$ref": "#/texts/88"
+        },
+        {
+          "$ref": "#/texts/89"
+        },
+        {
+          "$ref": "#/texts/90"
+        },
+        {
+          "$ref": "#/texts/91"
+        },
+        {
+          "$ref": "#/texts/92"
+        },
+        {
+          "$ref": "#/texts/93"
+        },
+        {
+          "$ref": "#/texts/94"
+        },
+        {
+          "$ref": "#/texts/95"
+        },
+        {
+          "$ref": "#/texts/96"
+        },
+        {
+          "$ref": "#/texts/97"
+        },
+        {
+          "$ref": "#/texts/98"
+        },
+        {
+          "$ref": "#/texts/99"
+        },
+        {
+          "$ref": "#/texts/100"
+        },
+        {
+          "$ref": "#/texts/101"
+        },
+        {
+          "$ref": "#/texts/102"
+        },
+        {
+          "$ref": "#/texts/103"
+        },
+        {
+          "$ref": "#/texts/104"
+        },
+        {
+          "$ref": "#/texts/105"
+        },
+        {
+          "$ref": "#/texts/106"
+        },
+        {
+          "$ref": "#/texts/107"
+        },
+        {
+          "$ref": "#/texts/108"
+        },
+        {
+          "$ref": "#/texts/109"
+        },
+        {
+          "$ref": "#/texts/110"
+        },
+        {
+          "$ref": "#/texts/111"
+        },
+        {
+          "$ref": "#/texts/112"
+        },
+        {
+          "$ref": "#/texts/113"
+        },
+        {
+          "$ref": "#/texts/114"
+        },
+        {
+          "$ref": "#/texts/115"
+        },
+        {
+          "$ref": "#/texts/116"
+        },
+        {
+          "$ref": "#/texts/117"
+        },
+        {
+          "$ref": "#/texts/118"
+        },
+        {
+          "$ref": "#/texts/119"
+        },
+        {
+          "$ref": "#/groups/3"
+        },
+        {
+          "$ref": "#/texts/121"
+        },
+        {
+          "$ref": "#/texts/122"
+        },
+        {
+          "$ref": "#/texts/123"
+        },
+        {
+          "$ref": "#/texts/124"
+        },
+        {
+          "$ref": "#/groups/4"
+        },
+        {
+          "$ref": "#/texts/126"
+        },
+        {
+          "$ref": "#/texts/127"
+        },
+        {
+          "$ref": "#/texts/128"
+        },
+        {
+          "$ref": "#/texts/129"
+        },
+        {
+          "$ref": "#/texts/130"
+        },
+        {
+          "$ref": "#/texts/131"
+        },
+        {
+          "$ref": "#/texts/132"
+        },
+        {
+          "$ref": "#/texts/133"
+        },
+        {
+          "$ref": "#/texts/134"
+        },
+        {
+          "$ref": "#/texts/135"
+        },
+        {
+          "$ref": "#/groups/5"
+        },
+        {
+          "$ref": "#/texts/137"
+        },
+        {
+          "$ref": "#/texts/138"
+        },
+        {
+          "$ref": "#/texts/139"
+        },
+        {
+          "$ref": "#/texts/140"
+        },
+        {
+          "$ref": "#/texts/141"
+        },
+        {
+          "$ref": "#/texts/142"
+        },
+        {
+          "$ref": "#/texts/143"
+        },
+        {
+          "$ref": "#/texts/144"
+        },
+        {
+          "$ref": "#/texts/145"
+        },
+        {
+          "$ref": "#/texts/146"
+        },
+        {
+          "$ref": "#/texts/147"
+        },
+        {
+          "$ref": "#/texts/148"
+        },
+        {
+          "$ref": "#/texts/149"
+        },
+        {
+          "$ref": "#/texts/150"
+        },
+        {
+          "$ref": "#/texts/151"
+        },
+        {
+          "$ref": "#/texts/152"
+        },
+        {
+          "$ref": "#/texts/153"
+        }
+      ],
+      "content_layer": "body",
+      "name": "group",
+      "label": "form_area"
+    },
+    {
+      "self_ref": "#/groups/2",
+      "parent": {
+        "$ref": "#/groups/1"
+      },
+      "children": [
+        {
+          "$ref": "#/texts/67"
+        }
+      ],
+      "content_layer": "body",
+      "name": "group",
+      "label": "list"
+    },
+    {
+      "self_ref": "#/groups/3",
+      "parent": {
+        "$ref": "#/groups/1"
+      },
+      "children": [
+        {
+          "$ref": "#/texts/120"
+        }
+      ],
+      "content_layer": "body",
+      "name": "group",
+      "label": "list"
+    },
+    {
+      "self_ref": "#/groups/4",
+      "parent": {
+        "$ref": "#/groups/1"
+      },
+      "children": [
+        {
+          "$ref": "#/texts/125"
+        }
+      ],
+      "content_layer": "body",
+      "name": "group",
+      "label": "list"
+    },
+    {
+      "self_ref": "#/groups/5",
+      "parent": {
+        "$ref": "#/groups/1"
+      },
+      "children": [
+        {
+          "$ref": "#/texts/136"
+        }
+      ],
+      "content_layer": "body",
+      "name": "group",
+      "label": "list"
+    },
+    {
+      "self_ref": "#/groups/6",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [
+        {
+          "$ref": "#/texts/156"
+        },
+        {
+          "$ref": "#/groups/7"
+        },
+        {
+          "$ref": "#/texts/158"
+        },
+        {
+          "$ref": "#/texts/159"
+        },
+        {
+          "$ref": "#/texts/160"
+        },
+        {
+          "$ref": "#/groups/8"
+        },
+        {
+          "$ref": "#/texts/162"
+        },
+        {
+          "$ref": "#/texts/163"
+        },
+        {
+          "$ref": "#/texts/164"
+        },
+        {
+          "$ref": "#/texts/165"
+        },
+        {
+          "$ref": "#/groups/9"
+        },
+        {
+          "$ref": "#/texts/167"
+        },
+        {
+          "$ref": "#/texts/168"
+        },
+        {
+          "$ref": "#/texts/169"
+        },
+        {
+          "$ref": "#/texts/170"
+        },
+        {
+          "$ref": "#/texts/171"
+        },
+        {
+          "$ref": "#/texts/172"
+        },
+        {
+          "$ref": "#/texts/173"
+        },
+        {
+          "$ref": "#/texts/174"
+        },
+        {
+          "$ref": "#/texts/175"
+        },
+        {
+          "$ref": "#/groups/10"
+        },
+        {
+          "$ref": "#/texts/177"
+        },
+        {
+          "$ref": "#/texts/178"
+        },
+        {
+          "$ref": "#/texts/179"
+        },
+        {
+          "$ref": "#/texts/180"
+        },
+        {
+          "$ref": "#/texts/181"
+        },
+        {
+          "$ref": "#/texts/182"
+        },
+        {
+          "$ref": "#/texts/183"
+        },
+        {
+          "$ref": "#/texts/184"
+        },
+        {
+          "$ref": "#/texts/185"
+        },
+        {
+          "$ref": "#/texts/186"
+        },
+        {
+          "$ref": "#/texts/187"
+        },
+        {
+          "$ref": "#/groups/11"
+        },
+        {
+          "$ref": "#/texts/189"
+        },
+        {
+          "$ref": "#/texts/190"
+        },
+        {
+          "$ref": "#/texts/191"
+        },
+        {
+          "$ref": "#/texts/192"
+        },
+        {
+          "$ref": "#/texts/193"
+        },
+        {
+          "$ref": "#/texts/194"
+        },
+        {
+          "$ref": "#/groups/12"
+        },
+        {
+          "$ref": "#/texts/196"
+        },
+        {
+          "$ref": "#/texts/197"
+        }
+      ],
+      "content_layer": "body",
+      "name": "group",
+      "label": "form_area"
+    },
+    {
+      "self_ref": "#/groups/7",
+      "parent": {
+        "$ref": "#/groups/6"
+      },
+      "children": [
+        {
+          "$ref": "#/texts/157"
+        }
+      ],
+      "content_layer": "body",
+      "name": "group",
+      "label": "list"
+    },
+    {
+      "self_ref": "#/groups/8",
+      "parent": {
+        "$ref": "#/groups/6"
+      },
+      "children": [
+        {
+          "$ref": "#/texts/161"
+        }
+      ],
+      "content_layer": "body",
+      "name": "group",
+      "label": "list"
+    },
+    {
+      "self_ref": "#/groups/9",
+      "parent": {
+        "$ref": "#/groups/6"
+      },
+      "children": [
+        {
+          "$ref": "#/texts/166"
+        }
+      ],
+      "content_layer": "body",
+      "name": "group",
+      "label": "list"
+    },
+    {
+      "self_ref": "#/groups/10",
+      "parent": {
+        "$ref": "#/groups/6"
+      },
+      "children": [
+        {
+          "$ref": "#/texts/176"
+        }
+      ],
+      "content_layer": "body",
+      "name": "group",
+      "label": "list"
+    },
+    {
+      "self_ref": "#/groups/11",
+      "parent": {
+        "$ref": "#/groups/6"
+      },
+      "children": [
+        {
+          "$ref": "#/texts/188"
+        }
+      ],
+      "content_layer": "body",
+      "name": "group",
+      "label": "list"
+    },
+    {
+      "self_ref": "#/groups/12",
+      "parent": {
+        "$ref": "#/groups/6"
+      },
+      "children": [
+        {
+          "$ref": "#/texts/195"
+        }
+      ],
+      "content_layer": "body",
+      "name": "group",
+      "label": "list"
+    },
+    {
+      "self_ref": "#/groups/13",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [
+        {
+          "$ref": "#/texts/201"
+        },
+        {
+          "$ref": "#/texts/202"
+        },
+        {
+          "$ref": "#/texts/203"
+        },
+        {
+          "$ref": "#/texts/204"
+        },
+        {
+          "$ref": "#/texts/205"
+        },
+        {
+          "$ref": "#/texts/206"
+        },
+        {
+          "$ref": "#/texts/207"
+        },
+        {
+          "$ref": "#/texts/208"
+        },
+        {
+          "$ref": "#/texts/209"
+        },
+        {
+          "$ref": "#/texts/210"
+        },
+        {
+          "$ref": "#/texts/211"
+        },
+        {
+          "$ref": "#/texts/212"
+        },
+        {
+          "$ref": "#/texts/213"
+        },
+        {
+          "$ref": "#/texts/214"
+        },
+        {
+          "$ref": "#/groups/14"
+        },
+        {
+          "$ref": "#/groups/15"
+        }
+      ],
+      "content_layer": "body",
+      "name": "group",
+      "label": "form_area"
+    },
+    {
+      "self_ref": "#/groups/14",
+      "parent": {
+        "$ref": "#/groups/13"
+      },
+      "children": [
+        {
+          "$ref": "#/texts/215"
+        }
+      ],
+      "content_layer": "body",
+      "name": "group",
+      "label": "list"
+    },
+    {
+      "self_ref": "#/groups/15",
+      "parent": {
+        "$ref": "#/groups/13"
+      },
+      "children": [
+        {
+          "$ref": "#/texts/216"
+        }
+      ],
+      "content_layer": "body",
+      "name": "group",
+      "label": "list"
+    },
+    {
+      "self_ref": "#/groups/16",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [
+        {
+          "$ref": "#/texts/217"
+        }
+      ],
+      "content_layer": "body",
+      "name": "list",
+      "label": "list"
+    },
+    {
+      "self_ref": "#/groups/17",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [
+        {
+          "$ref": "#/groups/18"
+        },
+        {
+          "$ref": "#/texts/221"
+        },
+        {
+          "$ref": "#/texts/222"
+        },
+        {
+          "$ref": "#/texts/223"
+        },
+        {
+          "$ref": "#/texts/224"
+        },
+        {
+          "$ref": "#/texts/225"
+        },
+        {
+          "$ref": "#/texts/226"
+        },
+        {
+          "$ref": "#/texts/227"
+        },
+        {
+          "$ref": "#/texts/228"
+        },
+        {
+          "$ref": "#/texts/229"
+        },
+        {
+          "$ref": "#/texts/230"
+        },
+        {
+          "$ref": "#/texts/231"
+        },
+        {
+          "$ref": "#/texts/232"
+        },
+        {
+          "$ref": "#/texts/233"
+        },
+        {
+          "$ref": "#/texts/234"
+        },
+        {
+          "$ref": "#/texts/235"
+        },
+        {
+          "$ref": "#/texts/236"
+        },
+        {
+          "$ref": "#/texts/237"
+        },
+        {
+          "$ref": "#/texts/238"
+        },
+        {
+          "$ref": "#/texts/239"
+        },
+        {
+          "$ref": "#/groups/19"
+        },
+        {
+          "$ref": "#/groups/20"
+        },
+        {
+          "$ref": "#/texts/242"
+        },
+        {
+          "$ref": "#/texts/243"
+        },
+        {
+          "$ref": "#/texts/244"
+        },
+        {
+          "$ref": "#/texts/245"
+        },
+        {
+          "$ref": "#/texts/246"
+        }
+      ],
+      "content_layer": "body",
+      "name": "group",
+      "label": "form_area"
+    },
+    {
+      "self_ref": "#/groups/18",
+      "parent": {
+        "$ref": "#/groups/17"
+      },
+      "children": [
+        {
+          "$ref": "#/texts/220"
+        }
+      ],
+      "content_layer": "body",
+      "name": "group",
+      "label": "list"
+    },
+    {
+      "self_ref": "#/groups/19",
+      "parent": {
+        "$ref": "#/groups/17"
+      },
+      "children": [
+        {
+          "$ref": "#/texts/240"
+        }
+      ],
+      "content_layer": "body",
+      "name": "group",
+      "label": "list"
+    },
+    {
+      "self_ref": "#/groups/20",
+      "parent": {
+        "$ref": "#/groups/17"
+      },
+      "children": [
+        {
+          "$ref": "#/texts/241"
+        }
+      ],
+      "content_layer": "body",
+      "name": "group",
+      "label": "list"
+    }
+  ],
+  "texts": [
+    {
+      "self_ref": "#/texts/0",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "furniture",
+      "label": "page_header",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 630.0,
+            "t": 534.513,
+            "r": 717.6700000000001,
+            "b": 511.613,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            25
+          ]
+        }
+      ],
+      "orig": "Approved by OMB 3060-1066",
+      "text": "Approved by OMB 3060-1066"
+    },
+    {
+      "self_ref": "#/texts/1",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 243.5,
+            "t": 499.513,
+            "r": 516.3,
+            "b": 463.613,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            120
+          ]
+        }
+      ],
+      "orig": "FORM 312-R APPLICATION FOR RENEWAL OF RADIO LICENSE IN SPECIFIED SERVICES GLYPH<9>GLYPH<9>GLYPH<9> FOR OFFICIAL USE ONLY",
+      "text": "FORM 312-R APPLICATION FOR RENEWAL OF RADIO LICENSE IN SPECIFIED SERVICES GLYPH<9>GLYPH<9>GLYPH<9> FOR OFFICIAL USE ONLY",
+      "level": 1
+    },
+    {
+      "self_ref": "#/texts/2",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 392.975,
+            "t": 460.513,
+            "r": 403.975,
+            "b": 450.613,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            16
+          ]
+        }
+      ],
+      "orig": "GLYPH<9>GLYPH<9>",
+      "text": "GLYPH<9>GLYPH<9>"
+    },
+    {
+      "self_ref": "#/texts/3",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 72.0,
+            "t": 442.196,
+            "r": 620.0,
+            "b": 417.396,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            124
+          ]
+        }
+      ],
+      "orig": "APPLICANT INFORMATION Enter a description of this application to identify it on the main menu: GLYPH<9> E000180 Renewal 2011",
+      "text": "APPLICANT INFORMATION Enter a description of this application to identify it on the main menu: GLYPH<9> E000180 Renewal 2011",
+      "level": 1
+    },
+    {
+      "self_ref": "#/texts/4",
+      "parent": {
+        "$ref": "#/groups/0"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 75.0,
+            "t": 409.513,
+            "r": 140.39499999999998,
+            "b": 399.613,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            12
+          ]
+        }
+      ],
+      "orig": "1. Applicant",
+      "text": "1. Applicant",
+      "level": 1
+    },
+    {
+      "self_ref": "#/texts/5",
+      "parent": {
+        "$ref": "#/groups/0"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 129.0,
+            "t": 409.513,
+            "r": 145.5,
+            "b": 399.613,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            24
+          ]
+        }
+      ],
+      "orig": "GLYPH<9>GLYPH<9>GLYPH<9>",
+      "text": "GLYPH<9>GLYPH<9>GLYPH<9>"
+    },
+    {
+      "self_ref": "#/texts/6",
+      "parent": {
+        "$ref": "#/groups/0"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 138.0,
+            "t": 409.513,
+            "r": 160.0,
+            "b": 399.613,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            32
+          ]
+        }
+      ],
+      "orig": "GLYPH<9>GLYPH<9>GLYPH<9>GLYPH<9>",
+      "text": "GLYPH<9>GLYPH<9>GLYPH<9>GLYPH<9>"
+    },
+    {
+      "self_ref": "#/texts/7",
+      "parent": {
+        "$ref": "#/groups/0"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 75.0,
+            "t": 248.51300000000003,
+            "r": 94.5,
+            "b": 238.613,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            24
+          ]
+        }
+      ],
+      "orig": "GLYPH<9>GLYPH<9>GLYPH<9>",
+      "text": "GLYPH<9>GLYPH<9>GLYPH<9>"
+    },
+    {
+      "self_ref": "#/texts/8",
+      "parent": {
+        "$ref": "#/groups/0"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 87.0,
+            "t": 248.51300000000003,
+            "r": 98.0,
+            "b": 238.613,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            16
+          ]
+        }
+      ],
+      "orig": "GLYPH<9>GLYPH<9>",
+      "text": "GLYPH<9>GLYPH<9>"
+    },
+    {
+      "self_ref": "#/texts/9",
+      "parent": {
+        "$ref": "#/groups/0"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 93.0,
+            "t": 248.51300000000003,
+            "r": 98.5,
+            "b": 238.613,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            8
+          ]
+        }
+      ],
+      "orig": "GLYPH<9>",
+      "text": "GLYPH<9>"
+    },
+    {
+      "self_ref": "#/texts/10",
+      "parent": {
+        "$ref": "#/groups/0"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 96.0,
+            "t": 248.51300000000003,
+            "r": 101.5,
+            "b": 238.613,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            8
+          ]
+        }
+      ],
+      "orig": "GLYPH<9>",
+      "text": "GLYPH<9>"
+    },
+    {
+      "self_ref": "#/texts/11",
+      "parent": {
+        "$ref": "#/groups/0"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 124.75,
+            "t": 392.513,
+            "r": 152.25,
+            "b": 382.613,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            5
+          ]
+        }
+      ],
+      "orig": "Name:",
+      "text": "Name:"
+    },
+    {
+      "self_ref": "#/texts/12",
+      "parent": {
+        "$ref": "#/groups/0"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 156.75,
+            "t": 392.513,
+            "r": 343.75,
+            "b": 382.613,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            76
+          ]
+        }
+      ],
+      "orig": "GLYPH<9>GLYPH<9>GLYPH<9>GLYPH<9>GLYPH<9>GLYPH<9>Stratos Communications, Inc.",
+      "text": "GLYPH<9>GLYPH<9>GLYPH<9>GLYPH<9>GLYPH<9>GLYPH<9>Stratos Communications, Inc."
+    },
+    {
+      "self_ref": "#/texts/13",
+      "parent": {
+        "$ref": "#/groups/0"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 320.75,
+            "t": 392.513,
+            "r": 353.75,
+            "b": 382.613,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            48
+          ]
+        }
+      ],
+      "orig": "GLYPH<9>GLYPH<9>GLYPH<9>GLYPH<9>GLYPH<9>GLYPH<9>",
+      "text": "GLYPH<9>GLYPH<9>GLYPH<9>GLYPH<9>GLYPH<9>GLYPH<9>"
+    },
+    {
+      "self_ref": "#/texts/14",
+      "parent": {
+        "$ref": "#/groups/0"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 350.25,
+            "t": 392.513,
+            "r": 421.75,
+            "b": 382.613,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            13
+          ]
+        }
+      ],
+      "orig": "Phone Number:",
+      "text": "Phone Number:"
+    },
+    {
+      "self_ref": "#/texts/15",
+      "parent": {
+        "$ref": "#/groups/0"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 425.25,
+            "t": 392.513,
+            "r": 458.25,
+            "b": 382.613,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            48
+          ]
+        }
+      ],
+      "orig": "GLYPH<9>GLYPH<9>GLYPH<9>GLYPH<9>GLYPH<9>GLYPH<9>",
+      "text": "GLYPH<9>GLYPH<9>GLYPH<9>GLYPH<9>GLYPH<9>GLYPH<9>"
+    },
+    {
+      "self_ref": "#/texts/16",
+      "parent": {
+        "$ref": "#/groups/0"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 510.75,
+            "t": 392.513,
+            "r": 648.25,
+            "b": 382.613,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            53
+          ]
+        }
+      ],
+      "orig": "301-968-1951 GLYPH<9>GLYPH<9>GLYPH<9>GLYPH<9>GLYPH<9>",
+      "text": "301-968-1951 GLYPH<9>GLYPH<9>GLYPH<9>GLYPH<9>GLYPH<9>"
+    },
+    {
+      "self_ref": "#/texts/17",
+      "parent": {
+        "$ref": "#/groups/0"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 628.75,
+            "t": 392.513,
+            "r": 656.25,
+            "b": 382.613,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            40
+          ]
+        }
+      ],
+      "orig": "GLYPH<9>GLYPH<9>GLYPH<9>GLYPH<9>GLYPH<9>",
+      "text": "GLYPH<9>GLYPH<9>GLYPH<9>GLYPH<9>GLYPH<9>"
+    },
+    {
+      "self_ref": "#/texts/18",
+      "parent": {
+        "$ref": "#/groups/0"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 124.75,
+            "t": 373.513,
+            "r": 173.92000000000002,
+            "b": 363.613,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            9
+          ]
+        }
+      ],
+      "orig": "DBA Name:",
+      "text": "DBA Name:"
+    },
+    {
+      "self_ref": "#/texts/19",
+      "parent": {
+        "$ref": "#/groups/0"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 181.75,
+            "t": 373.513,
+            "r": 214.75,
+            "b": 363.613,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            48
+          ]
+        }
+      ],
+      "orig": "GLYPH<9>GLYPH<9>GLYPH<9>GLYPH<9>GLYPH<9>GLYPH<9>",
+      "text": "GLYPH<9>GLYPH<9>GLYPH<9>GLYPH<9>GLYPH<9>GLYPH<9>"
+    },
+    {
+      "self_ref": "#/texts/20",
+      "parent": {
+        "$ref": "#/groups/0"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 189.75,
+            "t": 373.513,
+            "r": 222.75,
+            "b": 363.613,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            48
+          ]
+        }
+      ],
+      "orig": "GLYPH<9>GLYPH<9>GLYPH<9>GLYPH<9>GLYPH<9>GLYPH<9>",
+      "text": "GLYPH<9>GLYPH<9>GLYPH<9>GLYPH<9>GLYPH<9>GLYPH<9>"
+    },
+    {
+      "self_ref": "#/texts/21",
+      "parent": {
+        "$ref": "#/groups/0"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 350.25,
+            "t": 373.513,
+            "r": 410.475,
+            "b": 363.613,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            11
+          ]
+        }
+      ],
+      "orig": "Fax Number:",
+      "text": "Fax Number:"
+    },
+    {
+      "self_ref": "#/texts/22",
+      "parent": {
+        "$ref": "#/groups/0"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 413.25,
+            "t": 373.513,
+            "r": 446.25,
+            "b": 363.613,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            48
+          ]
+        }
+      ],
+      "orig": "GLYPH<9>GLYPH<9>GLYPH<9>GLYPH<9>GLYPH<9>GLYPH<9>",
+      "text": "GLYPH<9>GLYPH<9>GLYPH<9>GLYPH<9>GLYPH<9>GLYPH<9>"
+    },
+    {
+      "self_ref": "#/texts/23",
+      "parent": {
+        "$ref": "#/groups/0"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 510.75,
+            "t": 373.513,
+            "r": 648.25,
+            "b": 363.613,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            53
+          ]
+        }
+      ],
+      "orig": "301-214-2234 GLYPH<9>GLYPH<9>GLYPH<9>GLYPH<9>GLYPH<9>",
+      "text": "301-214-2234 GLYPH<9>GLYPH<9>GLYPH<9>GLYPH<9>GLYPH<9>"
+    },
+    {
+      "self_ref": "#/texts/24",
+      "parent": {
+        "$ref": "#/groups/0"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 628.75,
+            "t": 373.513,
+            "r": 656.25,
+            "b": 363.613,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            40
+          ]
+        }
+      ],
+      "orig": "GLYPH<9>GLYPH<9>GLYPH<9>GLYPH<9>GLYPH<9>",
+      "text": "GLYPH<9>GLYPH<9>GLYPH<9>GLYPH<9>GLYPH<9>"
+    },
+    {
+      "self_ref": "#/texts/25",
+      "parent": {
+        "$ref": "#/groups/0"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 124.75,
+            "t": 354.513,
+            "r": 163.052,
+            "b": 344.613,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            7
+          ]
+        }
+      ],
+      "orig": "Street:",
+      "text": "Street:"
+    },
+    {
+      "self_ref": "#/texts/26",
+      "parent": {
+        "$ref": "#/groups/0"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 156.75,
+            "t": 354.513,
+            "r": 310.31,
+            "b": 344.613,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            70
+          ]
+        }
+      ],
+      "orig": "GLYPH<9>GLYPH<9>GLYPH<9>GLYPH<9>GLYPH<9>GLYPH<9>6550 Rock Spring Drive",
+      "text": "GLYPH<9>GLYPH<9>GLYPH<9>GLYPH<9>GLYPH<9>GLYPH<9>6550 Rock Spring Drive"
+    },
+    {
+      "self_ref": "#/texts/27",
+      "parent": {
+        "$ref": "#/groups/0"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 297.75,
+            "t": 354.513,
+            "r": 330.75,
+            "b": 344.613,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            48
+          ]
+        }
+      ],
+      "orig": "GLYPH<9>GLYPH<9>GLYPH<9>GLYPH<9>GLYPH<9>GLYPH<9>",
+      "text": "GLYPH<9>GLYPH<9>GLYPH<9>GLYPH<9>GLYPH<9>GLYPH<9>"
+    },
+    {
+      "self_ref": "#/texts/28",
+      "parent": {
+        "$ref": "#/groups/0"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 350.25,
+            "t": 354.513,
+            "r": 388.75,
+            "b": 344.613,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            7
+          ]
+        }
+      ],
+      "orig": "E-Mail:",
+      "text": "E-Mail:"
+    },
+    {
+      "self_ref": "#/texts/29",
+      "parent": {
+        "$ref": "#/groups/0"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 390.25,
+            "t": 354.513,
+            "r": 423.25,
+            "b": 344.613,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            48
+          ]
+        }
+      ],
+      "orig": "GLYPH<9>GLYPH<9>GLYPH<9>GLYPH<9>GLYPH<9>GLYPH<9>",
+      "text": "GLYPH<9>GLYPH<9>GLYPH<9>GLYPH<9>GLYPH<9>GLYPH<9>"
+    },
+    {
+      "self_ref": "#/texts/30",
+      "parent": {
+        "$ref": "#/groups/0"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 510.75,
+            "t": 354.513,
+            "r": 675.53,
+            "b": 344.613,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            30
+          ]
+        }
+      ],
+      "orig": "Regan.Rishel@stratosglobal.com",
+      "text": "Regan.Rishel@stratosglobal.com"
+    },
+    {
+      "self_ref": "#/texts/31",
+      "parent": {
+        "$ref": "#/groups/0"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 657.75,
+            "t": 354.513,
+            "r": 685.25,
+            "b": 344.613,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            40
+          ]
+        }
+      ],
+      "orig": "GLYPH<9>GLYPH<9>GLYPH<9>GLYPH<9>GLYPH<9>",
+      "text": "GLYPH<9>GLYPH<9>GLYPH<9>GLYPH<9>GLYPH<9>"
+    },
+    {
+      "self_ref": "#/texts/32",
+      "parent": {
+        "$ref": "#/groups/0"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 510.75,
+            "t": 341.513,
+            "r": 538.25,
+            "b": 331.613,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            40
+          ]
+        }
+      ],
+      "orig": "GLYPH<9>GLYPH<9>GLYPH<9>GLYPH<9>GLYPH<9>",
+      "text": "GLYPH<9>GLYPH<9>GLYPH<9>GLYPH<9>GLYPH<9>"
+    },
+    {
+      "self_ref": "#/texts/33",
+      "parent": {
+        "$ref": "#/groups/0"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 124.75,
+            "t": 322.513,
+            "r": 157.75,
+            "b": 312.613,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            48
+          ]
+        }
+      ],
+      "orig": "GLYPH<9>GLYPH<9>GLYPH<9>GLYPH<9>GLYPH<9>GLYPH<9>",
+      "text": "GLYPH<9>GLYPH<9>GLYPH<9>GLYPH<9>GLYPH<9>GLYPH<9>"
+    },
+    {
+      "self_ref": "#/texts/34",
+      "parent": {
+        "$ref": "#/groups/0"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 189.75,
+            "t": 322.513,
+            "r": 239.25,
+            "b": 312.613,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            9
+          ]
+        }
+      ],
+      "orig": "Suite 650",
+      "text": "Suite 650"
+    },
+    {
+      "self_ref": "#/texts/35",
+      "parent": {
+        "$ref": "#/groups/0"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 231.75,
+            "t": 322.513,
+            "r": 259.25,
+            "b": 312.613,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            40
+          ]
+        }
+      ],
+      "orig": "GLYPH<9>GLYPH<9>GLYPH<9>GLYPH<9>GLYPH<9>",
+      "text": "GLYPH<9>GLYPH<9>GLYPH<9>GLYPH<9>GLYPH<9>"
+    },
+    {
+      "self_ref": "#/texts/36",
+      "parent": {
+        "$ref": "#/groups/0"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 245.75,
+            "t": 322.513,
+            "r": 273.25,
+            "b": 312.613,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            40
+          ]
+        }
+      ],
+      "orig": "GLYPH<9>GLYPH<9>GLYPH<9>GLYPH<9>GLYPH<9>",
+      "text": "GLYPH<9>GLYPH<9>GLYPH<9>GLYPH<9>GLYPH<9>"
+    },
+    {
+      "self_ref": "#/texts/37",
+      "parent": {
+        "$ref": "#/groups/0"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 124.75,
+            "t": 303.513,
+            "r": 152.25,
+            "b": 293.613,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            5
+          ]
+        }
+      ],
+      "orig": "City:",
+      "text": "City:"
+    },
+    {
+      "self_ref": "#/texts/38",
+      "parent": {
+        "$ref": "#/groups/0"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 148.75,
+            "t": 303.513,
+            "r": 181.75,
+            "b": 293.613,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            48
+          ]
+        }
+      ],
+      "orig": "GLYPH<9>GLYPH<9>GLYPH<9>GLYPH<9>GLYPH<9>GLYPH<9>",
+      "text": "GLYPH<9>GLYPH<9>GLYPH<9>GLYPH<9>GLYPH<9>GLYPH<9>"
+    },
+    {
+      "self_ref": "#/texts/39",
+      "parent": {
+        "$ref": "#/groups/0"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 189.75,
+            "t": 303.513,
+            "r": 263.75,
+            "b": 293.613,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            57
+          ]
+        }
+      ],
+      "orig": "Bethesda GLYPH<9>GLYPH<9>GLYPH<9>GLYPH<9>GLYPH<9>GLYPH<9>",
+      "text": "Bethesda GLYPH<9>GLYPH<9>GLYPH<9>GLYPH<9>GLYPH<9>GLYPH<9>"
+    },
+    {
+      "self_ref": "#/texts/40",
+      "parent": {
+        "$ref": "#/groups/0"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 350.25,
+            "t": 303.513,
+            "r": 383.25,
+            "b": 293.613,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            6
+          ]
+        }
+      ],
+      "orig": "State:",
+      "text": "State:"
+    },
+    {
+      "self_ref": "#/texts/41",
+      "parent": {
+        "$ref": "#/groups/0"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 376.25,
+            "t": 303.513,
+            "r": 409.25,
+            "b": 293.613,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            48
+          ]
+        }
+      ],
+      "orig": "GLYPH<9>GLYPH<9>GLYPH<9>GLYPH<9>GLYPH<9>GLYPH<9>",
+      "text": "GLYPH<9>GLYPH<9>GLYPH<9>GLYPH<9>GLYPH<9>GLYPH<9>"
+    },
+    {
+      "self_ref": "#/texts/42",
+      "parent": {
+        "$ref": "#/groups/0"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 510.75,
+            "t": 303.513,
+            "r": 521.75,
+            "b": 293.613,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            2
+          ]
+        }
+      ],
+      "orig": "MD",
+      "text": "MD"
+    },
+    {
+      "self_ref": "#/texts/43",
+      "parent": {
+        "$ref": "#/groups/0"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 528.75,
+            "t": 303.513,
+            "r": 561.75,
+            "b": 293.613,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            48
+          ]
+        }
+      ],
+      "orig": "GLYPH<9>GLYPH<9>GLYPH<9>GLYPH<9>GLYPH<9>GLYPH<9>",
+      "text": "GLYPH<9>GLYPH<9>GLYPH<9>GLYPH<9>GLYPH<9>GLYPH<9>"
+    },
+    {
+      "self_ref": "#/texts/44",
+      "parent": {
+        "$ref": "#/groups/0"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 545.75,
+            "t": 303.513,
+            "r": 573.25,
+            "b": 293.613,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            40
+          ]
+        }
+      ],
+      "orig": "GLYPH<9>GLYPH<9>GLYPH<9>GLYPH<9>GLYPH<9>",
+      "text": "GLYPH<9>GLYPH<9>GLYPH<9>GLYPH<9>GLYPH<9>"
+    },
+    {
+      "self_ref": "#/texts/45",
+      "parent": {
+        "$ref": "#/groups/0"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 559.75,
+            "t": 303.513,
+            "r": 587.25,
+            "b": 293.613,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            40
+          ]
+        }
+      ],
+      "orig": "GLYPH<9>GLYPH<9>GLYPH<9>GLYPH<9>GLYPH<9>",
+      "text": "GLYPH<9>GLYPH<9>GLYPH<9>GLYPH<9>GLYPH<9>"
+    },
+    {
+      "self_ref": "#/texts/46",
+      "parent": {
+        "$ref": "#/groups/0"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 124.75,
+            "t": 284.513,
+            "r": 168.75,
+            "b": 274.613,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            8
+          ]
+        }
+      ],
+      "orig": "Country:",
+      "text": "Country:"
+    },
+    {
+      "self_ref": "#/texts/47",
+      "parent": {
+        "$ref": "#/groups/0"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 168.75,
+            "t": 284.513,
+            "r": 206.25,
+            "b": 274.613,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            52
+          ]
+        }
+      ],
+      "orig": "GLYPH<9>GLYPH<9>GLYPH<9>GLYPH<9>GLYPH<9>GLYPH<9> USA",
+      "text": "GLYPH<9>GLYPH<9>GLYPH<9>GLYPH<9>GLYPH<9>GLYPH<9> USA"
+    },
+    {
+      "self_ref": "#/texts/48",
+      "parent": {
+        "$ref": "#/groups/0"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 211.75,
+            "t": 284.513,
+            "r": 244.75,
+            "b": 274.613,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            48
+          ]
+        }
+      ],
+      "orig": "GLYPH<9>GLYPH<9>GLYPH<9>GLYPH<9>GLYPH<9>GLYPH<9>",
+      "text": "GLYPH<9>GLYPH<9>GLYPH<9>GLYPH<9>GLYPH<9>GLYPH<9>"
+    },
+    {
+      "self_ref": "#/texts/49",
+      "parent": {
+        "$ref": "#/groups/0"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 228.75,
+            "t": 284.513,
+            "r": 261.75,
+            "b": 274.613,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            48
+          ]
+        }
+      ],
+      "orig": "GLYPH<9>GLYPH<9>GLYPH<9>GLYPH<9>GLYPH<9>GLYPH<9>",
+      "text": "GLYPH<9>GLYPH<9>GLYPH<9>GLYPH<9>GLYPH<9>GLYPH<9>"
+    },
+    {
+      "self_ref": "#/texts/50",
+      "parent": {
+        "$ref": "#/groups/0"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 350.25,
+            "t": 284.513,
+            "r": 394.25,
+            "b": 274.613,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            8
+          ]
+        }
+      ],
+      "orig": "Zipcode:",
+      "text": "Zipcode:"
+    },
+    {
+      "self_ref": "#/texts/51",
+      "parent": {
+        "$ref": "#/groups/0"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 392.25,
+            "t": 284.513,
+            "r": 425.25,
+            "b": 274.613,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            48
+          ]
+        }
+      ],
+      "orig": "GLYPH<9>GLYPH<9>GLYPH<9>GLYPH<9>GLYPH<9>GLYPH<9>",
+      "text": "GLYPH<9>GLYPH<9>GLYPH<9>GLYPH<9>GLYPH<9>GLYPH<9>"
+    },
+    {
+      "self_ref": "#/texts/52",
+      "parent": {
+        "$ref": "#/groups/0"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 510.75,
+            "t": 284.513,
+            "r": 565.75,
+            "b": 274.613,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            5
+          ]
+        }
+      ],
+      "orig": "20817",
+      "text": "20817"
+    },
+    {
+      "self_ref": "#/texts/53",
+      "parent": {
+        "$ref": "#/groups/0"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 552.75,
+            "t": 284.513,
+            "r": 591.25,
+            "b": 274.613,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            56
+          ]
+        }
+      ],
+      "orig": "GLYPH<9>GLYPH<9>GLYPH<9>GLYPH<9>GLYPH<9>GLYPH<9>GLYPH<9>",
+      "text": "GLYPH<9>GLYPH<9>GLYPH<9>GLYPH<9>GLYPH<9>GLYPH<9>GLYPH<9>"
+    },
+    {
+      "self_ref": "#/texts/54",
+      "parent": {
+        "$ref": "#/groups/0"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 572.75,
+            "t": 284.513,
+            "r": 618.25,
+            "b": 274.613,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            57
+          ]
+        }
+      ],
+      "orig": "-GLYPH<9>GLYPH<9>GLYPH<9>GLYPH<9>GLYPH<9>GLYPH<9>GLYPH<9>",
+      "text": "-GLYPH<9>GLYPH<9>GLYPH<9>GLYPH<9>GLYPH<9>GLYPH<9>GLYPH<9>"
+    },
+    {
+      "self_ref": "#/texts/55",
+      "parent": {
+        "$ref": "#/groups/0"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 599.75,
+            "t": 284.513,
+            "r": 632.75,
+            "b": 274.613,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            48
+          ]
+        }
+      ],
+      "orig": "GLYPH<9>GLYPH<9>GLYPH<9>GLYPH<9>GLYPH<9>GLYPH<9>",
+      "text": "GLYPH<9>GLYPH<9>GLYPH<9>GLYPH<9>GLYPH<9>GLYPH<9>"
+    },
+    {
+      "self_ref": "#/texts/56",
+      "parent": {
+        "$ref": "#/groups/0"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 616.75,
+            "t": 284.513,
+            "r": 644.25,
+            "b": 274.613,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            40
+          ]
+        }
+      ],
+      "orig": "GLYPH<9>GLYPH<9>GLYPH<9>GLYPH<9>GLYPH<9>",
+      "text": "GLYPH<9>GLYPH<9>GLYPH<9>GLYPH<9>GLYPH<9>"
+    },
+    {
+      "self_ref": "#/texts/57",
+      "parent": {
+        "$ref": "#/groups/0"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 630.75,
+            "t": 284.513,
+            "r": 658.25,
+            "b": 274.613,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            40
+          ]
+        }
+      ],
+      "orig": "GLYPH<9>GLYPH<9>GLYPH<9>GLYPH<9>GLYPH<9>",
+      "text": "GLYPH<9>GLYPH<9>GLYPH<9>GLYPH<9>GLYPH<9>"
+    },
+    {
+      "self_ref": "#/texts/58",
+      "parent": {
+        "$ref": "#/groups/0"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 124.75,
+            "t": 265.513,
+            "r": 179.75,
+            "b": 255.613,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            10
+          ]
+        }
+      ],
+      "orig": "Attention:",
+      "text": "Attention:"
+    },
+    {
+      "self_ref": "#/texts/59",
+      "parent": {
+        "$ref": "#/groups/0"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 173.75,
+            "t": 265.513,
+            "r": 283.03,
+            "b": 255.613,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            66
+          ]
+        }
+      ],
+      "orig": "GLYPH<9>GLYPH<9>GLYPH<9>GLYPH<9>GLYPH<9>GLYPH<9> Mrs Regan  Rishel",
+      "text": "GLYPH<9>GLYPH<9>GLYPH<9>GLYPH<9>GLYPH<9>GLYPH<9> Mrs Regan  Rishel"
+    },
+    {
+      "self_ref": "#/texts/60",
+      "parent": {
+        "$ref": "#/groups/0"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 271.75,
+            "t": 265.513,
+            "r": 299.25,
+            "b": 255.613,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            40
+          ]
+        }
+      ],
+      "orig": "GLYPH<9>GLYPH<9>GLYPH<9>GLYPH<9>GLYPH<9>",
+      "text": "GLYPH<9>GLYPH<9>GLYPH<9>GLYPH<9>GLYPH<9>"
+    },
+    {
+      "self_ref": "#/texts/61",
+      "parent": {
+        "$ref": "#/groups/0"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 285.75,
+            "t": 265.513,
+            "r": 307.75,
+            "b": 255.613,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            32
+          ]
+        }
+      ],
+      "orig": "GLYPH<9>GLYPH<9>GLYPH<9>GLYPH<9>",
+      "text": "GLYPH<9>GLYPH<9>GLYPH<9>GLYPH<9>"
+    },
+    {
+      "self_ref": "#/texts/62",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "furniture",
+      "label": "page_footer",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 72.0,
+            "t": 52.196000000000026,
+            "r": 78.0,
+            "b": 41.39599999999996,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            1
+          ]
+        }
+      ],
+      "orig": "1",
+      "text": "1"
+    },
+    {
+      "self_ref": "#/texts/63",
+      "parent": {
+        "$ref": "#/groups/1"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 72.0,
+            "t": 341.196,
+            "r": 186.228,
+            "b": 330.39599999999996,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            19
+          ]
+        }
+      ],
+      "orig": "RENEWAL INFORMATION",
+      "text": "RENEWAL INFORMATION",
+      "level": 1
+    },
+    {
+      "self_ref": "#/texts/64",
+      "parent": {
+        "$ref": "#/groups/1"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 218.0,
+            "t": 341.196,
+            "r": 224.0,
+            "b": 330.39599999999996,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            8
+          ]
+        }
+      ],
+      "orig": "GLYPH<9>",
+      "text": "GLYPH<9>"
+    },
+    {
+      "self_ref": "#/texts/65",
+      "parent": {
+        "$ref": "#/groups/1"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 72.0,
+            "t": 304.196,
+            "r": 78.0,
+            "b": 293.39599999999996,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            8
+          ]
+        }
+      ],
+      "orig": "GLYPH<9>",
+      "text": "GLYPH<9>"
+    },
+    {
+      "self_ref": "#/texts/66",
+      "parent": {
+        "$ref": "#/groups/1"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 72.0,
+            "t": 213.19600000000003,
+            "r": 81.0,
+            "b": 202.39600000000002,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            8
+          ]
+        }
+      ],
+      "orig": "GLYPH<9>",
+      "text": "GLYPH<9>"
+    },
+    {
+      "self_ref": "#/texts/67",
+      "parent": {
+        "$ref": "#/groups/2"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 75.0,
+            "t": 533.513,
+            "r": 130.0,
+            "b": 523.613,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            10
+          ]
+        }
+      ],
+      "orig": "2. Contact",
+      "text": "Contact",
+      "enumerated": true,
+      "marker": "2."
+    },
+    {
+      "self_ref": "#/texts/68",
+      "parent": {
+        "$ref": "#/groups/1"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 75.0,
+            "t": 520.513,
+            "r": 91.5,
+            "b": 510.613,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            24
+          ]
+        }
+      ],
+      "orig": "GLYPH<9>GLYPH<9>GLYPH<9>",
+      "text": "GLYPH<9>GLYPH<9>GLYPH<9>"
+    },
+    {
+      "self_ref": "#/texts/69",
+      "parent": {
+        "$ref": "#/groups/1"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 84.0,
+            "t": 520.513,
+            "r": 106.0,
+            "b": 510.613,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            32
+          ]
+        }
+      ],
+      "orig": "GLYPH<9>GLYPH<9>GLYPH<9>GLYPH<9>",
+      "text": "GLYPH<9>GLYPH<9>GLYPH<9>GLYPH<9>"
+    },
+    {
+      "self_ref": "#/texts/70",
+      "parent": {
+        "$ref": "#/groups/1"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 75.0,
+            "t": 359.51300000000003,
+            "r": 91.5,
+            "b": 349.613,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            24
+          ]
+        }
+      ],
+      "orig": "GLYPH<9>GLYPH<9>GLYPH<9>",
+      "text": "GLYPH<9>GLYPH<9>GLYPH<9>"
+    },
+    {
+      "self_ref": "#/texts/71",
+      "parent": {
+        "$ref": "#/groups/1"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 84.0,
+            "t": 359.51300000000003,
+            "r": 95.0,
+            "b": 349.613,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            16
+          ]
+        }
+      ],
+      "orig": "GLYPH<9>GLYPH<9>",
+      "text": "GLYPH<9>GLYPH<9>"
+    },
+    {
+      "self_ref": "#/texts/72",
+      "parent": {
+        "$ref": "#/groups/1"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 90.0,
+            "t": 359.51300000000003,
+            "r": 95.5,
+            "b": 349.613,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            8
+          ]
+        }
+      ],
+      "orig": "GLYPH<9>",
+      "text": "GLYPH<9>"
+    },
+    {
+      "self_ref": "#/texts/73",
+      "parent": {
+        "$ref": "#/groups/1"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 124.75,
+            "t": 503.513,
+            "r": 152.25,
+            "b": 493.613,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            5
+          ]
+        }
+      ],
+      "orig": "Name:",
+      "text": "Name:"
+    },
+    {
+      "self_ref": "#/texts/74",
+      "parent": {
+        "$ref": "#/groups/1"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 189.75,
+            "t": 503.513,
+            "r": 299.75,
+            "b": 493.613,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            64
+          ]
+        }
+      ],
+      "orig": "Bruce A. Henoch GLYPH<9>GLYPH<9>GLYPH<9>GLYPH<9>GLYPH<9>GLYPH<9>",
+      "text": "Bruce A. Henoch GLYPH<9>GLYPH<9>GLYPH<9>GLYPH<9>GLYPH<9>GLYPH<9>"
+    },
+    {
+      "self_ref": "#/texts/75",
+      "parent": {
+        "$ref": "#/groups/1"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 350.25,
+            "t": 503.513,
+            "r": 421.75,
+            "b": 493.613,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            13
+          ]
+        }
+      ],
+      "orig": "Phone Number:",
+      "text": "Phone Number:"
+    },
+    {
+      "self_ref": "#/texts/76",
+      "parent": {
+        "$ref": "#/groups/1"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 510.75,
+            "t": 503.513,
+            "r": 648.25,
+            "b": 493.613,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            53
+          ]
+        }
+      ],
+      "orig": "301-968-1938 GLYPH<9>GLYPH<9>GLYPH<9>GLYPH<9>GLYPH<9>",
+      "text": "301-968-1938 GLYPH<9>GLYPH<9>GLYPH<9>GLYPH<9>GLYPH<9>"
+    },
+    {
+      "self_ref": "#/texts/77",
+      "parent": {
+        "$ref": "#/groups/1"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 628.75,
+            "t": 503.513,
+            "r": 689.25,
+            "b": 493.613,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            32
+          ]
+        }
+      ],
+      "orig": "GLYPH<9>        GLYPH<9>GLYPH<9>",
+      "text": "GLYPH<9>        GLYPH<9>GLYPH<9>"
+    },
+    {
+      "self_ref": "#/texts/78",
+      "parent": {
+        "$ref": "#/groups/1"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 124.75,
+            "t": 484.513,
+            "r": 168.75,
+            "b": 474.613,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            8
+          ]
+        }
+      ],
+      "orig": "Company:",
+      "text": "Company:"
+    },
+    {
+      "self_ref": "#/texts/79",
+      "parent": {
+        "$ref": "#/groups/1"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 189.75,
+            "t": 484.513,
+            "r": 338.25,
+            "b": 474.613,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            27
+          ]
+        }
+      ],
+      "orig": "Stratos Communications Inc.",
+      "text": "Stratos Communications Inc."
+    },
+    {
+      "self_ref": "#/texts/80",
+      "parent": {
+        "$ref": "#/groups/1"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 318.75,
+            "t": 484.513,
+            "r": 351.75,
+            "b": 474.613,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            48
+          ]
+        }
+      ],
+      "orig": "GLYPH<9>GLYPH<9>GLYPH<9>GLYPH<9>GLYPH<9>GLYPH<9>",
+      "text": "GLYPH<9>GLYPH<9>GLYPH<9>GLYPH<9>GLYPH<9>GLYPH<9>"
+    },
+    {
+      "self_ref": "#/texts/81",
+      "parent": {
+        "$ref": "#/groups/1"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 350.25,
+            "t": 484.513,
+            "r": 410.475,
+            "b": 474.613,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            11
+          ]
+        }
+      ],
+      "orig": "Fax Number:",
+      "text": "Fax Number:"
+    },
+    {
+      "self_ref": "#/texts/82",
+      "parent": {
+        "$ref": "#/groups/1"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 510.75,
+            "t": 484.513,
+            "r": 648.25,
+            "b": 474.613,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            53
+          ]
+        }
+      ],
+      "orig": "301-214-2234 GLYPH<9>GLYPH<9>GLYPH<9>GLYPH<9>GLYPH<9>",
+      "text": "301-214-2234 GLYPH<9>GLYPH<9>GLYPH<9>GLYPH<9>GLYPH<9>"
+    },
+    {
+      "self_ref": "#/texts/83",
+      "parent": {
+        "$ref": "#/groups/1"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 628.75,
+            "t": 484.513,
+            "r": 656.25,
+            "b": 474.613,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            40
+          ]
+        }
+      ],
+      "orig": "GLYPH<9>GLYPH<9>GLYPH<9>GLYPH<9>GLYPH<9>",
+      "text": "GLYPH<9>GLYPH<9>GLYPH<9>GLYPH<9>GLYPH<9>"
+    },
+    {
+      "self_ref": "#/texts/84",
+      "parent": {
+        "$ref": "#/groups/1"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 124.75,
+            "t": 465.513,
+            "r": 163.052,
+            "b": 455.613,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            7
+          ]
+        }
+      ],
+      "orig": "Street:",
+      "text": "Street:"
+    },
+    {
+      "self_ref": "#/texts/85",
+      "parent": {
+        "$ref": "#/groups/1"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 189.75,
+            "t": 465.513,
+            "r": 310.31,
+            "b": 455.613,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            22
+          ]
+        }
+      ],
+      "orig": "6550 Rock Spring Drive",
+      "text": "6550 Rock Spring Drive"
+    },
+    {
+      "self_ref": "#/texts/86",
+      "parent": {
+        "$ref": "#/groups/1"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 297.75,
+            "t": 465.513,
+            "r": 330.75,
+            "b": 455.613,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            48
+          ]
+        }
+      ],
+      "orig": "GLYPH<9>GLYPH<9>GLYPH<9>GLYPH<9>GLYPH<9>GLYPH<9>",
+      "text": "GLYPH<9>GLYPH<9>GLYPH<9>GLYPH<9>GLYPH<9>GLYPH<9>"
+    },
+    {
+      "self_ref": "#/texts/87",
+      "parent": {
+        "$ref": "#/groups/1"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 350.25,
+            "t": 465.513,
+            "r": 388.75,
+            "b": 455.613,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            7
+          ]
+        }
+      ],
+      "orig": "E-Mail:",
+      "text": "E-Mail:"
+    },
+    {
+      "self_ref": "#/texts/88",
+      "parent": {
+        "$ref": "#/groups/1"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 510.75,
+            "t": 465.513,
+            "r": 675.75,
+            "b": 455.613,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            30
+          ]
+        }
+      ],
+      "orig": "bruce.henoch@stratosglobal.com",
+      "text": "bruce.henoch@stratosglobal.com"
+    },
+    {
+      "self_ref": "#/texts/89",
+      "parent": {
+        "$ref": "#/groups/1"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 657.75,
+            "t": 465.513,
+            "r": 685.25,
+            "b": 455.613,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            40
+          ]
+        }
+      ],
+      "orig": "GLYPH<9>GLYPH<9>GLYPH<9>GLYPH<9>GLYPH<9>",
+      "text": "GLYPH<9>GLYPH<9>GLYPH<9>GLYPH<9>GLYPH<9>"
+    },
+    {
+      "self_ref": "#/texts/90",
+      "parent": {
+        "$ref": "#/groups/1"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 510.75,
+            "t": 452.513,
+            "r": 538.25,
+            "b": 442.613,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            40
+          ]
+        }
+      ],
+      "orig": "GLYPH<9>GLYPH<9>GLYPH<9>GLYPH<9>GLYPH<9>",
+      "text": "GLYPH<9>GLYPH<9>GLYPH<9>GLYPH<9>GLYPH<9>"
+    },
+    {
+      "self_ref": "#/texts/91",
+      "parent": {
+        "$ref": "#/groups/1"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 189.75,
+            "t": 433.513,
+            "r": 239.25,
+            "b": 423.613,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            9
+          ]
+        }
+      ],
+      "orig": "Suite 650",
+      "text": "Suite 650"
+    },
+    {
+      "self_ref": "#/texts/92",
+      "parent": {
+        "$ref": "#/groups/1"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 231.75,
+            "t": 433.513,
+            "r": 259.25,
+            "b": 423.613,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            40
+          ]
+        }
+      ],
+      "orig": "GLYPH<9>GLYPH<9>GLYPH<9>GLYPH<9>GLYPH<9>",
+      "text": "GLYPH<9>GLYPH<9>GLYPH<9>GLYPH<9>GLYPH<9>"
+    },
+    {
+      "self_ref": "#/texts/93",
+      "parent": {
+        "$ref": "#/groups/1"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 245.75,
+            "t": 433.513,
+            "r": 273.25,
+            "b": 423.613,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            40
+          ]
+        }
+      ],
+      "orig": "GLYPH<9>GLYPH<9>GLYPH<9>GLYPH<9>GLYPH<9>",
+      "text": "GLYPH<9>GLYPH<9>GLYPH<9>GLYPH<9>GLYPH<9>"
+    },
+    {
+      "self_ref": "#/texts/94",
+      "parent": {
+        "$ref": "#/groups/1"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 124.75,
+            "t": 414.513,
+            "r": 152.25,
+            "b": 404.613,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            5
+          ]
+        }
+      ],
+      "orig": "City:",
+      "text": "City:"
+    },
+    {
+      "self_ref": "#/texts/95",
+      "parent": {
+        "$ref": "#/groups/1"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 189.75,
+            "t": 414.513,
+            "r": 263.75,
+            "b": 404.613,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            57
+          ]
+        }
+      ],
+      "orig": "Bethesda GLYPH<9>GLYPH<9>GLYPH<9>GLYPH<9>GLYPH<9>GLYPH<9>",
+      "text": "Bethesda GLYPH<9>GLYPH<9>GLYPH<9>GLYPH<9>GLYPH<9>GLYPH<9>"
+    },
+    {
+      "self_ref": "#/texts/96",
+      "parent": {
+        "$ref": "#/groups/1"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 350.25,
+            "t": 414.513,
+            "r": 383.25,
+            "b": 404.613,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            6
+          ]
+        }
+      ],
+      "orig": "State:",
+      "text": "State:"
+    },
+    {
+      "self_ref": "#/texts/97",
+      "parent": {
+        "$ref": "#/groups/1"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 378.25,
+            "t": 414.513,
+            "r": 411.25,
+            "b": 404.613,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            48
+          ]
+        }
+      ],
+      "orig": "GLYPH<9>GLYPH<9>GLYPH<9>GLYPH<9>GLYPH<9>GLYPH<9>",
+      "text": "GLYPH<9>GLYPH<9>GLYPH<9>GLYPH<9>GLYPH<9>GLYPH<9>"
+    },
+    {
+      "self_ref": "#/texts/98",
+      "parent": {
+        "$ref": "#/groups/1"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 510.75,
+            "t": 414.513,
+            "r": 521.75,
+            "b": 404.613,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            2
+          ]
+        }
+      ],
+      "orig": "MD",
+      "text": "MD"
+    },
+    {
+      "self_ref": "#/texts/99",
+      "parent": {
+        "$ref": "#/groups/1"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 528.75,
+            "t": 414.513,
+            "r": 561.75,
+            "b": 404.613,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            48
+          ]
+        }
+      ],
+      "orig": "GLYPH<9>GLYPH<9>GLYPH<9>GLYPH<9>GLYPH<9>GLYPH<9>",
+      "text": "GLYPH<9>GLYPH<9>GLYPH<9>GLYPH<9>GLYPH<9>GLYPH<9>"
+    },
+    {
+      "self_ref": "#/texts/100",
+      "parent": {
+        "$ref": "#/groups/1"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 545.75,
+            "t": 414.513,
+            "r": 573.25,
+            "b": 404.613,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            40
+          ]
+        }
+      ],
+      "orig": "GLYPH<9>GLYPH<9>GLYPH<9>GLYPH<9>GLYPH<9>",
+      "text": "GLYPH<9>GLYPH<9>GLYPH<9>GLYPH<9>GLYPH<9>"
+    },
+    {
+      "self_ref": "#/texts/101",
+      "parent": {
+        "$ref": "#/groups/1"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 559.75,
+            "t": 414.513,
+            "r": 587.25,
+            "b": 404.613,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            40
+          ]
+        }
+      ],
+      "orig": "GLYPH<9>GLYPH<9>GLYPH<9>GLYPH<9>GLYPH<9>",
+      "text": "GLYPH<9>GLYPH<9>GLYPH<9>GLYPH<9>GLYPH<9>"
+    },
+    {
+      "self_ref": "#/texts/102",
+      "parent": {
+        "$ref": "#/groups/1"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 124.75,
+            "t": 395.513,
+            "r": 168.75,
+            "b": 385.613,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            8
+          ]
+        }
+      ],
+      "orig": "Country:",
+      "text": "Country:"
+    },
+    {
+      "self_ref": "#/texts/103",
+      "parent": {
+        "$ref": "#/groups/1"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 168.75,
+            "t": 395.513,
+            "r": 206.25,
+            "b": 385.613,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            52
+          ]
+        }
+      ],
+      "orig": "GLYPH<9>GLYPH<9>GLYPH<9>GLYPH<9>GLYPH<9>GLYPH<9> USA",
+      "text": "GLYPH<9>GLYPH<9>GLYPH<9>GLYPH<9>GLYPH<9>GLYPH<9> USA"
+    },
+    {
+      "self_ref": "#/texts/104",
+      "parent": {
+        "$ref": "#/groups/1"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 211.75,
+            "t": 395.513,
+            "r": 244.75,
+            "b": 385.613,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            48
+          ]
+        }
+      ],
+      "orig": "GLYPH<9>GLYPH<9>GLYPH<9>GLYPH<9>GLYPH<9>GLYPH<9>",
+      "text": "GLYPH<9>GLYPH<9>GLYPH<9>GLYPH<9>GLYPH<9>GLYPH<9>"
+    },
+    {
+      "self_ref": "#/texts/105",
+      "parent": {
+        "$ref": "#/groups/1"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 228.75,
+            "t": 395.513,
+            "r": 261.75,
+            "b": 385.613,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            48
+          ]
+        }
+      ],
+      "orig": "GLYPH<9>GLYPH<9>GLYPH<9>GLYPH<9>GLYPH<9>GLYPH<9>",
+      "text": "GLYPH<9>GLYPH<9>GLYPH<9>GLYPH<9>GLYPH<9>GLYPH<9>"
+    },
+    {
+      "self_ref": "#/texts/106",
+      "parent": {
+        "$ref": "#/groups/1"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 350.25,
+            "t": 395.513,
+            "r": 394.25,
+            "b": 385.613,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            8
+          ]
+        }
+      ],
+      "orig": "Zipcode:",
+      "text": "Zipcode:"
+    },
+    {
+      "self_ref": "#/texts/107",
+      "parent": {
+        "$ref": "#/groups/1"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 392.25,
+            "t": 395.513,
+            "r": 425.25,
+            "b": 385.613,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            48
+          ]
+        }
+      ],
+      "orig": "GLYPH<9>GLYPH<9>GLYPH<9>GLYPH<9>GLYPH<9>GLYPH<9>",
+      "text": "GLYPH<9>GLYPH<9>GLYPH<9>GLYPH<9>GLYPH<9>GLYPH<9>"
+    },
+    {
+      "self_ref": "#/texts/108",
+      "parent": {
+        "$ref": "#/groups/1"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 510.75,
+            "t": 395.513,
+            "r": 577.25,
+            "b": 385.613,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            61
+          ]
+        }
+      ],
+      "orig": "20817GLYPH<9>GLYPH<9>GLYPH<9>GLYPH<9>GLYPH<9>GLYPH<9>GLYPH<9>",
+      "text": "20817GLYPH<9>GLYPH<9>GLYPH<9>GLYPH<9>GLYPH<9>GLYPH<9>GLYPH<9>"
+    },
+    {
+      "self_ref": "#/texts/109",
+      "parent": {
+        "$ref": "#/groups/1"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 558.75,
+            "t": 395.513,
+            "r": 604.25,
+            "b": 385.613,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            57
+          ]
+        }
+      ],
+      "orig": "-GLYPH<9>GLYPH<9>GLYPH<9>GLYPH<9>GLYPH<9>GLYPH<9>GLYPH<9>",
+      "text": "-GLYPH<9>GLYPH<9>GLYPH<9>GLYPH<9>GLYPH<9>GLYPH<9>GLYPH<9>"
+    },
+    {
+      "self_ref": "#/texts/110",
+      "parent": {
+        "$ref": "#/groups/1"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 585.75,
+            "t": 395.513,
+            "r": 618.75,
+            "b": 385.613,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            48
+          ]
+        }
+      ],
+      "orig": "GLYPH<9>GLYPH<9>GLYPH<9>GLYPH<9>GLYPH<9>GLYPH<9>",
+      "text": "GLYPH<9>GLYPH<9>GLYPH<9>GLYPH<9>GLYPH<9>GLYPH<9>"
+    },
+    {
+      "self_ref": "#/texts/111",
+      "parent": {
+        "$ref": "#/groups/1"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 602.75,
+            "t": 395.513,
+            "r": 630.25,
+            "b": 385.613,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            40
+          ]
+        }
+      ],
+      "orig": "GLYPH<9>GLYPH<9>GLYPH<9>GLYPH<9>GLYPH<9>",
+      "text": "GLYPH<9>GLYPH<9>GLYPH<9>GLYPH<9>GLYPH<9>"
+    },
+    {
+      "self_ref": "#/texts/112",
+      "parent": {
+        "$ref": "#/groups/1"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 616.75,
+            "t": 395.513,
+            "r": 644.25,
+            "b": 385.613,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            40
+          ]
+        }
+      ],
+      "orig": "GLYPH<9>GLYPH<9>GLYPH<9>GLYPH<9>GLYPH<9>",
+      "text": "GLYPH<9>GLYPH<9>GLYPH<9>GLYPH<9>GLYPH<9>"
+    },
+    {
+      "self_ref": "#/texts/113",
+      "parent": {
+        "$ref": "#/groups/1"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 124.75,
+            "t": 376.513,
+            "r": 179.75,
+            "b": 366.613,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            10
+          ]
+        }
+      ],
+      "orig": "Attention:",
+      "text": "Attention:"
+    },
+    {
+      "self_ref": "#/texts/114",
+      "parent": {
+        "$ref": "#/groups/1"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 173.75,
+            "t": 376.513,
+            "r": 299.75,
+            "b": 366.613,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            113
+          ]
+        }
+      ],
+      "orig": "GLYPH<9>GLYPH<9>GLYPH<9>GLYPH<9>GLYPH<9>GLYPH<9> Bruce A. Henoch GLYPH<9>GLYPH<9>GLYPH<9>GLYPH<9>GLYPH<9>GLYPH<9>",
+      "text": "GLYPH<9>GLYPH<9>GLYPH<9>GLYPH<9>GLYPH<9>GLYPH<9> Bruce A. Henoch GLYPH<9>GLYPH<9>GLYPH<9>GLYPH<9>GLYPH<9>GLYPH<9>"
+    },
+    {
+      "self_ref": "#/texts/115",
+      "parent": {
+        "$ref": "#/groups/1"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 350.25,
+            "t": 376.513,
+            "r": 421.75,
+            "b": 366.613,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            13
+          ]
+        }
+      ],
+      "orig": "Relationship:",
+      "text": "Relationship:"
+    },
+    {
+      "self_ref": "#/texts/116",
+      "parent": {
+        "$ref": "#/groups/1"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 413.25,
+            "t": 376.513,
+            "r": 446.25,
+            "b": 366.613,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            48
+          ]
+        }
+      ],
+      "orig": "GLYPH<9>GLYPH<9>GLYPH<9>GLYPH<9>GLYPH<9>GLYPH<9>",
+      "text": "GLYPH<9>GLYPH<9>GLYPH<9>GLYPH<9>GLYPH<9>GLYPH<9>"
+    },
+    {
+      "self_ref": "#/texts/117",
+      "parent": {
+        "$ref": "#/groups/1"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 510.75,
+            "t": 376.513,
+            "r": 568.75,
+            "b": 366.613,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            53
+          ]
+        }
+      ],
+      "orig": "Same GLYPH<9>GLYPH<9>GLYPH<9>GLYPH<9>GLYPH<9>GLYPH<9>",
+      "text": "Same GLYPH<9>GLYPH<9>GLYPH<9>GLYPH<9>GLYPH<9>GLYPH<9>"
+    },
+    {
+      "self_ref": "#/texts/118",
+      "parent": {
+        "$ref": "#/groups/1"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 552.75,
+            "t": 376.513,
+            "r": 580.25,
+            "b": 366.613,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            40
+          ]
+        }
+      ],
+      "orig": "GLYPH<9>GLYPH<9>GLYPH<9>GLYPH<9>GLYPH<9>",
+      "text": "GLYPH<9>GLYPH<9>GLYPH<9>GLYPH<9>GLYPH<9>"
+    },
+    {
+      "self_ref": "#/texts/119",
+      "parent": {
+        "$ref": "#/groups/1"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 566.75,
+            "t": 376.513,
+            "r": 588.75,
+            "b": 366.613,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            32
+          ]
+        }
+      ],
+      "orig": "GLYPH<9>GLYPH<9>GLYPH<9>GLYPH<9>",
+      "text": "GLYPH<9>GLYPH<9>GLYPH<9>GLYPH<9>"
+    },
+    {
+      "self_ref": "#/texts/120",
+      "parent": {
+        "$ref": "#/groups/3"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 75.0,
+            "t": 322.513,
+            "r": 316.78,
+            "b": 312.613,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            43
+          ]
+        }
+      ],
+      "orig": "3. Rulepart under which this filing is made",
+      "text": "Rulepart under which this filing is made",
+      "enumerated": true,
+      "marker": "3."
+    },
+    {
+      "self_ref": "#/texts/121",
+      "parent": {
+        "$ref": "#/groups/1"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 266.0,
+            "t": 322.513,
+            "r": 337.5,
+            "b": 312.613,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            44
+          ]
+        }
+      ],
+      "orig": "GLYPH<9>GLYPH<9>GLYPH<9>GLYPH<9> Rulepart 25",
+      "text": "GLYPH<9>GLYPH<9>GLYPH<9>GLYPH<9> Rulepart 25"
+    },
+    {
+      "self_ref": "#/texts/122",
+      "parent": {
+        "$ref": "#/groups/1"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 329.0,
+            "t": 322.513,
+            "r": 345.5,
+            "b": 312.613,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            24
+          ]
+        }
+      ],
+      "orig": "GLYPH<9>GLYPH<9>GLYPH<9>",
+      "text": "GLYPH<9>GLYPH<9>GLYPH<9>"
+    },
+    {
+      "self_ref": "#/texts/123",
+      "parent": {
+        "$ref": "#/groups/1"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 338.0,
+            "t": 322.513,
+            "r": 349.0,
+            "b": 312.613,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            16
+          ]
+        }
+      ],
+      "orig": "GLYPH<9>GLYPH<9>",
+      "text": "GLYPH<9>GLYPH<9>"
+    },
+    {
+      "self_ref": "#/texts/124",
+      "parent": {
+        "$ref": "#/groups/1"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 344.0,
+            "t": 322.513,
+            "r": 349.5,
+            "b": 312.613,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            8
+          ]
+        }
+      ],
+      "orig": "GLYPH<9>",
+      "text": "GLYPH<9>"
+    },
+    {
+      "self_ref": "#/texts/125",
+      "parent": {
+        "$ref": "#/groups/4"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 75.0,
+            "t": 285.513,
+            "r": 317.0,
+            "b": 275.613,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            69
+          ]
+        }
+      ],
+      "orig": "4. Is a fee submitted with this application? GLYPH<9>GLYPH<9>GLYPH<9>",
+      "text": "Is a fee submitted with this application? GLYPH<9>GLYPH<9>GLYPH<9>",
+      "enumerated": true,
+      "marker": "4."
+    },
+    {
+      "self_ref": "#/texts/126",
+      "parent": {
+        "$ref": "#/groups/1"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "checkbox_selected",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 91.0,
+            "t": 271.513,
+            "r": 319.745,
+            "b": 261.613,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            41
+          ]
+        }
+      ],
+      "orig": "If Yes, complete and attach FCC Form 159.",
+      "text": "If Yes, complete and attach FCC Form 159."
+    },
+    {
+      "self_ref": "#/texts/127",
+      "parent": {
+        "$ref": "#/groups/1"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 285.0,
+            "t": 271.513,
+            "r": 693.817,
+            "b": 261.613,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            121
+          ]
+        }
+      ],
+      "orig": "GLYPH<9>GLYPH<9>GLYPH<9> If No, indicate reason for fee exemption (see 47 C.F.R.Section 1.1114). GLYPH<9>GLYPH<9>GLYPH<9>",
+      "text": "GLYPH<9>GLYPH<9>GLYPH<9> If No, indicate reason for fee exemption (see 47 C.F.R.Section 1.1114). GLYPH<9>GLYPH<9>GLYPH<9>"
+    },
+    {
+      "self_ref": "#/texts/128",
+      "parent": {
+        "$ref": "#/groups/1"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "checkbox_selected",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 91.0,
+            "t": 253.51300000000003,
+            "r": 200.67000000000002,
+            "b": 243.613,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            19
+          ]
+        }
+      ],
+      "orig": "Governmental Entity",
+      "text": "Governmental Entity"
+    },
+    {
+      "self_ref": "#/texts/129",
+      "parent": {
+        "$ref": "#/groups/1"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "checkbox_selected",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 186.0,
+            "t": 253.51300000000003,
+            "r": 422.5,
+            "b": 243.613,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            62
+          ]
+        }
+      ],
+      "orig": "GLYPH<9>GLYPH<9>   GLYPH<9> Noncommercial educational licensee",
+      "text": "GLYPH<9>GLYPH<9>   GLYPH<9> Noncommercial educational licensee"
+    },
+    {
+      "self_ref": "#/texts/130",
+      "parent": {
+        "$ref": "#/groups/1"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 396.0,
+            "t": 253.51300000000003,
+            "r": 434.5,
+            "b": 243.613,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            24
+          ]
+        }
+      ],
+      "orig": "GLYPH<9>GLYPH<9>GLYPH<9>",
+      "text": "GLYPH<9>GLYPH<9>GLYPH<9>"
+    },
+    {
+      "self_ref": "#/texts/131",
+      "parent": {
+        "$ref": "#/groups/1"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "checkbox_selected",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 91.0,
+            "t": 235.51300000000003,
+            "r": 217.33499999999998,
+            "b": 225.613,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            22
+          ]
+        }
+      ],
+      "orig": "Other(please explain):",
+      "text": "Other(please explain):"
+    },
+    {
+      "self_ref": "#/texts/132",
+      "parent": {
+        "$ref": "#/groups/1"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 192.0,
+            "t": 235.51300000000003,
+            "r": 263.5,
+            "b": 225.613,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            8
+          ]
+        }
+      ],
+      "orig": "GLYPH<9>",
+      "text": "GLYPH<9>"
+    },
+    {
+      "self_ref": "#/texts/133",
+      "parent": {
+        "$ref": "#/groups/1"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 228.0,
+            "t": 235.51300000000003,
+            "r": 244.5,
+            "b": 225.613,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            24
+          ]
+        }
+      ],
+      "orig": "GLYPH<9>GLYPH<9>GLYPH<9>",
+      "text": "GLYPH<9>GLYPH<9>GLYPH<9>"
+    },
+    {
+      "self_ref": "#/texts/134",
+      "parent": {
+        "$ref": "#/groups/1"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 237.0,
+            "t": 235.51300000000003,
+            "r": 248.0,
+            "b": 225.613,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            16
+          ]
+        }
+      ],
+      "orig": "GLYPH<9>GLYPH<9>",
+      "text": "GLYPH<9>GLYPH<9>"
+    },
+    {
+      "self_ref": "#/texts/135",
+      "parent": {
+        "$ref": "#/groups/1"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 243.0,
+            "t": 235.51300000000003,
+            "r": 248.5,
+            "b": 225.613,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            8
+          ]
+        }
+      ],
+      "orig": "GLYPH<9>",
+      "text": "GLYPH<9>"
+    },
+    {
+      "self_ref": "#/texts/136",
+      "parent": {
+        "$ref": "#/groups/5"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 75.0,
+            "t": 194.51300000000003,
+            "r": 421.83500000000004,
+            "b": 171.613,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            197
+          ]
+        }
+      ],
+      "orig": "5. Application is for renewal of license in GLYPH<9>GLYPH<9>GLYPH<9>GLYPH<9>exact conformity with the existing license as specified below: GLYPH<9>GLYPH<9>GLYPH<9> GLYPH<9>GLYPH<9> GLYPH<9>GLYPH<9>",
+      "text": "Application is for renewal of license in GLYPH<9>GLYPH<9>GLYPH<9>GLYPH<9>exact conformity with the existing license as specified below: GLYPH<9>GLYPH<9>GLYPH<9> GLYPH<9>GLYPH<9> GLYPH<9>GLYPH<9>",
+      "enumerated": true,
+      "marker": "5."
+    },
+    {
+      "self_ref": "#/texts/137",
+      "parent": {
+        "$ref": "#/groups/1"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 75.0,
+            "t": 161.51300000000003,
+            "r": 157.5,
+            "b": 151.613,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            14
+          ]
+        }
+      ],
+      "orig": "(a)File Number",
+      "text": "(a)File Number"
+    },
+    {
+      "self_ref": "#/texts/138",
+      "parent": {
+        "$ref": "#/groups/1"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 75.0,
+            "t": 148.51300000000003,
+            "r": 190.5,
+            "b": 138.613,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            52
+          ]
+        }
+      ],
+      "orig": "GLYPH<9>GLYPH<9>GLYPH<9>GLYPH<9> SESMFS2008030301361",
+      "text": "GLYPH<9>GLYPH<9>GLYPH<9>GLYPH<9> SESMFS2008030301361"
+    },
+    {
+      "self_ref": "#/texts/139",
+      "parent": {
+        "$ref": "#/groups/1"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 199.0,
+            "t": 148.51300000000003,
+            "r": 215.5,
+            "b": 138.613,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            24
+          ]
+        }
+      ],
+      "orig": "GLYPH<9>GLYPH<9>GLYPH<9>",
+      "text": "GLYPH<9>GLYPH<9>GLYPH<9>"
+    },
+    {
+      "self_ref": "#/texts/140",
+      "parent": {
+        "$ref": "#/groups/1"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 208.0,
+            "t": 148.51300000000003,
+            "r": 224.5,
+            "b": 138.613,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            24
+          ]
+        }
+      ],
+      "orig": "GLYPH<9>GLYPH<9>GLYPH<9>",
+      "text": "GLYPH<9>GLYPH<9>GLYPH<9>"
+    },
+    {
+      "self_ref": "#/texts/141",
+      "parent": {
+        "$ref": "#/groups/1"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 398.5,
+            "t": 161.51300000000003,
+            "r": 475.5,
+            "b": 151.613,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            14
+          ]
+        }
+      ],
+      "orig": "(b)Date Issued",
+      "text": "(b)Date Issued"
+    },
+    {
+      "self_ref": "#/texts/142",
+      "parent": {
+        "$ref": "#/groups/1"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 398.5,
+            "t": 148.51300000000003,
+            "r": 525.0,
+            "b": 138.613,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            54
+          ]
+        }
+      ],
+      "orig": "GLYPH<9>GLYPH<9>GLYPH<9>GLYPH<9> 2008-10-21 00:00:00.0",
+      "text": "GLYPH<9>GLYPH<9>GLYPH<9>GLYPH<9> 2008-10-21 00:00:00.0"
+    },
+    {
+      "self_ref": "#/texts/143",
+      "parent": {
+        "$ref": "#/groups/1"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 516.5,
+            "t": 148.51300000000003,
+            "r": 533.0,
+            "b": 138.613,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            24
+          ]
+        }
+      ],
+      "orig": "GLYPH<9>GLYPH<9>GLYPH<9>",
+      "text": "GLYPH<9>GLYPH<9>GLYPH<9>"
+    },
+    {
+      "self_ref": "#/texts/144",
+      "parent": {
+        "$ref": "#/groups/1"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 525.5,
+            "t": 148.51300000000003,
+            "r": 536.5,
+            "b": 138.613,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            16
+          ]
+        }
+      ],
+      "orig": "GLYPH<9>GLYPH<9>",
+      "text": "GLYPH<9>GLYPH<9>"
+    },
+    {
+      "self_ref": "#/texts/145",
+      "parent": {
+        "$ref": "#/groups/1"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 531.5,
+            "t": 148.51300000000003,
+            "r": 542.5,
+            "b": 138.613,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            16
+          ]
+        }
+      ],
+      "orig": "GLYPH<9>GLYPH<9>",
+      "text": "GLYPH<9>GLYPH<9>"
+    },
+    {
+      "self_ref": "#/texts/146",
+      "parent": {
+        "$ref": "#/groups/1"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 75.0,
+            "t": 128.51300000000003,
+            "r": 141.0,
+            "b": 118.613,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            12
+          ]
+        }
+      ],
+      "orig": "(c)Call Sign",
+      "text": "(c)Call Sign"
+    },
+    {
+      "self_ref": "#/texts/147",
+      "parent": {
+        "$ref": "#/groups/1"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 75.0,
+            "t": 115.51300000000003,
+            "r": 141.0,
+            "b": 105.613,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            40
+          ]
+        }
+      ],
+      "orig": "GLYPH<9>GLYPH<9>GLYPH<9>GLYPH<9> E000180",
+      "text": "GLYPH<9>GLYPH<9>GLYPH<9>GLYPH<9> E000180"
+    },
+    {
+      "self_ref": "#/texts/148",
+      "parent": {
+        "$ref": "#/groups/1"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 134.0,
+            "t": 115.51300000000003,
+            "r": 150.5,
+            "b": 105.613,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            24
+          ]
+        }
+      ],
+      "orig": "GLYPH<9>GLYPH<9>GLYPH<9>",
+      "text": "GLYPH<9>GLYPH<9>GLYPH<9>"
+    },
+    {
+      "self_ref": "#/texts/149",
+      "parent": {
+        "$ref": "#/groups/1"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 143.0,
+            "t": 115.51300000000003,
+            "r": 159.5,
+            "b": 105.613,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            24
+          ]
+        }
+      ],
+      "orig": "GLYPH<9>GLYPH<9>GLYPH<9>",
+      "text": "GLYPH<9>GLYPH<9>GLYPH<9>"
+    },
+    {
+      "self_ref": "#/texts/150",
+      "parent": {
+        "$ref": "#/groups/1"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 398.5,
+            "t": 128.51300000000003,
+            "r": 459.0,
+            "b": 118.613,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            11
+          ]
+        }
+      ],
+      "orig": "(d)Location",
+      "text": "(d)Location"
+    },
+    {
+      "self_ref": "#/texts/151",
+      "parent": {
+        "$ref": "#/groups/1"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 398.5,
+            "t": 115.51300000000003,
+            "r": 629.335,
+            "b": 105.613,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            73
+          ]
+        }
+      ],
+      "orig": "GLYPH<9>GLYPH<9>GLYPH<9>GLYPH<9> 1000 Inmarsat M-4 Full-Duplex METS in US",
+      "text": "GLYPH<9>GLYPH<9>GLYPH<9>GLYPH<9> 1000 Inmarsat M-4 Full-Duplex METS in US"
+    },
+    {
+      "self_ref": "#/texts/152",
+      "parent": {
+        "$ref": "#/groups/1"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 616.5,
+            "t": 115.51300000000003,
+            "r": 633.0,
+            "b": 105.613,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            24
+          ]
+        }
+      ],
+      "orig": "GLYPH<9>GLYPH<9>GLYPH<9>",
+      "text": "GLYPH<9>GLYPH<9>GLYPH<9>"
+    },
+    {
+      "self_ref": "#/texts/153",
+      "parent": {
+        "$ref": "#/groups/1"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 625.5,
+            "t": 115.51300000000003,
+            "r": 675.5,
+            "b": 105.613,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            16
+          ]
+        }
+      ],
+      "orig": "GLYPH<9>GLYPH<9>",
+      "text": "GLYPH<9>GLYPH<9>"
+    },
+    {
+      "self_ref": "#/texts/154",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "furniture",
+      "label": "page_footer",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 72.0,
+            "t": 52.196000000000026,
+            "r": 78.0,
+            "b": 41.39599999999996,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            1
+          ]
+        }
+      ],
+      "orig": "2",
+      "text": "2"
+    },
+    {
+      "self_ref": "#/texts/155",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 709.8,
+            "t": 331.513,
+            "r": 770.3,
+            "b": 321.613,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            32
+          ]
+        }
+      ],
+      "orig": "GLYPH<9>GLYPH<9>        GLYPH<9>",
+      "text": "GLYPH<9>GLYPH<9>        GLYPH<9>"
+    },
+    {
+      "self_ref": "#/texts/156",
+      "parent": {
+        "$ref": "#/groups/6"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 72.0,
+            "t": 423.196,
+            "r": 78.0,
+            "b": 412.396,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            8
+          ]
+        }
+      ],
+      "orig": "GLYPH<9>",
+      "text": "GLYPH<9>"
+    },
+    {
+      "self_ref": "#/texts/157",
+      "parent": {
+        "$ref": "#/groups/7"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 75.0,
+            "t": 533.513,
+            "r": 185.0,
+            "b": 523.613,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            20
+          ]
+        }
+      ],
+      "orig": "(e)Nature of Service",
+      "text": "(e)Nature of Service",
+      "enumerated": false,
+      "marker": ""
+    },
+    {
+      "self_ref": "#/texts/158",
+      "parent": {
+        "$ref": "#/groups/6"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 75.0,
+            "t": 520.513,
+            "r": 305.5,
+            "b": 510.613,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            107
+          ]
+        }
+      ],
+      "orig": "GLYPH<9>GLYPH<9>GLYPH<9>GLYPH<9> MOBILE SATELLITE SERVICE GLYPH<9>GLYPH<9>GLYPH<9> GLYPH<9>GLYPH<9>GLYPH<9>",
+      "text": "GLYPH<9>GLYPH<9>GLYPH<9>GLYPH<9> MOBILE SATELLITE SERVICE GLYPH<9>GLYPH<9>GLYPH<9> GLYPH<9>GLYPH<9>GLYPH<9>"
+    },
+    {
+      "self_ref": "#/texts/159",
+      "parent": {
+        "$ref": "#/groups/6"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 398.5,
+            "t": 533.513,
+            "r": 503.0,
+            "b": 523.613,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            19
+          ]
+        }
+      ],
+      "orig": "(f)Class of Station",
+      "text": "(f)Class of Station"
+    },
+    {
+      "self_ref": "#/texts/160",
+      "parent": {
+        "$ref": "#/groups/6"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 398.5,
+            "t": 520.513,
+            "r": 613.0,
+            "b": 510.613,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            95
+          ]
+        }
+      ],
+      "orig": "GLYPH<9>GLYPH<9>GLYPH<9>GLYPH<9> Mobile Satellite Earth Stations (CGB) GLYPH<9>GLYPH<9>GLYPH<9>",
+      "text": "GLYPH<9>GLYPH<9>GLYPH<9>GLYPH<9> Mobile Satellite Earth Stations (CGB) GLYPH<9>GLYPH<9>GLYPH<9>"
+    },
+    {
+      "self_ref": "#/texts/161",
+      "parent": {
+        "$ref": "#/groups/8"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 75.0,
+            "t": 500.513,
+            "r": 174.0,
+            "b": 490.613,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            18
+          ]
+        }
+      ],
+      "orig": "(g)Expiration Date",
+      "text": "(g)Expiration Date",
+      "enumerated": false,
+      "marker": ""
+    },
+    {
+      "self_ref": "#/texts/162",
+      "parent": {
+        "$ref": "#/groups/6"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 75.0,
+            "t": 487.513,
+            "r": 201.5,
+            "b": 477.613,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            54
+          ]
+        }
+      ],
+      "orig": "GLYPH<9>GLYPH<9>GLYPH<9>GLYPH<9> 2011-10-09 00:00:00.0",
+      "text": "GLYPH<9>GLYPH<9>GLYPH<9>GLYPH<9> 2011-10-09 00:00:00.0"
+    },
+    {
+      "self_ref": "#/texts/163",
+      "parent": {
+        "$ref": "#/groups/6"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 193.0,
+            "t": 487.513,
+            "r": 209.5,
+            "b": 477.613,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            24
+          ]
+        }
+      ],
+      "orig": "GLYPH<9>GLYPH<9>GLYPH<9>",
+      "text": "GLYPH<9>GLYPH<9>GLYPH<9>"
+    },
+    {
+      "self_ref": "#/texts/164",
+      "parent": {
+        "$ref": "#/groups/6"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 202.0,
+            "t": 487.513,
+            "r": 218.5,
+            "b": 477.613,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            24
+          ]
+        }
+      ],
+      "orig": "GLYPH<9>GLYPH<9>GLYPH<9>",
+      "text": "GLYPH<9>GLYPH<9>GLYPH<9>"
+    },
+    {
+      "self_ref": "#/texts/165",
+      "parent": {
+        "$ref": "#/groups/6"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 398.5,
+            "t": 500.513,
+            "r": 530.5,
+            "b": 490.613,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            22
+          ]
+        }
+      ],
+      "orig": "Petition to reinstate:",
+      "text": "Petition to reinstate:"
+    },
+    {
+      "self_ref": "#/texts/166",
+      "parent": {
+        "$ref": "#/groups/9"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 75.0,
+            "t": 467.513,
+            "r": 788.57,
+            "b": 444.613,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            175
+          ]
+        }
+      ],
+      "orig": "6. Note any changes such as discontinuance of use of a frequency, or of a type of emission or of a transmitter which have been mad application covering this station was filed:",
+      "text": "Note any changes such as discontinuance of use of a frequency, or of a type of emission or of a transmitter which have been mad application covering this station was filed:",
+      "enumerated": true,
+      "marker": "6."
+    },
+    {
+      "self_ref": "#/texts/167",
+      "parent": {
+        "$ref": "#/groups/6"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 95.0,
+            "t": 441.513,
+            "r": 100.5,
+            "b": 431.613,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            8
+          ]
+        }
+      ],
+      "orig": "GLYPH<9>",
+      "text": "GLYPH<9>"
+    },
+    {
+      "self_ref": "#/texts/168",
+      "parent": {
+        "$ref": "#/groups/6"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 75.0,
+            "t": 404.513,
+            "r": 97.0,
+            "b": 394.613,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            32
+          ]
+        }
+      ],
+      "orig": "GLYPH<9>GLYPH<9>GLYPH<9>GLYPH<9>",
+      "text": "GLYPH<9>GLYPH<9>GLYPH<9>GLYPH<9>"
+    },
+    {
+      "self_ref": "#/texts/169",
+      "parent": {
+        "$ref": "#/groups/6"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 75.0,
+            "t": 291.51300000000003,
+            "r": 91.5,
+            "b": 281.613,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            24
+          ]
+        }
+      ],
+      "orig": "GLYPH<9>GLYPH<9>GLYPH<9>",
+      "text": "GLYPH<9>GLYPH<9>GLYPH<9>"
+    },
+    {
+      "self_ref": "#/texts/170",
+      "parent": {
+        "$ref": "#/groups/6"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 84.0,
+            "t": 291.51300000000003,
+            "r": 95.0,
+            "b": 281.613,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            16
+          ]
+        }
+      ],
+      "orig": "GLYPH<9>GLYPH<9>",
+      "text": "GLYPH<9>GLYPH<9>"
+    },
+    {
+      "self_ref": "#/texts/171",
+      "parent": {
+        "$ref": "#/groups/6"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 90.0,
+            "t": 291.51300000000003,
+            "r": 101.0,
+            "b": 281.613,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            16
+          ]
+        }
+      ],
+      "orig": "GLYPH<9>GLYPH<9>",
+      "text": "GLYPH<9>GLYPH<9>"
+    },
+    {
+      "self_ref": "#/texts/172",
+      "parent": {
+        "$ref": "#/groups/6"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 77.0,
+            "t": 387.513,
+            "r": 351.12000000000006,
+            "b": 377.613,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            67
+          ]
+        }
+      ],
+      "orig": "Items 7(a) and (b) apply to Part 21 licenses only. GLYPH<9>GLYPH<9>",
+      "text": "Items 7(a) and (b) apply to Part 21 licenses only. GLYPH<9>GLYPH<9>"
+    },
+    {
+      "self_ref": "#/texts/173",
+      "parent": {
+        "$ref": "#/groups/6"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 324.0,
+            "t": 387.513,
+            "r": 390.0,
+            "b": 377.613,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            8
+          ]
+        }
+      ],
+      "orig": "GLYPH<9>",
+      "text": "GLYPH<9>"
+    },
+    {
+      "self_ref": "#/texts/174",
+      "parent": {
+        "$ref": "#/groups/6"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 654.8,
+            "t": 387.513,
+            "r": 682.3,
+            "b": 377.613,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            40
+          ]
+        }
+      ],
+      "orig": "GLYPH<9>GLYPH<9>GLYPH<9>GLYPH<9>GLYPH<9>",
+      "text": "GLYPH<9>GLYPH<9>GLYPH<9>GLYPH<9>GLYPH<9>"
+    },
+    {
+      "self_ref": "#/texts/175",
+      "parent": {
+        "$ref": "#/groups/6"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 668.8,
+            "t": 387.513,
+            "r": 729.3,
+            "b": 377.613,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            32
+          ]
+        }
+      ],
+      "orig": "GLYPH<9>GLYPH<9>        GLYPH<9>",
+      "text": "GLYPH<9>GLYPH<9>        GLYPH<9>"
+    },
+    {
+      "self_ref": "#/texts/176",
+      "parent": {
+        "$ref": "#/groups/10"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 77.0,
+            "t": 368.513,
+            "r": 681.45,
+            "b": 358.613,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            110
+          ]
+        }
+      ],
+      "orig": "7(a) Has there been removal of equipment or alteration of facilities as to render the Station not operational?",
+      "text": "7(a) Has there been removal of equipment or alteration of facilities as to render the Station not operational?",
+      "enumerated": false,
+      "marker": ""
+    },
+    {
+      "self_ref": "#/texts/177",
+      "parent": {
+        "$ref": "#/groups/6"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 77.0,
+            "t": 355.513,
+            "r": 176.0,
+            "b": 345.613,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            31
+          ]
+        }
+      ],
+      "orig": "GLYPH<9>GLYPH<9>       GLYPH<9>",
+      "text": "GLYPH<9>GLYPH<9>       GLYPH<9>"
+    },
+    {
+      "self_ref": "#/texts/178",
+      "parent": {
+        "$ref": "#/groups/6"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "checkbox_unselected",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 670.8,
+            "t": 367.513,
+            "r": 696.2099999999999,
+            "b": 357.613,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            3
+          ]
+        }
+      ],
+      "orig": "Yes",
+      "text": "Yes"
+    },
+    {
+      "self_ref": "#/texts/179",
+      "parent": {
+        "$ref": "#/groups/6"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "checkbox_selected",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 670.8,
+            "t": 349.513,
+            "r": 692.8,
+            "b": 339.613,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            2
+          ]
+        }
+      ],
+      "orig": "No",
+      "text": "No"
+    },
+    {
+      "self_ref": "#/texts/180",
+      "parent": {
+        "$ref": "#/groups/6"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "checkbox_selected",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 670.8,
+            "t": 331.513,
+            "r": 723.3,
+            "b": 321.613,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            44
+          ]
+        }
+      ],
+      "orig": "N/A GLYPH<9>GLYPH<9>GLYPH<9>GLYPH<9>GLYPH<9>",
+      "text": "N/A GLYPH<9>GLYPH<9>GLYPH<9>GLYPH<9>GLYPH<9>"
+    },
+    {
+      "self_ref": "#/texts/181",
+      "parent": {
+        "$ref": "#/groups/6"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 77.0,
+            "t": 308.513,
+            "r": 236.0,
+            "b": 298.613,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            44
+          ]
+        }
+      ],
+      "orig": "If YES when: GLYPH<9>GLYPH<9>       GLYPH<9>",
+      "text": "If YES when: GLYPH<9>GLYPH<9>       GLYPH<9>"
+    },
+    {
+      "self_ref": "#/texts/182",
+      "parent": {
+        "$ref": "#/groups/6"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 654.8,
+            "t": 308.513,
+            "r": 682.3,
+            "b": 298.613,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            40
+          ]
+        }
+      ],
+      "orig": "GLYPH<9>GLYPH<9>GLYPH<9>GLYPH<9>GLYPH<9>",
+      "text": "GLYPH<9>GLYPH<9>GLYPH<9>GLYPH<9>GLYPH<9>"
+    },
+    {
+      "self_ref": "#/texts/183",
+      "parent": {
+        "$ref": "#/groups/6"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 668.8,
+            "t": 308.513,
+            "r": 690.8,
+            "b": 298.613,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            32
+          ]
+        }
+      ],
+      "orig": "GLYPH<9>GLYPH<9>GLYPH<9>GLYPH<9>",
+      "text": "GLYPH<9>GLYPH<9>GLYPH<9>GLYPH<9>"
+    },
+    {
+      "self_ref": "#/texts/184",
+      "parent": {
+        "$ref": "#/groups/6"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 75.0,
+            "t": 271.513,
+            "r": 97.0,
+            "b": 261.613,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            32
+          ]
+        }
+      ],
+      "orig": "GLYPH<9>GLYPH<9>GLYPH<9>GLYPH<9>",
+      "text": "GLYPH<9>GLYPH<9>GLYPH<9>GLYPH<9>"
+    },
+    {
+      "self_ref": "#/texts/185",
+      "parent": {
+        "$ref": "#/groups/6"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 75.0,
+            "t": 196.51300000000003,
+            "r": 91.5,
+            "b": 186.613,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            24
+          ]
+        }
+      ],
+      "orig": "GLYPH<9>GLYPH<9>GLYPH<9>",
+      "text": "GLYPH<9>GLYPH<9>GLYPH<9>"
+    },
+    {
+      "self_ref": "#/texts/186",
+      "parent": {
+        "$ref": "#/groups/6"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 84.0,
+            "t": 196.51300000000003,
+            "r": 95.0,
+            "b": 186.613,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            16
+          ]
+        }
+      ],
+      "orig": "GLYPH<9>GLYPH<9>",
+      "text": "GLYPH<9>GLYPH<9>"
+    },
+    {
+      "self_ref": "#/texts/187",
+      "parent": {
+        "$ref": "#/groups/6"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 90.0,
+            "t": 196.51300000000003,
+            "r": 101.0,
+            "b": 186.613,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            16
+          ]
+        }
+      ],
+      "orig": "GLYPH<9>GLYPH<9>",
+      "text": "GLYPH<9>GLYPH<9>"
+    },
+    {
+      "self_ref": "#/texts/188",
+      "parent": {
+        "$ref": "#/groups/11"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 77.0,
+            "t": 254.51300000000003,
+            "r": 735.295,
+            "b": 231.613,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            195
+          ]
+        }
+      ],
+      "orig": "(b) If this is a Multipoint Distribution Service (MDS) station, is there a ownership interest in control by, affiliation with, or leasing arrangement with a cable television company? GLYPH<9> Yes",
+      "text": "(b) If this is a Multipoint Distribution Service (MDS) station, is there a ownership interest in control by, affiliation with, or leasing arrangement with a cable television company? GLYPH<9> Yes",
+      "enumerated": false,
+      "marker": ""
+    },
+    {
+      "self_ref": "#/texts/189",
+      "parent": {
+        "$ref": "#/groups/6"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "checkbox_unselected",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 606.6,
+            "t": 235.51300000000003,
+            "r": 628.6,
+            "b": 225.613,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            2
+          ]
+        }
+      ],
+      "orig": "No",
+      "text": "No"
+    },
+    {
+      "self_ref": "#/texts/190",
+      "parent": {
+        "$ref": "#/groups/6"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "checkbox_selected",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 606.6,
+            "t": 217.51300000000003,
+            "r": 725.1,
+            "b": 207.613,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            49
+          ]
+        }
+      ],
+      "orig": "N/A     GLYPH<9> GLYPH<9>GLYPH<9>GLYPH<9>GLYPH<9>",
+      "text": "N/A     GLYPH<9> GLYPH<9>GLYPH<9>GLYPH<9>GLYPH<9>"
+    },
+    {
+      "self_ref": "#/texts/191",
+      "parent": {
+        "$ref": "#/groups/6"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 75.0,
+            "t": 176.51300000000003,
+            "r": 97.0,
+            "b": 166.613,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            32
+          ]
+        }
+      ],
+      "orig": "GLYPH<9>GLYPH<9>GLYPH<9>GLYPH<9>",
+      "text": "GLYPH<9>GLYPH<9>GLYPH<9>GLYPH<9>"
+    },
+    {
+      "self_ref": "#/texts/192",
+      "parent": {
+        "$ref": "#/groups/6"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 75.0,
+            "t": 90.51300000000003,
+            "r": 91.5,
+            "b": 80.61300000000006,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            24
+          ]
+        }
+      ],
+      "orig": "GLYPH<9>GLYPH<9>GLYPH<9>",
+      "text": "GLYPH<9>GLYPH<9>GLYPH<9>"
+    },
+    {
+      "self_ref": "#/texts/193",
+      "parent": {
+        "$ref": "#/groups/6"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 84.0,
+            "t": 90.51300000000003,
+            "r": 95.0,
+            "b": 80.61300000000006,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            16
+          ]
+        }
+      ],
+      "orig": "GLYPH<9>GLYPH<9>",
+      "text": "GLYPH<9>GLYPH<9>"
+    },
+    {
+      "self_ref": "#/texts/194",
+      "parent": {
+        "$ref": "#/groups/6"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 90.0,
+            "t": 90.51300000000003,
+            "r": 101.0,
+            "b": 80.61300000000006,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            16
+          ]
+        }
+      ],
+      "orig": "GLYPH<9>GLYPH<9>",
+      "text": "GLYPH<9>GLYPH<9>"
+    },
+    {
+      "self_ref": "#/texts/195",
+      "parent": {
+        "$ref": "#/groups/12"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 77.0,
+            "t": 159.51300000000003,
+            "r": 791.78,
+            "b": 110.613,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            477
+          ]
+        }
+      ],
+      "orig": "8. Applicant represents that there has been no change in applicant 's organization and that there has been no transfer of control or changes in applicant' s relation to the station, or financial responsibility; that applicants most recent application or report embodying this i identified below, is to be considered as a part of this application, and the truth of the statements therein contained is hereby r here any further exceptions, not already covered in question 6 or 7.",
+      "text": "Applicant represents that there has been no change in applicant 's organization and that there has been no transfer of control or changes in applicant' s relation to the station, or financial responsibility; that applicants most recent application or report embodying this i identified below, is to be considered as a part of this application, and the truth of the statements therein contained is hereby r here any further exceptions, not already covered in question 6 or 7.",
+      "enumerated": true,
+      "marker": "8."
+    },
+    {
+      "self_ref": "#/texts/196",
+      "parent": {
+        "$ref": "#/groups/6"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 77.0,
+            "t": 107.51300000000003,
+            "r": 365.5,
+            "b": 97.61300000000006,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            92
+          ]
+        }
+      ],
+      "orig": "File Number SES-T/C-20100610-00688 Date  06/10/2010 GLYPH<9>GLYPH<9>GLYPH<9>GLYPH<9>GLYPH<9>",
+      "text": "File Number SES-T/C-20100610-00688 Date  06/10/2010 GLYPH<9>GLYPH<9>GLYPH<9>GLYPH<9>GLYPH<9>"
+    },
+    {
+      "self_ref": "#/texts/197",
+      "parent": {
+        "$ref": "#/groups/6"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 352.0,
+            "t": 107.51300000000003,
+            "r": 374.0,
+            "b": 97.61300000000006,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            32
+          ]
+        }
+      ],
+      "orig": "GLYPH<9>GLYPH<9>GLYPH<9>GLYPH<9>",
+      "text": "GLYPH<9>GLYPH<9>GLYPH<9>GLYPH<9>"
+    },
+    {
+      "self_ref": "#/texts/198",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "furniture",
+      "label": "page_footer",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 72.0,
+            "t": 52.196000000000026,
+            "r": 78.0,
+            "b": 41.39599999999996,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            1
+          ]
+        }
+      ],
+      "orig": "3",
+      "text": "3"
+    },
+    {
+      "self_ref": "#/texts/199",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 709.8,
+            "t": 479.513,
+            "r": 737.3,
+            "b": 469.613,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            40
+          ]
+        }
+      ],
+      "orig": "GLYPH<9>GLYPH<9>GLYPH<9>GLYPH<9>GLYPH<9>",
+      "text": "GLYPH<9>GLYPH<9>GLYPH<9>GLYPH<9>GLYPH<9>"
+    },
+    {
+      "self_ref": "#/texts/200",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 654.8,
+            "t": 334.513,
+            "r": 748.3,
+            "b": 324.613,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            8
+          ]
+        }
+      ],
+      "orig": "GLYPH<9>",
+      "text": "GLYPH<9>"
+    },
+    {
+      "self_ref": "#/texts/201",
+      "parent": {
+        "$ref": "#/groups/13"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 75.0,
+            "t": 533.513,
+            "r": 97.0,
+            "b": 523.613,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            32
+          ]
+        }
+      ],
+      "orig": "GLYPH<9>GLYPH<9>GLYPH<9>GLYPH<9>",
+      "text": "GLYPH<9>GLYPH<9>GLYPH<9>GLYPH<9>"
+    },
+    {
+      "self_ref": "#/texts/202",
+      "parent": {
+        "$ref": "#/groups/13"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 75.0,
+            "t": 407.51300000000003,
+            "r": 91.5,
+            "b": 397.613,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            24
+          ]
+        }
+      ],
+      "orig": "GLYPH<9>GLYPH<9>GLYPH<9>",
+      "text": "GLYPH<9>GLYPH<9>GLYPH<9>"
+    },
+    {
+      "self_ref": "#/texts/203",
+      "parent": {
+        "$ref": "#/groups/13"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 84.0,
+            "t": 407.51300000000003,
+            "r": 95.0,
+            "b": 397.613,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            16
+          ]
+        }
+      ],
+      "orig": "GLYPH<9>GLYPH<9>",
+      "text": "GLYPH<9>GLYPH<9>"
+    },
+    {
+      "self_ref": "#/texts/204",
+      "parent": {
+        "$ref": "#/groups/13"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 90.0,
+            "t": 407.51300000000003,
+            "r": 101.0,
+            "b": 397.613,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            16
+          ]
+        }
+      ],
+      "orig": "GLYPH<9>GLYPH<9>",
+      "text": "GLYPH<9>GLYPH<9>"
+    },
+    {
+      "self_ref": "#/texts/205",
+      "parent": {
+        "$ref": "#/groups/13"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "checkbox_unselected",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 77.0,
+            "t": 516.513,
+            "r": 751.2449999999999,
+            "b": 493.613,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            152
+          ]
+        }
+      ],
+      "orig": "9. Would a Commision grant of this application come within 47 CFR 1.1307, such that it may have a significant environmental impact? GLYPH<9>GLYPH<9> Yes",
+      "text": "9. Would a Commision grant of this application come within 47 CFR 1.1307, such that it may have a significant environmental impact? GLYPH<9>GLYPH<9> Yes"
+    },
+    {
+      "self_ref": "#/texts/206",
+      "parent": {
+        "$ref": "#/groups/13"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "checkbox_selected",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 670.8,
+            "t": 497.513,
+            "r": 692.8,
+            "b": 487.613,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            2
+          ]
+        }
+      ],
+      "orig": "No",
+      "text": "No"
+    },
+    {
+      "self_ref": "#/texts/207",
+      "parent": {
+        "$ref": "#/groups/13"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "checkbox_unselected",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 670.8,
+            "t": 479.513,
+            "r": 723.3,
+            "b": 469.613,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            44
+          ]
+        }
+      ],
+      "orig": "N/A GLYPH<9>GLYPH<9>GLYPH<9>GLYPH<9>GLYPH<9>",
+      "text": "N/A GLYPH<9>GLYPH<9>GLYPH<9>GLYPH<9>GLYPH<9>"
+    },
+    {
+      "self_ref": "#/texts/208",
+      "parent": {
+        "$ref": "#/groups/13"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 77.0,
+            "t": 456.513,
+            "r": 536.965,
+            "b": 446.613,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            165
+          ]
+        }
+      ],
+      "orig": "If YES, attach as an Exhibit an Environmental Assessment required by 47 CFR 1.1311: GLYPH<9>GLYPH<9>GLYPH<9>GLYPH<9>GLYPH<9> GLYPH<9>GLYPH<9>GLYPH<9>GLYPH<9>GLYPH<9>",
+      "text": "If YES, attach as an Exhibit an Environmental Assessment required by 47 CFR 1.1311: GLYPH<9>GLYPH<9>GLYPH<9>GLYPH<9>GLYPH<9> GLYPH<9>GLYPH<9>GLYPH<9>GLYPH<9>GLYPH<9>"
+    },
+    {
+      "self_ref": "#/texts/209",
+      "parent": {
+        "$ref": "#/groups/13"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 77.0,
+            "t": 437.513,
+            "r": 553.421,
+            "b": 414.613,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            230
+          ]
+        }
+      ],
+      "orig": "If NO, Explain briefly why not: THE RADIATION HAZARD ANALYSIS ATTACHED TO THE ORIGINAL LICENSE APPLICATION DEMONSTRATES NO SIGNIFICANT ENVIRONMENTAL IMPACT. GLYPH<9>GLYPH<9>GLYPH<9>GLYPH<9>GLYPH<9> GLYPH<9>GLYPH<9>GLYPH<9>GLYPH<9>",
+      "text": "If NO, Explain briefly why not: THE RADIATION HAZARD ANALYSIS ATTACHED TO THE ORIGINAL LICENSE APPLICATION DEMONSTRATES NO SIGNIFICANT ENVIRONMENTAL IMPACT. GLYPH<9>GLYPH<9>GLYPH<9>GLYPH<9>GLYPH<9> GLYPH<9>GLYPH<9>GLYPH<9>GLYPH<9>"
+    },
+    {
+      "self_ref": "#/texts/210",
+      "parent": {
+        "$ref": "#/groups/13"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 75.0,
+            "t": 387.513,
+            "r": 97.0,
+            "b": 377.613,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            32
+          ]
+        }
+      ],
+      "orig": "GLYPH<9>GLYPH<9>GLYPH<9>GLYPH<9>",
+      "text": "GLYPH<9>GLYPH<9>GLYPH<9>GLYPH<9>"
+    },
+    {
+      "self_ref": "#/texts/211",
+      "parent": {
+        "$ref": "#/groups/13"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 75.0,
+            "t": 243.51300000000003,
+            "r": 91.5,
+            "b": 233.613,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            24
+          ]
+        }
+      ],
+      "orig": "GLYPH<9>GLYPH<9>GLYPH<9>",
+      "text": "GLYPH<9>GLYPH<9>GLYPH<9>"
+    },
+    {
+      "self_ref": "#/texts/212",
+      "parent": {
+        "$ref": "#/groups/13"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 84.0,
+            "t": 243.51300000000003,
+            "r": 95.0,
+            "b": 233.613,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            16
+          ]
+        }
+      ],
+      "orig": "GLYPH<9>GLYPH<9>",
+      "text": "GLYPH<9>GLYPH<9>"
+    },
+    {
+      "self_ref": "#/texts/213",
+      "parent": {
+        "$ref": "#/groups/13"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 90.0,
+            "t": 243.51300000000003,
+            "r": 95.5,
+            "b": 233.613,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            8
+          ]
+        }
+      ],
+      "orig": "GLYPH<9>",
+      "text": "GLYPH<9>"
+    },
+    {
+      "self_ref": "#/texts/214",
+      "parent": {
+        "$ref": "#/groups/13"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "checkbox_selected",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 77.0,
+            "t": 370.513,
+            "r": 792.0,
+            "b": 321.613,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            526
+          ]
+        }
+      ],
+      "orig": "10. Certification: The applicant certifies that, in the case of an individual applicant, he or she is not subject to a denial of f benefits pursuant to section 5301 of Anti-Drug Abuse Act of 1988, 21 U.S.C. 853a, or, in the case of a nonindividual applicant (e. g., corporation, partnership or other unincorporated association), no party to the application is subject to denial of federal ben pusuant to that section. For the definition of a &quot;party&quot; for these purposes, see 47 CFR 1.2002(b). GLYPH<9> Yes No GLYPH<9>",
+      "text": "10. Certification: The applicant certifies that, in the case of an individual applicant, he or she is not subject to a denial of f benefits pursuant to section 5301 of Anti-Drug Abuse Act of 1988, 21 U.S.C. 853a, or, in the case of a nonindividual applicant (e. g., corporation, partnership or other unincorporated association), no party to the application is subject to denial of federal ben pusuant to that section. For the definition of a &quot;party&quot; for these purposes, see 47 CFR 1.2002(b). GLYPH<9> Yes No GLYPH<9>"
+    },
+    {
+      "self_ref": "#/texts/215",
+      "parent": {
+        "$ref": "#/groups/14"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 77.0,
+            "t": 312.513,
+            "r": 784.63,
+            "b": 276.613,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            377
+          ]
+        }
+      ],
+      "orig": "a. Applicant waives any claim to the use of any particular frequency or of the electromagnetic spectrum as against the regulatory power of the United States because of the previous use of the same, whether by license or otherwise, and requests a station license in accordance with this application.  Applicant acknowledges that all attached exhibits are a material part hereof.",
+      "text": "Applicant waives any claim to the use of any particular frequency or of the electromagnetic spectrum as against the regulatory power of the United States because of the previous use of the same, whether by license or otherwise, and requests a station license in accordance with this application.  Applicant acknowledges that all attached exhibits are a material part hereof.",
+      "enumerated": true,
+      "marker": "a."
+    },
+    {
+      "self_ref": "#/texts/216",
+      "parent": {
+        "$ref": "#/groups/15"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 77.0,
+            "t": 273.513,
+            "r": 774.367,
+            "b": 250.613,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            301
+          ]
+        }
+      ],
+      "orig": "b. The undersigned, individually and for the applicant, hereby certifies that the statements made in this application are true, complete and correct to the best of the signer 's knowledge and belief, and are made in good faith. GLYPH<9>GLYPH<9>GLYPH<9>GLYPH<9>GLYPH<9> GLYPH<9>GLYPH<9>GLYPH<9>GLYPH<9>",
+      "text": "The undersigned, individually and for the applicant, hereby certifies that the statements made in this application are true, complete and correct to the best of the signer 's knowledge and belief, and are made in good faith. GLYPH<9>GLYPH<9>GLYPH<9>GLYPH<9>GLYPH<9> GLYPH<9>GLYPH<9>GLYPH<9>GLYPH<9>",
+      "enumerated": true,
+      "marker": "b."
+    },
+    {
+      "self_ref": "#/texts/217",
+      "parent": {
+        "$ref": "#/groups/16"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 72.0,
+            "t": 225.19600000000003,
+            "r": 323.1,
+            "b": 214.39600000000002,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            50
+          ]
+        }
+      ],
+      "orig": "GLYPH<9> 11. Designate Appropriate Classification:",
+      "text": "GLYPH<9> 11. Designate Appropriate Classification:",
+      "enumerated": false,
+      "marker": ""
+    },
+    {
+      "self_ref": "#/texts/218",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 72.0,
+            "t": 211.19600000000003,
+            "r": 78.0,
+            "b": 200.39600000000002,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            8
+          ]
+        }
+      ],
+      "orig": "GLYPH<9>",
+      "text": "GLYPH<9>"
+    },
+    {
+      "self_ref": "#/texts/219",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "furniture",
+      "label": "page_footer",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 72.0,
+            "t": 52.196000000000026,
+            "r": 78.0,
+            "b": 41.39599999999996,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            1
+          ]
+        }
+      ],
+      "orig": "4",
+      "text": "4"
+    },
+    {
+      "self_ref": "#/texts/220",
+      "parent": {
+        "$ref": "#/groups/18"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 5,
+          "bbox": {
+            "l": 72.0,
+            "t": 407.196,
+            "r": 308.82,
+            "b": 396.39599999999996,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            57
+          ]
+        }
+      ],
+      "orig": "GLYPH<9> 12. Please supply any need attachments. GLYPH<9>",
+      "text": "GLYPH<9> 12. Please supply any need attachments. GLYPH<9>",
+      "enumerated": false,
+      "marker": ""
+    },
+    {
+      "self_ref": "#/texts/221",
+      "parent": {
+        "$ref": "#/groups/17"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "prov": [
+        {
+          "page_no": 5,
+          "bbox": {
+            "l": 72.0,
+            "t": 370.196,
+            "r": 150.948,
+            "b": 359.39599999999996,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            22
+          ]
+        }
+      ],
+      "orig": "GLYPH<9> CERTIFICATION",
+      "text": "GLYPH<9> CERTIFICATION",
+      "level": 1
+    },
+    {
+      "self_ref": "#/texts/222",
+      "parent": {
+        "$ref": "#/groups/17"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 5,
+          "bbox": {
+            "l": 164.0,
+            "t": 370.196,
+            "r": 170.0,
+            "b": 359.39599999999996,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            8
+          ]
+        }
+      ],
+      "orig": "GLYPH<9>",
+      "text": "GLYPH<9>"
+    },
+    {
+      "self_ref": "#/texts/223",
+      "parent": {
+        "$ref": "#/groups/17"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 5,
+          "bbox": {
+            "l": 75.0,
+            "t": 533.513,
+            "r": 97.0,
+            "b": 523.613,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            32
+          ]
+        }
+      ],
+      "orig": "GLYPH<9>GLYPH<9>GLYPH<9>GLYPH<9>",
+      "text": "GLYPH<9>GLYPH<9>GLYPH<9>GLYPH<9>"
+    },
+    {
+      "self_ref": "#/texts/224",
+      "parent": {
+        "$ref": "#/groups/17"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "checkbox_unselected",
+      "prov": [
+        {
+          "page_no": 5,
+          "bbox": {
+            "l": 91.0,
+            "t": 519.513,
+            "r": 151.225,
+            "b": 509.613,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            10
+          ]
+        }
+      ],
+      "orig": "Individual",
+      "text": "Individual"
+    },
+    {
+      "self_ref": "#/texts/225",
+      "parent": {
+        "$ref": "#/groups/17"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 5,
+          "bbox": {
+            "l": 139.0,
+            "t": 519.513,
+            "r": 161.0,
+            "b": 509.613,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            32
+          ]
+        }
+      ],
+      "orig": "GLYPH<9>GLYPH<9>GLYPH<9>GLYPH<9>",
+      "text": "GLYPH<9>GLYPH<9>GLYPH<9>GLYPH<9>"
+    },
+    {
+      "self_ref": "#/texts/226",
+      "parent": {
+        "$ref": "#/groups/17"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "checkbox_unselected",
+      "prov": [
+        {
+          "page_no": 5,
+          "bbox": {
+            "l": 91.0,
+            "t": 501.513,
+            "r": 239.0,
+            "b": 491.613,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            59
+          ]
+        }
+      ],
+      "orig": "Unincorporated Association GLYPH<9>GLYPH<9>GLYPH<9>GLYPH<9>",
+      "text": "Unincorporated Association GLYPH<9>GLYPH<9>GLYPH<9>GLYPH<9>"
+    },
+    {
+      "self_ref": "#/texts/227",
+      "parent": {
+        "$ref": "#/groups/17"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "checkbox_unselected",
+      "prov": [
+        {
+          "page_no": 5,
+          "bbox": {
+            "l": 91.0,
+            "t": 483.513,
+            "r": 156.835,
+            "b": 473.613,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            11
+          ]
+        }
+      ],
+      "orig": "Partnership",
+      "text": "Partnership"
+    },
+    {
+      "self_ref": "#/texts/228",
+      "parent": {
+        "$ref": "#/groups/17"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 5,
+          "bbox": {
+            "l": 144.0,
+            "t": 483.513,
+            "r": 166.0,
+            "b": 473.613,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            32
+          ]
+        }
+      ],
+      "orig": "GLYPH<9>GLYPH<9>GLYPH<9>GLYPH<9>",
+      "text": "GLYPH<9>GLYPH<9>GLYPH<9>GLYPH<9>"
+    },
+    {
+      "self_ref": "#/texts/229",
+      "parent": {
+        "$ref": "#/groups/17"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "checkbox_selected",
+      "prov": [
+        {
+          "page_no": 5,
+          "bbox": {
+            "l": 91.0,
+            "t": 465.51300000000003,
+            "r": 157.0,
+            "b": 455.613,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            11
+          ]
+        }
+      ],
+      "orig": "Corporation",
+      "text": "Corporation"
+    },
+    {
+      "self_ref": "#/texts/230",
+      "parent": {
+        "$ref": "#/groups/17"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 5,
+          "bbox": {
+            "l": 147.0,
+            "t": 465.51300000000003,
+            "r": 169.0,
+            "b": 455.613,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            32
+          ]
+        }
+      ],
+      "orig": "GLYPH<9>GLYPH<9>GLYPH<9>GLYPH<9>",
+      "text": "GLYPH<9>GLYPH<9>GLYPH<9>GLYPH<9>"
+    },
+    {
+      "self_ref": "#/texts/231",
+      "parent": {
+        "$ref": "#/groups/17"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "checkbox_unselected",
+      "prov": [
+        {
+          "page_no": 5,
+          "bbox": {
+            "l": 91.0,
+            "t": 447.51300000000003,
+            "r": 200.67000000000002,
+            "b": 437.613,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            19
+          ]
+        }
+      ],
+      "orig": "Governmental Entity",
+      "text": "Governmental Entity"
+    },
+    {
+      "self_ref": "#/texts/232",
+      "parent": {
+        "$ref": "#/groups/17"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 5,
+          "bbox": {
+            "l": 186.0,
+            "t": 447.51300000000003,
+            "r": 208.0,
+            "b": 437.613,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            32
+          ]
+        }
+      ],
+      "orig": "GLYPH<9>GLYPH<9>GLYPH<9>GLYPH<9>",
+      "text": "GLYPH<9>GLYPH<9>GLYPH<9>GLYPH<9>"
+    },
+    {
+      "self_ref": "#/texts/233",
+      "parent": {
+        "$ref": "#/groups/17"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "checkbox_unselected",
+      "prov": [
+        {
+          "page_no": 5,
+          "bbox": {
+            "l": 91.0,
+            "t": 429.51300000000003,
+            "r": 217.5,
+            "b": 419.613,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            22
+          ]
+        }
+      ],
+      "orig": "Other (please specify)",
+      "text": "Other (please specify)"
+    },
+    {
+      "self_ref": "#/texts/234",
+      "parent": {
+        "$ref": "#/groups/17"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 5,
+          "bbox": {
+            "l": 191.0,
+            "t": 429.51300000000003,
+            "r": 229.5,
+            "b": 419.613,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            56
+          ]
+        }
+      ],
+      "orig": "GLYPH<9>GLYPH<9>GLYPH<9>GLYPH<9>GLYPH<9>GLYPH<9>GLYPH<9>",
+      "text": "GLYPH<9>GLYPH<9>GLYPH<9>GLYPH<9>GLYPH<9>GLYPH<9>GLYPH<9>"
+    },
+    {
+      "self_ref": "#/texts/235",
+      "parent": {
+        "$ref": "#/groups/17"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 5,
+          "bbox": {
+            "l": 222.0,
+            "t": 429.51300000000003,
+            "r": 233.0,
+            "b": 419.613,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            16
+          ]
+        }
+      ],
+      "orig": "GLYPH<9>GLYPH<9>",
+      "text": "GLYPH<9>GLYPH<9>"
+    },
+    {
+      "self_ref": "#/texts/236",
+      "parent": {
+        "$ref": "#/groups/17"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 5,
+          "bbox": {
+            "l": 228.0,
+            "t": 429.51300000000003,
+            "r": 233.5,
+            "b": 419.613,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            8
+          ]
+        }
+      ],
+      "orig": "GLYPH<9>",
+      "text": "GLYPH<9>"
+    },
+    {
+      "self_ref": "#/texts/237",
+      "parent": {
+        "$ref": "#/groups/17"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 5,
+          "bbox": {
+            "l": 75.0,
+            "t": 388.513,
+            "r": 109.5,
+            "b": 378.613,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            31
+          ]
+        }
+      ],
+      "orig": "1:     GLYPH<9>GLYPH<9>GLYPH<9>",
+      "text": "1:     GLYPH<9>GLYPH<9>GLYPH<9>"
+    },
+    {
+      "self_ref": "#/texts/238",
+      "parent": {
+        "$ref": "#/groups/17"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 5,
+          "bbox": {
+            "l": 290.6667,
+            "t": 388.513,
+            "r": 325.1667,
+            "b": 378.613,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            31
+          ]
+        }
+      ],
+      "orig": "2:     GLYPH<9>GLYPH<9>GLYPH<9>",
+      "text": "2:     GLYPH<9>GLYPH<9>GLYPH<9>"
+    },
+    {
+      "self_ref": "#/texts/239",
+      "parent": {
+        "$ref": "#/groups/17"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 5,
+          "bbox": {
+            "l": 506.3333,
+            "t": 388.513,
+            "r": 535.8333,
+            "b": 378.613,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            32
+          ]
+        }
+      ],
+      "orig": "3:     GLYPH<9>GLYPH<9> GLYPH<9>",
+      "text": "3:     GLYPH<9>GLYPH<9> GLYPH<9>"
+    },
+    {
+      "self_ref": "#/texts/240",
+      "parent": {
+        "$ref": "#/groups/19"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 5,
+          "bbox": {
+            "l": 75.0,
+            "t": 351.513,
+            "r": 249.922,
+            "b": 328.613,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            128
+          ]
+        }
+      ],
+      "orig": "13. Typed Name of Person Signing GLYPH<9>GLYPH<9>GLYPH<9>GLYPH<9> REGAN RISHEL GLYPH<9>GLYPH<9>GLYPH<9> GLYPH<9>GLYPH<9>GLYPH<9>",
+      "text": "Typed Name of Person Signing GLYPH<9>GLYPH<9>GLYPH<9>GLYPH<9> REGAN RISHEL GLYPH<9>GLYPH<9>GLYPH<9> GLYPH<9>GLYPH<9>GLYPH<9>",
+      "enumerated": true,
+      "marker": "13."
+    },
+    {
+      "self_ref": "#/texts/241",
+      "parent": {
+        "$ref": "#/groups/20"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 5,
+          "bbox": {
+            "l": 398.5,
+            "t": 351.513,
+            "r": 546.417,
+            "b": 328.613,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            80
+          ]
+        }
+      ],
+      "orig": "14. Title of Person Signing GLYPH<9>GLYPH<9>GLYPH<9>GLYPH<9> AUTHORIZED EMPLOYEE",
+      "text": "Title of Person Signing GLYPH<9>GLYPH<9>GLYPH<9>GLYPH<9> AUTHORIZED EMPLOYEE",
+      "enumerated": true,
+      "marker": "14."
+    },
+    {
+      "self_ref": "#/texts/242",
+      "parent": {
+        "$ref": "#/groups/17"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 5,
+          "bbox": {
+            "l": 541.5,
+            "t": 338.513,
+            "r": 558.0,
+            "b": 328.613,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            24
+          ]
+        }
+      ],
+      "orig": "GLYPH<9>GLYPH<9>GLYPH<9>",
+      "text": "GLYPH<9>GLYPH<9>GLYPH<9>"
+    },
+    {
+      "self_ref": "#/texts/243",
+      "parent": {
+        "$ref": "#/groups/17"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 5,
+          "bbox": {
+            "l": 550.5,
+            "t": 338.513,
+            "r": 561.5,
+            "b": 328.613,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            16
+          ]
+        }
+      ],
+      "orig": "GLYPH<9>GLYPH<9>",
+      "text": "GLYPH<9>GLYPH<9>"
+    },
+    {
+      "self_ref": "#/texts/244",
+      "parent": {
+        "$ref": "#/groups/17"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 5,
+          "bbox": {
+            "l": 556.5,
+            "t": 338.513,
+            "r": 567.5,
+            "b": 328.613,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            16
+          ]
+        }
+      ],
+      "orig": "GLYPH<9>GLYPH<9>",
+      "text": "GLYPH<9>GLYPH<9>"
+    },
+    {
+      "self_ref": "#/texts/245",
+      "parent": {
+        "$ref": "#/groups/17"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 5,
+          "bbox": {
+            "l": 124.0,
+            "t": 318.513,
+            "r": 614.0909999999999,
+            "b": 295.613,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            168
+          ]
+        }
+      ],
+      "orig": "WILLFUL FALSE STATEMENTS MADE ON THIS FORM ARE PUNISHABLE BY FINE AND / ORIMPRISONMENT (U.S. Code, Title 18, Section1001), AND/OR REVOCATION OF ANY STATIONAUTHORIZATION",
+      "text": "WILLFUL FALSE STATEMENTS MADE ON THIS FORM ARE PUNISHABLE BY FINE AND / ORIMPRISONMENT (U.S. Code, Title 18, Section1001), AND/OR REVOCATION OF ANY STATIONAUTHORIZATION"
+    },
+    {
+      "self_ref": "#/texts/246",
+      "parent": {
+        "$ref": "#/groups/17"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 5,
+          "bbox": {
+            "l": 173.975,
+            "t": 292.513,
+            "r": 683.902,
+            "b": 282.613,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            110
+          ]
+        }
+      ],
+      "orig": "(U.S. Code, Title 47, Section312(a)(1)), AND/OR FORFEITURE (U.S. Code,Title 47, Section 503). GLYPH<9>GLYPH<9>",
+      "text": "(U.S. Code, Title 47, Section312(a)(1)), AND/OR FORFEITURE (U.S. Code,Title 47, Section 503). GLYPH<9>GLYPH<9>"
+    },
+    {
+      "self_ref": "#/texts/247",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "prov": [
+        {
+          "page_no": 5,
+          "bbox": {
+            "l": 74.0,
+            "t": 270.513,
+            "r": 345.601,
+            "b": 260.613,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            50
+          ]
+        }
+      ],
+      "orig": "FCC NOTICE REQUIRED BY THE PAPERWORK REDUCTION ACT",
+      "text": "FCC NOTICE REQUIRED BY THE PAPERWORK REDUCTION ACT",
+      "level": 1
+    },
+    {
+      "self_ref": "#/texts/248",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 5,
+          "bbox": {
+            "l": 74.0,
+            "t": 244.51300000000003,
+            "r": 788.615,
+            "b": 169.613,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            717
+          ]
+        }
+      ],
+      "orig": "The public reporting for this collection of information is estimated to average 2.25 hours per response, including the time for re instructions, searching existing data sources, gathering and maintaining the required data, and completing and reviewing the colle information.  If you have any comments on this burden estimate, or how we can improve the collection and reduce the burden it caus please write to the Federal Communications Commission, AMD-PERM, Paperwork Reduction Project (3060-1066), Washington, DC 20554. We will also accept your comments regarding the Paperwork Reduction Act aspects of this collection via the Internet if you send th PRA@fcc.gov.  PLEASE DO NOT SEND COMPLETED FORMS TO THIS ADDRESS.",
+      "text": "The public reporting for this collection of information is estimated to average 2.25 hours per response, including the time for re instructions, searching existing data sources, gathering and maintaining the required data, and completing and reviewing the colle information.  If you have any comments on this burden estimate, or how we can improve the collection and reduce the burden it caus please write to the Federal Communications Commission, AMD-PERM, Paperwork Reduction Project (3060-1066), Washington, DC 20554. We will also accept your comments regarding the Paperwork Reduction Act aspects of this collection via the Internet if you send th PRA@fcc.gov.  PLEASE DO NOT SEND COMPLETED FORMS TO THIS ADDRESS."
+    },
+    {
+      "self_ref": "#/texts/249",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 5,
+          "bbox": {
+            "l": 74.0,
+            "t": 153.51300000000003,
+            "r": 791.6400000000001,
+            "b": 117.613,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            327
+          ]
+        }
+      ],
+      "orig": "Remember - You are not required to respond to a collection of information sponsored by the Federal government, and the government m conduct or sponsor this collection, unless it displays a currently valid OMB control number or if we fail to provide you with this collection has been assigned an OMB control number of 3060-1066.",
+      "text": "Remember - You are not required to respond to a collection of information sponsored by the Federal government, and the government m conduct or sponsor this collection, unless it displays a currently valid OMB control number or if we fail to provide you with this collection has been assigned an OMB control number of 3060-1066."
+    },
+    {
+      "self_ref": "#/texts/250",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 5,
+          "bbox": {
+            "l": 74.0,
+            "t": 101.51300000000003,
+            "r": 613.473,
+            "b": 78.61300000000006,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            132
+          ]
+        }
+      ],
+      "orig": "THE FOREGOING NOTICE IS REQUIRED BY THE PAPERWORK REDUCTION ACT OF 1995, PUBLIC LAW 104-13, OCTOBER 1, 1995, 44 U.S.C. SECTION 3507.",
+      "text": "THE FOREGOING NOTICE IS REQUIRED BY THE PAPERWORK REDUCTION ACT OF 1995, PUBLIC LAW 104-13, OCTOBER 1, 1995, 44 U.S.C. SECTION 3507."
+    },
+    {
+      "self_ref": "#/texts/251",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "furniture",
+      "label": "page_footer",
+      "prov": [
+        {
+          "page_no": 5,
+          "bbox": {
+            "l": 72.0,
+            "t": 52.196000000000026,
+            "r": 78.0,
+            "b": 41.39599999999996,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            1
+          ]
+        }
+      ],
+      "orig": "5",
+      "text": "5"
+    }
+  ],
+  "pictures": [],
+  "tables": [],
+  "key_value_items": [],
+  "form_items": [],
+  "pages": {
+    "1": {
+      "size": {
+        "width": 792.0,
+        "height": 612.0
+      },
+      "page_no": 1
+    },
+    "2": {
+      "size": {
+        "width": 792.0,
+        "height": 612.0
+      },
+      "page_no": 2
+    },
+    "3": {
+      "size": {
+        "width": 792.0,
+        "height": 612.0
+      },
+      "page_no": 3
+    },
+    "4": {
+      "size": {
+        "width": 792.0,
+        "height": 612.0
+      },
+      "page_no": 4
+    },
+    "5": {
+      "size": {
+        "width": 792.0,
+        "height": 612.0
+      },
+      "page_no": 5
+    }
+  }
+}

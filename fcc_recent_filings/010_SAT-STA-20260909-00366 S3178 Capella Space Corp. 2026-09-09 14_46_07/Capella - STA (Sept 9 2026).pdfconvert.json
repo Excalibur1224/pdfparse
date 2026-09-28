@@ -1,0 +1,507 @@
+{
+  "schema_name": "DoclingDocument",
+  "version": "1.9.0",
+  "name": "Capella - STA (Sept 9 2026)",
+  "origin": {
+    "mimetype": "application/pdf",
+    "binary_hash": 3170156114384474748,
+    "filename": "Capella - STA (Sept 9 2026).pdf"
+  },
+  "furniture": {
+    "self_ref": "#/furniture",
+    "children": [],
+    "content_layer": "furniture",
+    "name": "_root_",
+    "label": "unspecified"
+  },
+  "body": {
+    "self_ref": "#/body",
+    "children": [
+      {
+        "$ref": "#/texts/0"
+      },
+      {
+        "$ref": "#/texts/1"
+      },
+      {
+        "$ref": "#/tables/0"
+      },
+      {
+        "$ref": "#/texts/2"
+      },
+      {
+        "$ref": "#/texts/3"
+      },
+      {
+        "$ref": "#/texts/4"
+      },
+      {
+        "$ref": "#/texts/5"
+      }
+    ],
+    "content_layer": "body",
+    "name": "_root_",
+    "label": "unspecified"
+  },
+  "groups": [],
+  "texts": [
+    {
+      "self_ref": "#/texts/0",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 189.33,
+            "t": 716.844,
+            "r": 422.45399999999995,
+            "b": 706.7505454545454,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            43
+          ]
+        }
+      ],
+      "orig": "Application for Special Temporary Authority",
+      "text": "Application for Special Temporary Authority",
+      "level": 1
+    },
+    {
+      "self_ref": "#/texts/1",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 72.025,
+            "t": 679.2660000000001,
+            "r": 533.6360000000002,
+            "b": 557.654,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            679
+          ]
+        }
+      ],
+      "orig": "Capella Space Corp. hereby requests Special Temporary Authority ('STA') for a period of 60 days to launch, deploy, and begin telemetry, tracking, and command ('TT&C') communications for two satellites in the Mid-Inclination orbital plane as requested in ICFS File No. SAT-MOD-20260504-00184, modifying Call Sign S3178, while that application remains pending. That modification seeks, among other things, to add two additional satellites to the Acadia constellation, consolidate and simplify orbital planes, and extend the license term. This STA seeks a subset of that authority: to operate two satellites in the following orbital plane, as described in the pending application. 1",
+      "text": "Capella Space Corp. hereby requests Special Temporary Authority ('STA') for a period of 60 days to launch, deploy, and begin telemetry, tracking, and command ('TT&C') communications for two satellites in the Mid-Inclination orbital plane as requested in ICFS File No. SAT-MOD-20260504-00184, modifying Call Sign S3178, while that application remains pending. That modification seeks, among other things, to add two additional satellites to the Acadia constellation, consolidate and simplify orbital planes, and extend the license term. This STA seeks a subset of that authority: to operate two satellites in the following orbital plane, as described in the pending application. 1"
+    },
+    {
+      "self_ref": "#/texts/2",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 72.025,
+            "t": 449.71599999999995,
+            "r": 531.3159999999998,
+            "b": 375.864,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            398
+          ]
+        }
+      ],
+      "orig": "The radiofrequency characteristics of these satellites are the same as those already authorized under Call Sign S3178. The TT&C frequencies are: uplink 2025 -2110 MHz (center frequency 2036 MHz, 1.4 MHz bandwidth) and downlink 8025 -8400 MHz (center frequency 8027 MHz, 1.4 MHz bandwidth). The initial orbit insertion range is 500 -600 km \u00b1 25 km, and the operational altitude range is 480 -630 km.",
+      "text": "The radiofrequency characteristics of these satellites are the same as those already authorized under Call Sign S3178. The TT&C frequencies are: uplink 2025 -2110 MHz (center frequency 2036 MHz, 1.4 MHz bandwidth) and downlink 8025 -8400 MHz (center frequency 8027 MHz, 1.4 MHz bandwidth). The initial orbit insertion range is 500 -600 km \u00b1 25 km, and the operational altitude range is 480 -630 km."
+    },
+    {
+      "self_ref": "#/texts/3",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 72.025,
+            "t": 358.416,
+            "r": 530.8259999999998,
+            "b": 221.06400000000008,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            763
+          ]
+        }
+      ],
+      "orig": "This STA is necessary to allow Capella to meet an upcoming launch opportunity in early October 2026 with a license need-by date of Sept 13, 2026. Grant of this STA will serve the public interest by enabling Capella to continue deploying its next-generation synthetic aperture radar satellites, providing valuable earth-observation services for U.S. government, allied, and commercial customers who rely on timely, high-resolution SAR imagery for a wide range of national-security, business, and life-safety applications. This application is submitted less than three working days before the requested grant date due to unexpected delays in the NTIA coordination process resulting in extended processing of Capella's underlying application for regular authority. 2",
+      "text": "This STA is necessary to allow Capella to meet an upcoming launch opportunity in early October 2026 with a license need-by date of Sept 13, 2026. Grant of this STA will serve the public interest by enabling Capella to continue deploying its next-generation synthetic aperture radar satellites, providing valuable earth-observation services for U.S. government, allied, and commercial customers who rely on timely, high-resolution SAR imagery for a wide range of national-security, business, and life-safety applications. This application is submitted less than three working days before the requested grant date due to unexpected delays in the NTIA coordination process resulting in extended processing of Capella's underlying application for regular authority. 2"
+    },
+    {
+      "self_ref": "#/texts/4",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "footnote",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 72.025,
+            "t": 118.32399999999996,
+            "r": 525.0500000000001,
+            "b": 83.50900000000001,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            241
+          ]
+        }
+      ],
+      "orig": "1 To the extent necessary, Capella hereby incorporates by reference the system information provided under its pending modification application. See Application of Capella Space Corp., ICFS File No. SAT-MOD-2026050400184 (filed May 28, 2026).",
+      "text": "1 To the extent necessary, Capella hereby incorporates by reference the system information provided under its pending modification application. See Application of Capella Space Corp., ICFS File No. SAT-MOD-2026050400184 (filed May 28, 2026)."
+    },
+    {
+      "self_ref": "#/texts/5",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "footnote",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 72.025,
+            "t": 82.02949999999998,
+            "r": 186.83,
+            "b": 72.34257575757579,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            28
+          ]
+        }
+      ],
+      "orig": "2 See 47 C.F.R. \u00a7 25.120(a).",
+      "text": "2 See 47 C.F.R. \u00a7 25.120(a)."
+    }
+  ],
+  "pictures": [],
+  "tables": [
+    {
+      "self_ref": "#/tables/0",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "table",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 125.4388656616211,
+            "t": 524.1760559082031,
+            "r": 486.8883972167969,
+            "b": 477.9144287109375,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            0
+          ]
+        }
+      ],
+      "captions": [],
+      "references": [],
+      "footnotes": [],
+      "data": {
+        "table_cells": [
+          {
+            "bbox": {
+              "l": 151.08,
+              "t": 275.976,
+              "r": 220.77600000000007,
+              "b": 286.06945454545456,
+              "coord_origin": "TOPLEFT"
+            },
+            "row_span": 1,
+            "col_span": 1,
+            "start_row_offset_idx": 0,
+            "end_row_offset_idx": 1,
+            "start_col_offset_idx": 0,
+            "end_col_offset_idx": 1,
+            "text": "Altitude (km)",
+            "column_header": true,
+            "row_header": false,
+            "row_section": false,
+            "fillable": false
+          },
+          {
+            "bbox": {
+              "l": 263.6,
+              "t": 275.976,
+              "r": 348.54800000000006,
+              "b": 286.06945454545456,
+              "coord_origin": "TOPLEFT"
+            },
+            "row_span": 1,
+            "col_span": 1,
+            "start_row_offset_idx": 0,
+            "end_row_offset_idx": 1,
+            "start_col_offset_idx": 1,
+            "end_col_offset_idx": 2,
+            "text": "Inclination (deg)",
+            "column_header": true,
+            "row_header": false,
+            "row_section": false,
+            "fillable": false
+          },
+          {
+            "bbox": {
+              "l": 400.92,
+              "t": 275.976,
+              "r": 451.60799999999995,
+              "b": 286.06945454545456,
+              "coord_origin": "TOPLEFT"
+            },
+            "row_span": 1,
+            "col_span": 1,
+            "start_row_offset_idx": 0,
+            "end_row_offset_idx": 1,
+            "start_col_offset_idx": 2,
+            "end_col_offset_idx": 3,
+            "text": "RAAN (\u00b0)",
+            "column_header": true,
+            "row_header": false,
+            "row_section": false,
+            "fillable": false
+          },
+          {
+            "bbox": {
+              "l": 161.08,
+              "t": 298.03400000000005,
+              "r": 211.08,
+              "b": 308.36600000000004,
+              "coord_origin": "TOPLEFT"
+            },
+            "row_span": 1,
+            "col_span": 1,
+            "start_row_offset_idx": 1,
+            "end_row_offset_idx": 2,
+            "start_col_offset_idx": 0,
+            "end_col_offset_idx": 1,
+            "text": "555 +/- 75",
+            "column_header": false,
+            "row_header": false,
+            "row_section": false,
+            "fillable": false
+          },
+          {
+            "bbox": {
+              "l": 291.13,
+              "t": 298.03400000000005,
+              "r": 321.13,
+              "b": 308.36600000000004,
+              "coord_origin": "TOPLEFT"
+            },
+            "row_span": 1,
+            "col_span": 1,
+            "start_row_offset_idx": 1,
+            "end_row_offset_idx": 2,
+            "start_col_offset_idx": 1,
+            "end_col_offset_idx": 2,
+            "text": "42 - 56",
+            "column_header": false,
+            "row_header": false,
+            "row_section": false,
+            "fillable": false
+          },
+          {
+            "bbox": {
+              "l": 393.17,
+              "t": 298.03400000000005,
+              "r": 458.72,
+              "b": 308.36600000000004,
+              "coord_origin": "TOPLEFT"
+            },
+            "row_span": 1,
+            "col_span": 1,
+            "start_row_offset_idx": 1,
+            "end_row_offset_idx": 2,
+            "start_col_offset_idx": 2,
+            "end_col_offset_idx": 3,
+            "text": "180\u00b0 +/- 180\u00b0",
+            "column_header": false,
+            "row_header": false,
+            "row_section": false,
+            "fillable": false
+          }
+        ],
+        "num_rows": 2,
+        "num_cols": 3,
+        "grid": [
+          [
+            {
+              "bbox": {
+                "l": 151.08,
+                "t": 275.976,
+                "r": 220.77600000000007,
+                "b": 286.06945454545456,
+                "coord_origin": "TOPLEFT"
+              },
+              "row_span": 1,
+              "col_span": 1,
+              "start_row_offset_idx": 0,
+              "end_row_offset_idx": 1,
+              "start_col_offset_idx": 0,
+              "end_col_offset_idx": 1,
+              "text": "Altitude (km)",
+              "column_header": true,
+              "row_header": false,
+              "row_section": false,
+              "fillable": false
+            },
+            {
+              "bbox": {
+                "l": 263.6,
+                "t": 275.976,
+                "r": 348.54800000000006,
+                "b": 286.06945454545456,
+                "coord_origin": "TOPLEFT"
+              },
+              "row_span": 1,
+              "col_span": 1,
+              "start_row_offset_idx": 0,
+              "end_row_offset_idx": 1,
+              "start_col_offset_idx": 1,
+              "end_col_offset_idx": 2,
+              "text": "Inclination (deg)",
+              "column_header": true,
+              "row_header": false,
+              "row_section": false,
+              "fillable": false
+            },
+            {
+              "bbox": {
+                "l": 400.92,
+                "t": 275.976,
+                "r": 451.60799999999995,
+                "b": 286.06945454545456,
+                "coord_origin": "TOPLEFT"
+              },
+              "row_span": 1,
+              "col_span": 1,
+              "start_row_offset_idx": 0,
+              "end_row_offset_idx": 1,
+              "start_col_offset_idx": 2,
+              "end_col_offset_idx": 3,
+              "text": "RAAN (\u00b0)",
+              "column_header": true,
+              "row_header": false,
+              "row_section": false,
+              "fillable": false
+            }
+          ],
+          [
+            {
+              "bbox": {
+                "l": 161.08,
+                "t": 298.03400000000005,
+                "r": 211.08,
+                "b": 308.36600000000004,
+                "coord_origin": "TOPLEFT"
+              },
+              "row_span": 1,
+              "col_span": 1,
+              "start_row_offset_idx": 1,
+              "end_row_offset_idx": 2,
+              "start_col_offset_idx": 0,
+              "end_col_offset_idx": 1,
+              "text": "555 +/- 75",
+              "column_header": false,
+              "row_header": false,
+              "row_section": false,
+              "fillable": false
+            },
+            {
+              "bbox": {
+                "l": 291.13,
+                "t": 298.03400000000005,
+                "r": 321.13,
+                "b": 308.36600000000004,
+                "coord_origin": "TOPLEFT"
+              },
+              "row_span": 1,
+              "col_span": 1,
+              "start_row_offset_idx": 1,
+              "end_row_offset_idx": 2,
+              "start_col_offset_idx": 1,
+              "end_col_offset_idx": 2,
+              "text": "42 - 56",
+              "column_header": false,
+              "row_header": false,
+              "row_section": false,
+              "fillable": false
+            },
+            {
+              "bbox": {
+                "l": 393.17,
+                "t": 298.03400000000005,
+                "r": 458.72,
+                "b": 308.36600000000004,
+                "coord_origin": "TOPLEFT"
+              },
+              "row_span": 1,
+              "col_span": 1,
+              "start_row_offset_idx": 1,
+              "end_row_offset_idx": 2,
+              "start_col_offset_idx": 2,
+              "end_col_offset_idx": 3,
+              "text": "180\u00b0 +/- 180\u00b0",
+              "column_header": false,
+              "row_header": false,
+              "row_section": false,
+              "fillable": false
+            }
+          ]
+        ]
+      },
+      "annotations": []
+    }
+  ],
+  "key_value_items": [],
+  "form_items": [],
+  "pages": {
+    "1": {
+      "size": {
+        "width": 612.0,
+        "height": 792.0
+      },
+      "page_no": 1
+    }
+  }
+}

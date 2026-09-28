@@ -1,0 +1,930 @@
+{
+  "schema_name": "DoclingDocument",
+  "version": "1.9.0",
+  "name": "Section 214.pdf",
+  "origin": {
+    "mimetype": "application/pdf",
+    "binary_hash": 12675396190894372974,
+    "filename": "Section 214.pdf.pdf"
+  },
+  "furniture": {
+    "self_ref": "#/furniture",
+    "children": [],
+    "content_layer": "furniture",
+    "name": "_root_",
+    "label": "unspecified"
+  },
+  "body": {
+    "self_ref": "#/body",
+    "children": [
+      {
+        "$ref": "#/texts/0"
+      },
+      {
+        "$ref": "#/texts/1"
+      },
+      {
+        "$ref": "#/texts/2"
+      },
+      {
+        "$ref": "#/texts/3"
+      },
+      {
+        "$ref": "#/texts/4"
+      },
+      {
+        "$ref": "#/texts/5"
+      },
+      {
+        "$ref": "#/texts/6"
+      },
+      {
+        "$ref": "#/texts/7"
+      },
+      {
+        "$ref": "#/texts/8"
+      },
+      {
+        "$ref": "#/texts/9"
+      },
+      {
+        "$ref": "#/texts/10"
+      },
+      {
+        "$ref": "#/texts/11"
+      },
+      {
+        "$ref": "#/texts/12"
+      },
+      {
+        "$ref": "#/texts/13"
+      },
+      {
+        "$ref": "#/texts/14"
+      },
+      {
+        "$ref": "#/texts/15"
+      },
+      {
+        "$ref": "#/texts/16"
+      },
+      {
+        "$ref": "#/texts/17"
+      },
+      {
+        "$ref": "#/texts/18"
+      },
+      {
+        "$ref": "#/texts/19"
+      },
+      {
+        "$ref": "#/texts/20"
+      },
+      {
+        "$ref": "#/texts/21"
+      },
+      {
+        "$ref": "#/texts/22"
+      },
+      {
+        "$ref": "#/texts/23"
+      },
+      {
+        "$ref": "#/texts/24"
+      },
+      {
+        "$ref": "#/texts/25"
+      },
+      {
+        "$ref": "#/texts/26"
+      },
+      {
+        "$ref": "#/texts/27"
+      },
+      {
+        "$ref": "#/texts/28"
+      }
+    ],
+    "content_layer": "body",
+    "name": "_root_",
+    "label": "unspecified"
+  },
+  "groups": [],
+  "texts": [
+    {
+      "self_ref": "#/texts/0",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 171.95999925,
+            "t": 715.66551405,
+            "r": 443.57044125425614,
+            "b": 665.7235072227272,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            78
+          ]
+        }
+      ],
+      "orig": "SECTION 214 T/C APPLICATION TRANSFER OF CONTROL OF TELECOM NORTH AMERICA, INC.",
+      "text": "SECTION 214 T/C APPLICATION TRANSFER OF CONTROL OF TELECOM NORTH AMERICA, INC.",
+      "level": 1
+    },
+    {
+      "self_ref": "#/texts/1",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 239.75999475000003,
+            "t": 642.10551255,
+            "r": 376.10549025590456,
+            "b": 629.0035139727272,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            13
+          ]
+        }
+      ],
+      "orig": "ATTACHMENT  1",
+      "text": "ATTACHMENT  1",
+      "level": 1
+    },
+    {
+      "self_ref": "#/texts/2",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 72.0,
+            "t": 606.3689658000001,
+            "r": 191.0599617877915,
+            "b": 596.5178385863636,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            22
+          ]
+        }
+      ],
+      "orig": "Answer to Question 10.",
+      "text": "Answer to Question 10.",
+      "level": 1
+    },
+    {
+      "self_ref": "#/texts/3",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 72.0,
+            "t": 578.7689523,
+            "r": 544.3671169211216,
+            "b": 527.5178385863636,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            340
+          ]
+        }
+      ],
+      "orig": "The Section 214 Authorization holder is Telecom North America, Inc. ('Applicant'),  3 Columbus Circle, Suite 1420, New York City, New York  10019.  The Transferor is Carlyle, Kft. The Transferee is Ki Atlantic Holdings Limited.  The parties with ultimate control of Applicant continue to control Applicant and exercise control of applicant.",
+      "text": "The Section 214 Authorization holder is Telecom North America, Inc. ('Applicant'),  3 Columbus Circle, Suite 1420, New York City, New York  10019.  The Transferor is Carlyle, Kft. The Transferee is Ki Atlantic Holdings Limited.  The parties with ultimate control of Applicant continue to control Applicant and exercise control of applicant."
+    },
+    {
+      "self_ref": "#/texts/4",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 72.0,
+            "t": 509.7689523,
+            "r": 537.6019682971396,
+            "b": 486.11782958636365,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            170
+          ]
+        }
+      ],
+      "orig": "Applicant holds an International Section 214 Authorization, File No. ITC-214-2003103100499.  Applicant's principal business is the sale of international roaming services.",
+      "text": "Applicant holds an International Section 214 Authorization, File No. ITC-214-2003103100499.  Applicant's principal business is the sale of international roaming services."
+    },
+    {
+      "self_ref": "#/texts/5",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 72.0,
+            "t": 468.3689658,
+            "r": 538.0516776042919,
+            "b": 430.9178250863636,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            225
+          ]
+        }
+      ],
+      "orig": "Please direct all questions and correspondence concerning this application to legal counsel: David G. O'Neil, Rini O'Neil, PC, 2101 L Street, NW, Suite 300, Washington, DC 20037 tel. 202-955-3931; e-mail doneil@rinioneil.com.",
+      "text": "Please direct all questions and correspondence concerning this application to legal counsel: David G. O'Neil, Rini O'Neil, PC, 2101 L Street, NW, Suite 300, Washington, DC 20037 tel. 202-955-3931; e-mail doneil@rinioneil.com."
+    },
+    {
+      "self_ref": "#/texts/6",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 72.0,
+            "t": 399.3689433,
+            "r": 191.0599617877915,
+            "b": 389.51781608636367,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            22
+          ]
+        }
+      ],
+      "orig": "Answer to Question 11.",
+      "text": "Answer to Question 11.",
+      "level": 1
+    },
+    {
+      "self_ref": "#/texts/7",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 108.05159774999998,
+            "t": 371.7689523,
+            "r": 416.2320299554084,
+            "b": 361.9178250863637,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            63
+          ]
+        }
+      ],
+      "orig": "The post-transaction ownership of Applicant will be as follows.",
+      "text": "The post-transaction ownership of Applicant will be as follows."
+    },
+    {
+      "self_ref": "#/texts/8",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 72.0,
+            "t": 344.16896130000003,
+            "r": 538.9649447631552,
+            "b": 292.9178250863637,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            350
+          ]
+        }
+      ],
+      "orig": "Direct Ownership in Applicant. Applicant is owned as follows: 38.7% by Gregory Gundelfinger, a citizen of Canada; 5% by Ayush Mathur ('Mathur'), a citizen of Canada; 5% by Michael Neuman ('Neuman'), a citizen of Canada; 1.3% by Anthony Calce ('Calce'), a citizen of Canada; and 50% by Ki Atlantic Holdings, Limited ('Atlantic'), a Jersey corporation.",
+      "text": "Direct Ownership in Applicant. Applicant is owned as follows: 38.7% by Gregory Gundelfinger, a citizen of Canada; 5% by Ayush Mathur ('Mathur'), a citizen of Canada; 5% by Michael Neuman ('Neuman'), a citizen of Canada; 1.3% by Anthony Calce ('Calce'), a citizen of Canada; and 50% by Ki Atlantic Holdings, Limited ('Atlantic'), a Jersey corporation."
+    },
+    {
+      "self_ref": "#/texts/9",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 72.0,
+            "t": 275.1689613000001,
+            "r": 529.7372964978604,
+            "b": 223.91782508636368,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            328
+          ]
+        }
+      ],
+      "orig": "Indirect Ownership in Applicant; Atlantic Ownership. Atlantic is owned by Ki Unlimited ('Unlimited'), a corporation organized under the laws of the British Virgin Islands. Unlimited, in turn, is owned 100% by Ki Corporation Limited ('Ki'), a corporation organized under the laws of Jersey. Ki, in turn, is controlled as follows:",
+      "text": "Indirect Ownership in Applicant; Atlantic Ownership. Atlantic is owned by Ki Unlimited ('Unlimited'), a corporation organized under the laws of the British Virgin Islands. Unlimited, in turn, is owned 100% by Ki Corporation Limited ('Ki'), a corporation organized under the laws of Jersey. Ki, in turn, is controlled as follows:"
+    },
+    {
+      "self_ref": "#/texts/10",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 72.0,
+            "t": 206.1689613000001,
+            "r": 527.260667385003,
+            "b": 168.71784383636373,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            207
+          ]
+        }
+      ],
+      "orig": "There are two classes of stock in Ki - the class A shares and the class B shares.  The A shares have economic rights but no voting rights.  The B shares hold only voting rights (and nominal economic rights).",
+      "text": "There are two classes of stock in Ki - the class A shares and the class B shares.  The A shares have economic rights but no voting rights.  The B shares hold only voting rights (and nominal economic rights)."
+    },
+    {
+      "self_ref": "#/texts/11",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 72.0,
+            "t": 150.9689343,
+            "r": 536.3900645303814,
+            "b": 85.91782508636368,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            402
+          ]
+        }
+      ],
+      "orig": "The A shares are registered in the name of Eurona Foundation ('Eurona-1'), a Liechtenstein foundation, as nominee for four BVI companies: Lyndhurst Holdings & Investment Limited; Parktown Investment Holdings Limited; Wendywood Investment Holdings Limited; and Kirsh Foundation Holdings Limited (collectively, the 'BVI Companies').  Each of the BVI Companies beneficially owns 25% of the A shares in Ki.",
+      "text": "The A shares are registered in the name of Eurona Foundation ('Eurona-1'), a Liechtenstein foundation, as nominee for four BVI companies: Lyndhurst Holdings & Investment Limited; Parktown Investment Holdings Limited; Wendywood Investment Holdings Limited; and Kirsh Foundation Holdings Limited (collectively, the 'BVI Companies').  Each of the BVI Companies beneficially owns 25% of the A shares in Ki."
+    },
+    {
+      "self_ref": "#/texts/12",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "furniture",
+      "label": "page_footer",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 72.0,
+            "t": 46.56897105000007,
+            "r": 180.31597183492505,
+            "b": 36.71784383636373,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            17
+          ]
+        }
+      ],
+      "orig": "{00030910.DOCX.1}",
+      "text": "{00030910.DOCX.1}"
+    },
+    {
+      "self_ref": "#/texts/13",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 72.0,
+            "t": 702.9689568,
+            "r": 536.663997948702,
+            "b": 679.3178340863636,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            124
+          ]
+        }
+      ],
+      "orig": "Eurona-1 has five members of its governing board - Philip Kirsch, Linda Mirels, Wendy Fisher, Bradley Fried and Ron Sandler.",
+      "text": "Eurona-1 has five members of its governing board - Philip Kirsch, Linda Mirels, Wendy Fisher, Bradley Fried and Ron Sandler."
+    },
+    {
+      "self_ref": "#/texts/14",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 72.0,
+            "t": 661.56895905,
+            "r": 540.2136692603547,
+            "b": 582.7178205863636,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            527
+          ]
+        }
+      ],
+      "orig": "Each of the BVI Companies is owned by a BVI trust.  Those four BVI trusts are: Philip Trust, Linda Trust, Wendy Trust, and Nathan Kirsh Foundation (collectively, the 'BVI Trusts'). Nathan Kirsh ('Nathan') funded all four of the BVI Trusts.  The beneficiaries of the BVI Trusts are: Philip Kirsh, Nathan's son ('Philip'); Linda Mirels, one of Nathan's daughters ('Linda'); Wendy Fisher, the other of Nathan's daughters ('Wendy'); their remoter issue; and various charities.  Nathan is not a beneficiary of any of the BVI Trusts.",
+      "text": "Each of the BVI Companies is owned by a BVI trust.  Those four BVI trusts are: Philip Trust, Linda Trust, Wendy Trust, and Nathan Kirsh Foundation (collectively, the 'BVI Trusts'). Nathan Kirsh ('Nathan') funded all four of the BVI Trusts.  The beneficiaries of the BVI Trusts are: Philip Kirsh, Nathan's son ('Philip'); Linda Mirels, one of Nathan's daughters ('Linda'); Wendy Fisher, the other of Nathan's daughters ('Wendy'); their remoter issue; and various charities.  Nathan is not a beneficiary of any of the BVI Trusts."
+    },
+    {
+      "self_ref": "#/texts/15",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 72.0,
+            "t": 564.9689568,
+            "r": 540.4071303023826,
+            "b": 486.11782958636365,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            557
+          ]
+        }
+      ],
+      "orig": "The Guardian Trust Company, a BVI corporation, is the trustee of each of the BVI Trusts.  Although the trustee has wide powers to administer each of the BVI Trusts, that power is somewhat circumscribed in that, under applicable law, each of the BVI Trusts has a 'protector', separate from the trustee.  In the case of the four BVI Trusts, that protector is the Eurona II Foundation ('Eurona-2'), a Liechtenstein foundation.  As protector, Eurona-2 has substantial veto power over trustee decisions regarding distributions or other payments to beneficiaries.",
+      "text": "The Guardian Trust Company, a BVI corporation, is the trustee of each of the BVI Trusts.  Although the trustee has wide powers to administer each of the BVI Trusts, that power is somewhat circumscribed in that, under applicable law, each of the BVI Trusts has a 'protector', separate from the trustee.  In the case of the four BVI Trusts, that protector is the Eurona II Foundation ('Eurona-2'), a Liechtenstein foundation.  As protector, Eurona-2 has substantial veto power over trustee decisions regarding distributions or other payments to beneficiaries."
+    },
+    {
+      "self_ref": "#/texts/16",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 108.05159774999998,
+            "t": 468.3689658,
+            "r": 525.5553093383147,
+            "b": 458.5178385863636,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            85
+          ]
+        }
+      ],
+      "orig": "The B shares in Ki are held by Eurona-2.  Through these shares, Eurona-2 controls Ki.",
+      "text": "The B shares in Ki are held by Eurona-2.  Through these shares, Eurona-2 controls Ki."
+    },
+    {
+      "self_ref": "#/texts/17",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 108.05159774999998,
+            "t": 440.7689523,
+            "r": 301.49558376715436,
+            "b": 430.9178250863636,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            38
+          ]
+        }
+      ],
+      "orig": "The make-up of Eurona-2 is as follows:",
+      "text": "The make-up of Eurona-2 is as follows:"
+    },
+    {
+      "self_ref": "#/texts/18",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 72.0,
+            "t": 413.16896130000003,
+            "r": 543.0057794034497,
+            "b": 348.11780708636365,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            420
+          ]
+        }
+      ],
+      "orig": "There are six members of the governing board of Eurona-2; three 'Class A' board members, and three 'Class B' board members.  (Note - these Class A and Class B board seats of Eurona-2 are separate and distinct from the Class A and Class B shares of Ki.)  The three Eurona-2 Class A board members are Philip, Linda and Wendy.  The three Eurona-2 Class B board members are Interstock Anstalt, Ron Sandler and Bradley Fried.",
+      "text": "There are six members of the governing board of Eurona-2; three 'Class A' board members, and three 'Class B' board members.  (Note - these Class A and Class B board seats of Eurona-2 are separate and distinct from the Class A and Class B shares of Ki.)  The three Eurona-2 Class A board members are Philip, Linda and Wendy.  The three Eurona-2 Class B board members are Interstock Anstalt, Ron Sandler and Bradley Fried."
+    },
+    {
+      "self_ref": "#/texts/19",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 72.0,
+            "t": 330.3689433,
+            "r": 532.6579269199004,
+            "b": 279.11780708636365,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            359
+          ]
+        }
+      ],
+      "orig": "Philip and Linda are U.S. citizens, while Wendy is a citizen of the United Kingdom. Interstock Anstalt is a Liechtenstein anstalt, Ron Sandler is a citizen of Germany, and Bradley Fried is a citizen of the United Kingdom.  Interstock Anstalt is controlled by  Prince Michael of Liechtenstein ('Michael').  Michael acts in his capacity as a private individual.",
+      "text": "Philip and Linda are U.S. citizens, while Wendy is a citizen of the United Kingdom. Interstock Anstalt is a Liechtenstein anstalt, Ron Sandler is a citizen of Germany, and Bradley Fried is a citizen of the United Kingdom.  Interstock Anstalt is controlled by  Prince Michael of Liechtenstein ('Michael').  Michael acts in his capacity as a private individual."
+    },
+    {
+      "self_ref": "#/texts/20",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 72.0,
+            "t": 261.36894329999996,
+            "r": 541.1592189122531,
+            "b": 196.31783408636375,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            382
+          ]
+        }
+      ],
+      "orig": "The powers that Eurona-2 holds in its capacity as protector of the BVI Trusts ( see discussion above) is exercised exclusively by its Class B board members, acting by majority vote among the three of them.  Except as to its position as protector of the BVI Trusts, Eurona-2 acts by majority vote of its entire six-person board; this includes voting the class B shares it owns in Ki.",
+      "text": "The powers that Eurona-2 holds in its capacity as protector of the BVI Trusts ( see discussion above) is exercised exclusively by its Class B board members, acting by majority vote among the three of them.  Except as to its position as protector of the BVI Trusts, Eurona-2 acts by majority vote of its entire six-person board; this includes voting the class B shares it owns in Ki."
+    },
+    {
+      "self_ref": "#/texts/21",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 72.0,
+            "t": 178.56897105000007,
+            "r": 541.2698683802494,
+            "b": 113.51781608636361,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            381
+          ]
+        }
+      ],
+      "orig": "Each board member of Eurona-2 holds the power to appoint his/her/its successor as board member, and to later change his/her/its mind and remove any successor so appointed, except that neither Nathan nor any spouse or descendant of Nathan (collectively, a 'Nathan Relative'), nor any employee of or entity controlled by any Nathan Relative, is eligible to be a Class B board member.",
+      "text": "Each board member of Eurona-2 holds the power to appoint his/her/its successor as board member, and to later change his/her/its mind and remove any successor so appointed, except that neither Nathan nor any spouse or descendant of Nathan (collectively, a 'Nathan Relative'), nor any employee of or entity controlled by any Nathan Relative, is eligible to be a Class B board member."
+    },
+    {
+      "self_ref": "#/texts/22",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 72.0,
+            "t": 74.16896130000009,
+            "r": 180.31597183492505,
+            "b": 64.31783408636375,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            17
+          ]
+        }
+      ],
+      "orig": "{00030910.DOCX.1}",
+      "text": "{00030910.DOCX.1}"
+    },
+    {
+      "self_ref": "#/texts/23",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "furniture",
+      "label": "page_footer",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 278.75999475000003,
+            "t": 60.368943299999955,
+            "r": 332.9886375,
+            "b": 50.51781608636361,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            11
+          ]
+        }
+      ],
+      "orig": "Page 2 of 3",
+      "text": "Page 2 of 3"
+    },
+    {
+      "self_ref": "#/texts/24",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 72.0,
+            "t": 716.7689583,
+            "r": 191.0599617877915,
+            "b": 706.9178310863637,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            22
+          ]
+        }
+      ],
+      "orig": "Answer to Question 13.",
+      "text": "Answer to Question 13.",
+      "level": 1
+    },
+    {
+      "self_ref": "#/texts/25",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 72.0,
+            "t": 689.1689613,
+            "r": 526.0129797039724,
+            "b": 637.9178250863636,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            329
+          ]
+        }
+      ],
+      "orig": "Currently Applicant is owned as follows: 38.7% by Gregory Gundelfinger, a citizen of Canada; 5% by Ayush Mathur ('Mathur'), a citizen of Canada; 5% by Michael Neuman ('Neuman'), a citizen of Canada; 1.3% by Anthony Calce ('Calce'), a citizen of Canada; and 50% by Ki Atlantic Holdings, Limited ('Atlantic'), a Jersey corporation.",
+      "text": "Currently Applicant is owned as follows: 38.7% by Gregory Gundelfinger, a citizen of Canada; 5% by Ayush Mathur ('Mathur'), a citizen of Canada; 5% by Michael Neuman ('Neuman'), a citizen of Canada; 1.3% by Anthony Calce ('Calce'), a citizen of Canada; and 50% by Ki Atlantic Holdings, Limited ('Atlantic'), a Jersey corporation."
+    },
+    {
+      "self_ref": "#/texts/26",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 72.0,
+            "t": 620.1689613,
+            "r": 537.0644880575601,
+            "b": 527.5178385863636,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            590
+          ]
+        }
+      ],
+      "orig": "A new entity, a Jersey corporation named Ki Atlantic Holdings Limited ('Atlantic'), has acquired the interests of Carlye, Kft ('Carlyle'), a Hungarian corporation.  Carlyle held a 50% ownership in Applicant and negative control of Applicant.  Atlantic now holds this 50% ownership and negative control of Applicant.  The same parties who control Carlyle also control Atlantic.  Consequently, ultimate control has not changed and the application qualifies as pro forma.     Atlantic's address and telephone are: 3 Columbus Circle, Suite 1420, New York City, New York  10019 and 416-577-8338.",
+      "text": "A new entity, a Jersey corporation named Ki Atlantic Holdings Limited ('Atlantic'), has acquired the interests of Carlye, Kft ('Carlyle'), a Hungarian corporation.  Carlyle held a 50% ownership in Applicant and negative control of Applicant.  Atlantic now holds this 50% ownership and negative control of Applicant.  The same parties who control Carlyle also control Atlantic.  Consequently, ultimate control has not changed and the application qualifies as pro forma.     Atlantic's address and telephone are: 3 Columbus Circle, Suite 1420, New York City, New York  10019 and 416-577-8338."
+    },
+    {
+      "self_ref": "#/texts/27",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "furniture",
+      "label": "page_footer",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 72.0,
+            "t": 74.16896130000009,
+            "r": 180.31597183492505,
+            "b": 64.31783408636375,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            17
+          ]
+        }
+      ],
+      "orig": "{00030910.DOCX.1}",
+      "text": "{00030910.DOCX.1}"
+    },
+    {
+      "self_ref": "#/texts/28",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "furniture",
+      "label": "page_footer",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 278.75999475000003,
+            "t": 60.368943299999955,
+            "r": 332.9886375,
+            "b": 50.51781608636361,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            11
+          ]
+        }
+      ],
+      "orig": "Page 3 of 3",
+      "text": "Page 3 of 3"
+    }
+  ],
+  "pictures": [],
+  "tables": [],
+  "key_value_items": [],
+  "form_items": [],
+  "pages": {
+    "1": {
+      "size": {
+        "width": 612.0,
+        "height": 792.0
+      },
+      "page_no": 1
+    },
+    "2": {
+      "size": {
+        "width": 612.0,
+        "height": 792.0
+      },
+      "page_no": 2
+    },
+    "3": {
+      "size": {
+        "width": 612.0,
+        "height": 792.0
+      },
+      "page_no": 3
+    }
+  }
+}

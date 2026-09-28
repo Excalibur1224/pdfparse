@@ -1,0 +1,223 @@
+{
+  "schema_name": "DoclingDocument",
+  "version": "1.9.0",
+  "name": "Schedule B - SES-STA-20260908-02523",
+  "origin": {
+    "mimetype": "application/pdf",
+    "binary_hash": 12488468804715317591,
+    "filename": "Schedule B - SES-STA-20260908-02523.pdf"
+  },
+  "furniture": {
+    "self_ref": "#/furniture",
+    "children": [],
+    "content_layer": "furniture",
+    "name": "_root_",
+    "label": "unspecified"
+  },
+  "body": {
+    "self_ref": "#/body",
+    "children": [
+      {
+        "$ref": "#/texts/0"
+      },
+      {
+        "$ref": "#/texts/1"
+      },
+      {
+        "$ref": "#/texts/2"
+      },
+      {
+        "$ref": "#/texts/3"
+      },
+      {
+        "$ref": "#/texts/4"
+      },
+      {
+        "$ref": "#/texts/5"
+      }
+    ],
+    "content_layer": "body",
+    "name": "_root_",
+    "label": "unspecified"
+  },
+  "groups": [],
+  "texts": [
+    {
+      "self_ref": "#/texts/0",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "furniture",
+      "label": "page_header",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 567.44,
+            "t": 835.6099999999999,
+            "r": 573.0,
+            "b": 826.3599999999999,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            1
+          ]
+        }
+      ],
+      "orig": "1",
+      "text": "1"
+    },
+    {
+      "self_ref": "#/texts/1",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 129.85,
+            "t": 795.936,
+            "r": 465.14199999999977,
+            "b": 757.536,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            126
+          ]
+        }
+      ],
+      "orig": "SATELLITE EARTH STATION AUTHORIZATIONS FCC Form 312 - Schedule B:(Technical and Operational Description) FOR OFFICIAL USE ONLY",
+      "text": "SATELLITE EARTH STATION AUTHORIZATIONS FCC Form 312 - Schedule B:(Technical and Operational Description) FOR OFFICIAL USE ONLY",
+      "level": 1
+    },
+    {
+      "self_ref": "#/texts/2",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 20.0,
+            "t": 730.5360000000001,
+            "r": 397.67599999999993,
+            "b": 719.736,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            50
+          ]
+        }
+      ],
+      "orig": "FCC NOTICE REQUIRED BY THE PAPERWORK REDUCTION ACT",
+      "text": "FCC NOTICE REQUIRED BY THE PAPERWORK REDUCTION ACT",
+      "level": 1
+    },
+    {
+      "self_ref": "#/texts/3",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 20.0,
+            "t": 705.486,
+            "r": 565.9759999999998,
+            "b": 598.086,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            746
+          ]
+        }
+      ],
+      "orig": "The public reporting for this collection of information is estimated to average 0.25 - 24 hours per response, including the time for reviewing instructions, searching existing data sources, gathering and maintaining the required data, and completing and reviewing the collection of information. If you have any comments on this burden estimate, or how we can improve the collection and reduce the burden it causes you, please write to the Federal Communications Comission, AMD-PERM, Paperwork Reduction Project (3060-0678), Washington, DC 20554. We will also accept your comments regarding the Paperwork Reduction Act aspects of this collection via the Internet if you send them to PRA@fcc.gov. PLEASE DO NOT SEND COMPLETED FORMS TO THIS ADDRESS.",
+      "text": "The public reporting for this collection of information is estimated to average 0.25 - 24 hours per response, including the time for reviewing instructions, searching existing data sources, gathering and maintaining the required data, and completing and reviewing the collection of information. If you have any comments on this burden estimate, or how we can improve the collection and reduce the burden it causes you, please write to the Federal Communications Comission, AMD-PERM, Paperwork Reduction Project (3060-0678), Washington, DC 20554. We will also accept your comments regarding the Paperwork Reduction Act aspects of this collection via the Internet if you send them to PRA@fcc.gov. PLEASE DO NOT SEND COMPLETED FORMS TO THIS ADDRESS."
+    },
+    {
+      "self_ref": "#/texts/4",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 20.0,
+            "t": 583.836,
+            "r": 574.616,
+            "b": 531.636,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            366
+          ]
+        }
+      ],
+      "orig": "Remember - You are not required to respond to a collection of information sponsored by the Federal government, and the government, and the government may not conduct or sponsor this collection, unless it displays a currently valid OMB control number or if we fail to provide you with this notice. This collection has been assigned an OMB control number of 3060-0678.",
+      "text": "Remember - You are not required to respond to a collection of information sponsored by the Federal government, and the government, and the government may not conduct or sponsor this collection, unless it displays a currently valid OMB control number or if we fail to provide you with this notice. This collection has been assigned an OMB control number of 3060-0678."
+    },
+    {
+      "self_ref": "#/texts/5",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 20.0,
+            "t": 517.396,
+            "r": 543.044,
+            "b": 492.796,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            132
+          ]
+        }
+      ],
+      "orig": "THE FOREGOING NOTICE IS REQUIRED BY THE PAPERWORK REDUCTION ACT OF 1995, PUBLIC LAW 104-13, OCTOBER 1, 1995, 44 U.S.C. SECTION 3507.",
+      "text": "THE FOREGOING NOTICE IS REQUIRED BY THE PAPERWORK REDUCTION ACT OF 1995, PUBLIC LAW 104-13, OCTOBER 1, 1995, 44 U.S.C. SECTION 3507."
+    }
+  ],
+  "pictures": [],
+  "tables": [],
+  "key_value_items": [],
+  "form_items": [],
+  "pages": {
+    "1": {
+      "size": {
+        "width": 595.0,
+        "height": 842.0
+      },
+      "page_no": 1
+    }
+  }
+}

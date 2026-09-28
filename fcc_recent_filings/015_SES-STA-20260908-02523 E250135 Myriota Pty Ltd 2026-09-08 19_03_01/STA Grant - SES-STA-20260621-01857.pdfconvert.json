@@ -1,0 +1,1757 @@
+{
+  "schema_name": "DoclingDocument",
+  "version": "1.9.0",
+  "name": "STA Grant - SES-STA-20260621-01857",
+  "origin": {
+    "mimetype": "application/pdf",
+    "binary_hash": 1628898615404681790,
+    "filename": "STA Grant - SES-STA-20260621-01857.pdf"
+  },
+  "furniture": {
+    "self_ref": "#/furniture",
+    "children": [],
+    "content_layer": "furniture",
+    "name": "_root_",
+    "label": "unspecified"
+  },
+  "body": {
+    "self_ref": "#/body",
+    "children": [
+      {
+        "$ref": "#/texts/0"
+      },
+      {
+        "$ref": "#/texts/1"
+      },
+      {
+        "$ref": "#/pictures/0"
+      },
+      {
+        "$ref": "#/tables/0"
+      },
+      {
+        "$ref": "#/texts/2"
+      },
+      {
+        "$ref": "#/groups/0"
+      },
+      {
+        "$ref": "#/texts/11"
+      },
+      {
+        "$ref": "#/groups/1"
+      }
+    ],
+    "content_layer": "body",
+    "name": "_root_",
+    "label": "unspecified"
+  },
+  "groups": [
+    {
+      "self_ref": "#/groups/0",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [
+        {
+          "$ref": "#/texts/3"
+        },
+        {
+          "$ref": "#/texts/4"
+        },
+        {
+          "$ref": "#/texts/5"
+        },
+        {
+          "$ref": "#/texts/6"
+        },
+        {
+          "$ref": "#/texts/7"
+        },
+        {
+          "$ref": "#/texts/8"
+        },
+        {
+          "$ref": "#/texts/9"
+        },
+        {
+          "$ref": "#/texts/10"
+        }
+      ],
+      "content_layer": "body",
+      "name": "list",
+      "label": "list"
+    },
+    {
+      "self_ref": "#/groups/1",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [
+        {
+          "$ref": "#/texts/12"
+        },
+        {
+          "$ref": "#/texts/13"
+        },
+        {
+          "$ref": "#/texts/14"
+        },
+        {
+          "$ref": "#/texts/15"
+        },
+        {
+          "$ref": "#/texts/16"
+        },
+        {
+          "$ref": "#/texts/17"
+        },
+        {
+          "$ref": "#/texts/18"
+        },
+        {
+          "$ref": "#/texts/19"
+        },
+        {
+          "$ref": "#/texts/20"
+        }
+      ],
+      "content_layer": "body",
+      "name": "group",
+      "label": "form_area"
+    }
+  ],
+  "texts": [
+    {
+      "self_ref": "#/texts/0",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "furniture",
+      "label": "page_header",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 557.44,
+            "t": 825.6099999999999,
+            "r": 563.0,
+            "b": 816.3599999999999,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            1
+          ]
+        }
+      ],
+      "orig": "1",
+      "text": "1"
+    },
+    {
+      "self_ref": "#/texts/1",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 195.49,
+            "t": 798.686,
+            "r": 399.502,
+            "b": 760.286,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            72
+          ]
+        }
+      ],
+      "orig": "ATTACHMENT TO GRANT Myriota Pty Ltd ICFS File No. SES-STA-20260621-01857",
+      "text": "ATTACHMENT TO GRANT Myriota Pty Ltd ICFS File No. SES-STA-20260621-01857",
+      "level": 1
+    },
+    {
+      "self_ref": "#/texts/2",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 32.25,
+            "t": 429.346,
+            "r": 552.9300000000001,
+            "b": 390.946,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            250
+          ]
+        }
+      ],
+      "orig": "Operations under this grant must comport with the legal and technical specifications set forth by the applicant or petitioner and with Federal Communication Commission's rules not waived herein. This grant is also subject to the following conditions:",
+      "text": "Operations under this grant must comport with the legal and technical specifications set forth by the applicant or petitioner and with Federal Communication Commission's rules not waived herein. This grant is also subject to the following conditions:"
+    },
+    {
+      "self_ref": "#/texts/3",
+      "parent": {
+        "$ref": "#/groups/0"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 62.25,
+            "t": 374.246,
+            "r": 549.8180000000007,
+            "b": 335.546,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            252
+          ]
+        }
+      ],
+      "orig": "1. STA operations must not exceed the operational power levels and parameters requested and coordinated, and must comport with the technical specifications described in the underlying application, as amended, except as conditioned in this grant of STA.",
+      "text": "STA operations must not exceed the operational power levels and parameters requested and coordinated, and must comport with the technical specifications described in the underlying application, as amended, except as conditioned in this grant of STA.",
+      "enumerated": true,
+      "marker": "1."
+    },
+    {
+      "self_ref": "#/texts/4",
+      "parent": {
+        "$ref": "#/groups/0"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 62.25,
+            "t": 326.846,
+            "r": 496.3980000000005,
+            "b": 301.946,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            157
+          ]
+        }
+      ],
+      "orig": "2. STA operations must use the minimum power level necessary to establish communications links in order to minimize potential interference to licensed users.",
+      "text": "STA operations must use the minimum power level necessary to establish communications links in order to minimize potential interference to licensed users.",
+      "enumerated": true,
+      "marker": "2."
+    },
+    {
+      "self_ref": "#/texts/5",
+      "parent": {
+        "$ref": "#/groups/0"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 62.25,
+            "t": 293.246,
+            "r": 538.5080000000007,
+            "b": 254.54599999999994,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            256
+          ]
+        }
+      ],
+      "orig": "3. All operations under this grant of STA must be on an unprotected and non-interference basis (NIB), i.e., Myriota must not cause harmful interference to and must not claim protection from interference caused to it by any other lawfully operating station.",
+      "text": "All operations under this grant of STA must be on an unprotected and non-interference basis (NIB), i.e., Myriota must not cause harmful interference to and must not claim protection from interference caused to it by any other lawfully operating station.",
+      "enumerated": true,
+      "marker": "3."
+    },
+    {
+      "self_ref": "#/texts/6",
+      "parent": {
+        "$ref": "#/groups/0"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 62.25,
+            "t": 245.846,
+            "r": 541.7700000000006,
+            "b": 207.14599999999996,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            249
+          ]
+        }
+      ],
+      "orig": "4. In the event of any harmful interference caused by operations under this grant of STA, Myriota must immediately cease operations upon notification of such interference. Myriota must immediately inform the Commission, in writing, of such an event.",
+      "text": "In the event of any harmful interference caused by operations under this grant of STA, Myriota must immediately cease operations upon notification of such interference. Myriota must immediately inform the Commission, in writing, of such an event.",
+      "enumerated": true,
+      "marker": "4."
+    },
+    {
+      "self_ref": "#/texts/7",
+      "parent": {
+        "$ref": "#/groups/0"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 62.25,
+            "t": 198.44600000000003,
+            "r": 537.3460000000008,
+            "b": 159.74599999999998,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            228
+          ]
+        }
+      ],
+      "orig": "5. Myriota to coordinate with NASA in accordance with Footnote 5.376A, via\u00a0 fas@scan.nasa.gov prior to operations that use frequencies overlapping 1660-1660.5 MHz and occur within a 75 km radius of 35\u00b0 14' 17' N, 116\u00b0 46' 44' W.",
+      "text": "Myriota to coordinate with NASA in accordance with Footnote 5.376A, via\u00a0 fas@scan.nasa.gov prior to operations that use frequencies overlapping 1660-1660.5 MHz and occur within a 75 km radius of 35\u00b0 14' 17' N, 116\u00b0 46' 44' W.",
+      "enumerated": true,
+      "marker": "5."
+    },
+    {
+      "self_ref": "#/texts/8",
+      "parent": {
+        "$ref": "#/groups/0"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 62.25,
+            "t": 151.04600000000005,
+            "r": 517.8260000000007,
+            "b": 126.14599999999996,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            159
+          ]
+        }
+      ],
+      "orig": "6. The 24/7 point of contact in the United States, with authority and ability to cease all emissions, for this operation is George Kanuck at +1 (512) 686-8233.",
+      "text": "The 24/7 point of contact in the United States, with authority and ability to cease all emissions, for this operation is George Kanuck at +1 (512) 686-8233.",
+      "enumerated": true,
+      "marker": "6."
+    },
+    {
+      "self_ref": "#/texts/9",
+      "parent": {
+        "$ref": "#/groups/0"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 62.25,
+            "t": 117.44600000000003,
+            "r": 540.4380000000004,
+            "b": 78.74599999999998,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            205
+          ]
+        }
+      ],
+      "orig": "7. STA operations must be in compliance with earth station applicable operations allowed by the space station authorization(s) or grant(s), including all relevant conditions, waivers, and findings therein.",
+      "text": "STA operations must be in compliance with earth station applicable operations allowed by the space station authorization(s) or grant(s), including all relevant conditions, waivers, and findings therein.",
+      "enumerated": true,
+      "marker": "7."
+    },
+    {
+      "self_ref": "#/texts/10",
+      "parent": {
+        "$ref": "#/groups/0"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 62.25,
+            "t": 70.04600000000005,
+            "r": 544.4780000000006,
+            "b": 45.14599999999996,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            153
+          ]
+        }
+      ],
+      "orig": "8. STA operations since the expiration of the previous STA and the commencement of this STA were authorized as continuing operations under 47 CFR \u00a7\u00a01.62.",
+      "text": "STA operations since the expiration of the previous STA and the commencement of this STA were authorized as continuing operations under 47 CFR \u00a7\u00a01.62.",
+      "enumerated": true,
+      "marker": "8."
+    },
+    {
+      "self_ref": "#/texts/11",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "furniture",
+      "label": "page_header",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 557.44,
+            "t": 825.6099999999999,
+            "r": 563.0,
+            "b": 816.3599999999999,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            1
+          ]
+        }
+      ],
+      "orig": "2",
+      "text": "2"
+    },
+    {
+      "self_ref": "#/texts/12",
+      "parent": {
+        "$ref": "#/groups/1"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 32.25,
+            "t": 795.786,
+            "r": 559.8300000000007,
+            "b": 757.086,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            217
+          ]
+        }
+      ],
+      "orig": "This grant is issued pursuant to section 0.261 of the Commission's rules on delegated authority, 47 CFR \u00a7\u00a00.261, and is effective upon release. This STA is authorized pursuant to the Commission's rule 47 CFR \u00a7\u00a025.120.",
+      "text": "This grant is issued pursuant to section 0.261 of the Commission's rules on delegated authority, 47 CFR \u00a7\u00a00.261, and is effective upon release. This STA is authorized pursuant to the Commission's rule 47 CFR \u00a7\u00a025.120."
+    },
+    {
+      "self_ref": "#/texts/13",
+      "parent": {
+        "$ref": "#/groups/1"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 32.25,
+            "t": 738.5360000000001,
+            "r": 97.23,
+            "b": 727.736,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            12
+          ]
+        }
+      ],
+      "orig": "Action Date:",
+      "text": "Action Date:"
+    },
+    {
+      "self_ref": "#/texts/14",
+      "parent": {
+        "$ref": "#/groups/1"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 133.5,
+            "t": 738.5360000000001,
+            "r": 189.49200000000002,
+            "b": 727.736,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            10
+          ]
+        }
+      ],
+      "orig": "07-21-2026",
+      "text": "07-21-2026"
+    },
+    {
+      "self_ref": "#/texts/15",
+      "parent": {
+        "$ref": "#/groups/1"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 32.25,
+            "t": 720.986,
+            "r": 92.56200000000001,
+            "b": 710.1859999999999,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            10
+          ]
+        }
+      ],
+      "orig": "Term Dates",
+      "text": "Term Dates"
+    },
+    {
+      "self_ref": "#/texts/16",
+      "parent": {
+        "$ref": "#/groups/1"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 133.5,
+            "t": 720.986,
+            "r": 166.15200000000002,
+            "b": 710.1859999999999,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            5
+          ]
+        }
+      ],
+      "orig": "From:",
+      "text": "From:"
+    },
+    {
+      "self_ref": "#/texts/17",
+      "parent": {
+        "$ref": "#/groups/1"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 166.15,
+            "t": 720.986,
+            "r": 225.14200000000002,
+            "b": 710.1859999999999,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            10
+          ]
+        }
+      ],
+      "orig": "07-21-2026",
+      "text": "07-21-2026"
+    },
+    {
+      "self_ref": "#/texts/18",
+      "parent": {
+        "$ref": "#/groups/1"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 328.29,
+            "t": 720.986,
+            "r": 405.282,
+            "b": 710.1859999999999,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            14
+          ]
+        }
+      ],
+      "orig": "To: 09-18-2026",
+      "text": "To: 09-18-2026"
+    },
+    {
+      "self_ref": "#/texts/19",
+      "parent": {
+        "$ref": "#/groups/1"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 32.25,
+            "t": 703.436,
+            "r": 87.582,
+            "b": 692.636,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            9
+          ]
+        }
+      ],
+      "orig": "Approved:",
+      "text": "Approved:"
+    },
+    {
+      "self_ref": "#/texts/20",
+      "parent": {
+        "$ref": "#/groups/1"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 133.5,
+            "t": 687.476,
+            "r": 208.83599999999996,
+            "b": 676.6759999999999,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            10
+          ]
+        }
+      ],
+      "orig": "SIGNATURE:",
+      "text": "SIGNATURE:"
+    }
+  ],
+  "pictures": [
+    {
+      "self_ref": "#/pictures/0",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "picture",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 390.8717956542969,
+            "t": 718.1337051391602,
+            "r": 498.99713134765625,
+            "b": 612.9861755371094,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            0
+          ]
+        }
+      ],
+      "captions": [],
+      "references": [],
+      "footnotes": [],
+      "annotations": []
+    }
+  ],
+  "tables": [
+    {
+      "self_ref": "#/tables/0",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "table",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 29.278379440307617,
+            "t": 748.5956878662109,
+            "r": 565.0906982421875,
+            "b": 432.12158203125,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            0
+          ]
+        }
+      ],
+      "captions": [],
+      "references": [],
+      "footnotes": [],
+      "data": {
+        "table_cells": [
+          {
+            "bbox": {
+              "l": 32.25,
+              "t": 98.21399999999994,
+              "r": 116.23799999999999,
+              "b": 109.01400000000001,
+              "coord_origin": "TOPLEFT"
+            },
+            "row_span": 1,
+            "col_span": 1,
+            "start_row_offset_idx": 0,
+            "end_row_offset_idx": 1,
+            "start_col_offset_idx": 0,
+            "end_col_offset_idx": 1,
+            "text": "ICFS File No(s):",
+            "column_header": false,
+            "row_header": false,
+            "row_section": false,
+            "fillable": false
+          },
+          {
+            "bbox": {
+              "l": 133.5,
+              "t": 98.21399999999994,
+              "r": 266.832,
+              "b": 109.01400000000001,
+              "coord_origin": "TOPLEFT"
+            },
+            "row_span": 1,
+            "col_span": 1,
+            "start_row_offset_idx": 0,
+            "end_row_offset_idx": 1,
+            "start_col_offset_idx": 1,
+            "end_col_offset_idx": 2,
+            "text": "SES-STA-20260621-01857",
+            "column_header": false,
+            "row_header": false,
+            "row_section": false,
+            "fillable": false
+          },
+          {
+            "bbox": {
+              "l": 32.25,
+              "t": 115.76400000000001,
+              "r": 125.56200000000001,
+              "b": 126.56400000000008,
+              "coord_origin": "TOPLEFT"
+            },
+            "row_span": 1,
+            "col_span": 1,
+            "start_row_offset_idx": 1,
+            "end_row_offset_idx": 2,
+            "start_col_offset_idx": 0,
+            "end_col_offset_idx": 1,
+            "text": "Licensee/Grantee:",
+            "column_header": false,
+            "row_header": false,
+            "row_section": false,
+            "fillable": false
+          },
+          {
+            "bbox": {
+              "l": 133.5,
+              "t": 115.76400000000001,
+              "r": 210.84000000000006,
+              "b": 126.56400000000008,
+              "coord_origin": "TOPLEFT"
+            },
+            "row_span": 1,
+            "col_span": 1,
+            "start_row_offset_idx": 1,
+            "end_row_offset_idx": 2,
+            "start_col_offset_idx": 1,
+            "end_col_offset_idx": 2,
+            "text": "Myriota Pty Ltd",
+            "column_header": false,
+            "row_header": false,
+            "row_section": false,
+            "fillable": false
+          },
+          {
+            "bbox": {
+              "l": 32.25,
+              "t": 133.31399999999996,
+              "r": 83.26199999999999,
+              "b": 144.11400000000003,
+              "coord_origin": "TOPLEFT"
+            },
+            "row_span": 1,
+            "col_span": 1,
+            "start_row_offset_idx": 2,
+            "end_row_offset_idx": 3,
+            "start_col_offset_idx": 0,
+            "end_col_offset_idx": 1,
+            "text": "Call Sign:",
+            "column_header": false,
+            "row_header": false,
+            "row_section": false,
+            "fillable": false
+          },
+          {
+            "bbox": {
+              "l": 133.5,
+              "t": 133.31399999999996,
+              "r": 176.832,
+              "b": 144.11400000000003,
+              "coord_origin": "TOPLEFT"
+            },
+            "row_span": 1,
+            "col_span": 1,
+            "start_row_offset_idx": 2,
+            "end_row_offset_idx": 3,
+            "start_col_offset_idx": 1,
+            "end_col_offset_idx": 2,
+            "text": "E250135",
+            "column_header": false,
+            "row_header": false,
+            "row_section": false,
+            "fillable": false
+          },
+          {
+            "bbox": {
+              "l": 32.25,
+              "t": 150.86399999999992,
+              "r": 110.562,
+              "b": 161.664,
+              "coord_origin": "TOPLEFT"
+            },
+            "row_span": 1,
+            "col_span": 1,
+            "start_row_offset_idx": 3,
+            "end_row_offset_idx": 4,
+            "start_col_offset_idx": 0,
+            "end_col_offset_idx": 1,
+            "text": "Satellite Name:",
+            "column_header": false,
+            "row_header": false,
+            "row_section": false,
+            "fillable": false
+          },
+          {
+            "bbox": {
+              "l": 133.5,
+              "t": 150.86399999999992,
+              "r": 279.1560000000001,
+              "b": 161.664,
+              "coord_origin": "TOPLEFT"
+            },
+            "row_span": 1,
+            "col_span": 1,
+            "start_row_offset_idx": 3,
+            "end_row_offset_idx": 4,
+            "start_col_offset_idx": 1,
+            "end_col_offset_idx": 2,
+            "text": "Inmarsat 4F3 (S2932) satellite",
+            "column_header": false,
+            "row_header": false,
+            "row_section": false,
+            "fillable": false
+          },
+          {
+            "bbox": {
+              "l": 32.25,
+              "t": 168.414,
+              "r": 126.57,
+              "b": 206.81400000000008,
+              "coord_origin": "TOPLEFT"
+            },
+            "row_span": 1,
+            "col_span": 1,
+            "start_row_offset_idx": 4,
+            "end_row_offset_idx": 5,
+            "start_col_offset_idx": 0,
+            "end_col_offset_idx": 1,
+            "text": "Orbital Location: (required station- keeping tolerance)",
+            "column_header": false,
+            "row_header": false,
+            "row_section": false,
+            "fillable": false
+          },
+          {
+            "bbox": {
+              "l": 32.25,
+              "t": 213.56399999999996,
+              "r": 114.91799999999998,
+              "b": 224.36400000000003,
+              "coord_origin": "TOPLEFT"
+            },
+            "row_span": 1,
+            "col_span": 1,
+            "start_row_offset_idx": 5,
+            "end_row_offset_idx": 6,
+            "start_col_offset_idx": 0,
+            "end_col_offset_idx": 1,
+            "text": "Administration:",
+            "column_header": false,
+            "row_header": false,
+            "row_section": false,
+            "fillable": false
+          },
+          {
+            "bbox": {
+              "l": 32.25,
+              "t": 231.11399999999992,
+              "r": 125.55000000000001,
+              "b": 241.914,
+              "coord_origin": "TOPLEFT"
+            },
+            "row_span": 1,
+            "col_span": 1,
+            "start_row_offset_idx": 6,
+            "end_row_offset_idx": 7,
+            "start_col_offset_idx": 0,
+            "end_col_offset_idx": 1,
+            "text": "Nature of Service:",
+            "column_header": false,
+            "row_header": false,
+            "row_section": false,
+            "fillable": false
+          },
+          {
+            "bbox": {
+              "l": 346.608,
+              "t": 98.21399999999994,
+              "r": 519.5759999999999,
+              "b": 262.70400000000006,
+              "coord_origin": "TOPLEFT"
+            },
+            "row_span": 7,
+            "col_span": 1,
+            "start_row_offset_idx": 0,
+            "end_row_offset_idx": 7,
+            "start_col_offset_idx": 2,
+            "end_col_offset_idx": 3,
+            "text": "GRANTED - With Conditions Space Bureau additional 60-day special temporary",
+            "column_header": false,
+            "row_header": false,
+            "row_section": false,
+            "fillable": false
+          },
+          {
+            "bbox": {
+              "l": 32.25,
+              "t": 251.904,
+              "r": 113.57399999999998,
+              "b": 262.70400000000006,
+              "coord_origin": "TOPLEFT"
+            },
+            "row_span": 1,
+            "col_span": 1,
+            "start_row_offset_idx": 7,
+            "end_row_offset_idx": 8,
+            "start_col_offset_idx": 0,
+            "end_col_offset_idx": 1,
+            "text": "Scope of Grant:",
+            "column_header": false,
+            "row_header": false,
+            "row_section": false,
+            "fillable": false
+          },
+          {
+            "bbox": {
+              "l": 133.5,
+              "t": 251.904,
+              "r": 279.28800000000007,
+              "b": 290.3040000000001,
+              "coord_origin": "TOPLEFT"
+            },
+            "row_span": 1,
+            "col_span": 2,
+            "start_row_offset_idx": 7,
+            "end_row_offset_idx": 8,
+            "start_col_offset_idx": 1,
+            "end_col_offset_idx": 3,
+            "text": "Myriota Pty. Ltd. (\"Myriota\"), authority (STA), to operate 4F3 (S2932) satellite",
+            "column_header": false,
+            "row_header": false,
+            "row_section": false,
+            "fillable": false
+          },
+          {
+            "bbox": {
+              "l": 32.25,
+              "t": 297.054,
+              "r": 114.546,
+              "b": 307.85400000000004,
+              "coord_origin": "TOPLEFT"
+            },
+            "row_span": 1,
+            "col_span": 1,
+            "start_row_offset_idx": 8,
+            "end_row_offset_idx": 9,
+            "start_col_offset_idx": 0,
+            "end_col_offset_idx": 1,
+            "text": "Service Area(s):",
+            "column_header": false,
+            "row_header": false,
+            "row_section": false,
+            "fillable": false
+          },
+          {
+            "bbox": {
+              "l": 133.5,
+              "t": 297.054,
+              "r": 281.49600000000004,
+              "b": 307.85400000000004,
+              "coord_origin": "TOPLEFT"
+            },
+            "row_span": 1,
+            "col_span": 2,
+            "start_row_offset_idx": 8,
+            "end_row_offset_idx": 9,
+            "start_col_offset_idx": 1,
+            "end_col_offset_idx": 3,
+            "text": "The Continental United States,",
+            "column_header": false,
+            "row_header": false,
+            "row_section": false,
+            "fillable": false
+          },
+          {
+            "bbox": {
+              "l": 32.25,
+              "t": 314.6039999999999,
+              "r": 98.23800000000001,
+              "b": 325.404,
+              "coord_origin": "TOPLEFT"
+            },
+            "row_span": 1,
+            "col_span": 1,
+            "start_row_offset_idx": 9,
+            "end_row_offset_idx": 10,
+            "start_col_offset_idx": 0,
+            "end_col_offset_idx": 1,
+            "text": "Frequencies:",
+            "column_header": false,
+            "row_header": false,
+            "row_section": false,
+            "fillable": false
+          },
+          {
+            "bbox": {
+              "l": 133.5,
+              "t": 314.6039999999999,
+              "r": 314.1239999999999,
+              "b": 392.104,
+              "coord_origin": "TOPLEFT"
+            },
+            "row_span": 1,
+            "col_span": 2,
+            "start_row_offset_idx": 9,
+            "end_row_offset_idx": 10,
+            "start_col_offset_idx": 1,
+            "end_col_offset_idx": 3,
+            "text": "Operations will be performed in 1626.5-1645.5 MHz (Earth-to-space) 1646.5-1660.5 MHz (Earth-to-space) 1525-1544 MHz (space-to-Earth)",
+            "column_header": false,
+            "row_header": false,
+            "row_section": false,
+            "fillable": false
+          }
+        ],
+        "num_rows": 10,
+        "num_cols": 3,
+        "grid": [
+          [
+            {
+              "bbox": {
+                "l": 32.25,
+                "t": 98.21399999999994,
+                "r": 116.23799999999999,
+                "b": 109.01400000000001,
+                "coord_origin": "TOPLEFT"
+              },
+              "row_span": 1,
+              "col_span": 1,
+              "start_row_offset_idx": 0,
+              "end_row_offset_idx": 1,
+              "start_col_offset_idx": 0,
+              "end_col_offset_idx": 1,
+              "text": "ICFS File No(s):",
+              "column_header": false,
+              "row_header": false,
+              "row_section": false,
+              "fillable": false
+            },
+            {
+              "bbox": {
+                "l": 133.5,
+                "t": 98.21399999999994,
+                "r": 266.832,
+                "b": 109.01400000000001,
+                "coord_origin": "TOPLEFT"
+              },
+              "row_span": 1,
+              "col_span": 1,
+              "start_row_offset_idx": 0,
+              "end_row_offset_idx": 1,
+              "start_col_offset_idx": 1,
+              "end_col_offset_idx": 2,
+              "text": "SES-STA-20260621-01857",
+              "column_header": false,
+              "row_header": false,
+              "row_section": false,
+              "fillable": false
+            },
+            {
+              "bbox": {
+                "l": 346.608,
+                "t": 98.21399999999994,
+                "r": 519.5759999999999,
+                "b": 262.70400000000006,
+                "coord_origin": "TOPLEFT"
+              },
+              "row_span": 7,
+              "col_span": 1,
+              "start_row_offset_idx": 0,
+              "end_row_offset_idx": 7,
+              "start_col_offset_idx": 2,
+              "end_col_offset_idx": 3,
+              "text": "GRANTED - With Conditions Space Bureau additional 60-day special temporary",
+              "column_header": false,
+              "row_header": false,
+              "row_section": false,
+              "fillable": false
+            }
+          ],
+          [
+            {
+              "bbox": {
+                "l": 32.25,
+                "t": 115.76400000000001,
+                "r": 125.56200000000001,
+                "b": 126.56400000000008,
+                "coord_origin": "TOPLEFT"
+              },
+              "row_span": 1,
+              "col_span": 1,
+              "start_row_offset_idx": 1,
+              "end_row_offset_idx": 2,
+              "start_col_offset_idx": 0,
+              "end_col_offset_idx": 1,
+              "text": "Licensee/Grantee:",
+              "column_header": false,
+              "row_header": false,
+              "row_section": false,
+              "fillable": false
+            },
+            {
+              "bbox": {
+                "l": 133.5,
+                "t": 115.76400000000001,
+                "r": 210.84000000000006,
+                "b": 126.56400000000008,
+                "coord_origin": "TOPLEFT"
+              },
+              "row_span": 1,
+              "col_span": 1,
+              "start_row_offset_idx": 1,
+              "end_row_offset_idx": 2,
+              "start_col_offset_idx": 1,
+              "end_col_offset_idx": 2,
+              "text": "Myriota Pty Ltd",
+              "column_header": false,
+              "row_header": false,
+              "row_section": false,
+              "fillable": false
+            },
+            {
+              "bbox": {
+                "l": 346.608,
+                "t": 98.21399999999994,
+                "r": 519.5759999999999,
+                "b": 262.70400000000006,
+                "coord_origin": "TOPLEFT"
+              },
+              "row_span": 7,
+              "col_span": 1,
+              "start_row_offset_idx": 0,
+              "end_row_offset_idx": 7,
+              "start_col_offset_idx": 2,
+              "end_col_offset_idx": 3,
+              "text": "GRANTED - With Conditions Space Bureau additional 60-day special temporary",
+              "column_header": false,
+              "row_header": false,
+              "row_section": false,
+              "fillable": false
+            }
+          ],
+          [
+            {
+              "bbox": {
+                "l": 32.25,
+                "t": 133.31399999999996,
+                "r": 83.26199999999999,
+                "b": 144.11400000000003,
+                "coord_origin": "TOPLEFT"
+              },
+              "row_span": 1,
+              "col_span": 1,
+              "start_row_offset_idx": 2,
+              "end_row_offset_idx": 3,
+              "start_col_offset_idx": 0,
+              "end_col_offset_idx": 1,
+              "text": "Call Sign:",
+              "column_header": false,
+              "row_header": false,
+              "row_section": false,
+              "fillable": false
+            },
+            {
+              "bbox": {
+                "l": 133.5,
+                "t": 133.31399999999996,
+                "r": 176.832,
+                "b": 144.11400000000003,
+                "coord_origin": "TOPLEFT"
+              },
+              "row_span": 1,
+              "col_span": 1,
+              "start_row_offset_idx": 2,
+              "end_row_offset_idx": 3,
+              "start_col_offset_idx": 1,
+              "end_col_offset_idx": 2,
+              "text": "E250135",
+              "column_header": false,
+              "row_header": false,
+              "row_section": false,
+              "fillable": false
+            },
+            {
+              "bbox": {
+                "l": 346.608,
+                "t": 98.21399999999994,
+                "r": 519.5759999999999,
+                "b": 262.70400000000006,
+                "coord_origin": "TOPLEFT"
+              },
+              "row_span": 7,
+              "col_span": 1,
+              "start_row_offset_idx": 0,
+              "end_row_offset_idx": 7,
+              "start_col_offset_idx": 2,
+              "end_col_offset_idx": 3,
+              "text": "GRANTED - With Conditions Space Bureau additional 60-day special temporary",
+              "column_header": false,
+              "row_header": false,
+              "row_section": false,
+              "fillable": false
+            }
+          ],
+          [
+            {
+              "bbox": {
+                "l": 32.25,
+                "t": 150.86399999999992,
+                "r": 110.562,
+                "b": 161.664,
+                "coord_origin": "TOPLEFT"
+              },
+              "row_span": 1,
+              "col_span": 1,
+              "start_row_offset_idx": 3,
+              "end_row_offset_idx": 4,
+              "start_col_offset_idx": 0,
+              "end_col_offset_idx": 1,
+              "text": "Satellite Name:",
+              "column_header": false,
+              "row_header": false,
+              "row_section": false,
+              "fillable": false
+            },
+            {
+              "bbox": {
+                "l": 133.5,
+                "t": 150.86399999999992,
+                "r": 279.1560000000001,
+                "b": 161.664,
+                "coord_origin": "TOPLEFT"
+              },
+              "row_span": 1,
+              "col_span": 1,
+              "start_row_offset_idx": 3,
+              "end_row_offset_idx": 4,
+              "start_col_offset_idx": 1,
+              "end_col_offset_idx": 2,
+              "text": "Inmarsat 4F3 (S2932) satellite",
+              "column_header": false,
+              "row_header": false,
+              "row_section": false,
+              "fillable": false
+            },
+            {
+              "bbox": {
+                "l": 346.608,
+                "t": 98.21399999999994,
+                "r": 519.5759999999999,
+                "b": 262.70400000000006,
+                "coord_origin": "TOPLEFT"
+              },
+              "row_span": 7,
+              "col_span": 1,
+              "start_row_offset_idx": 0,
+              "end_row_offset_idx": 7,
+              "start_col_offset_idx": 2,
+              "end_col_offset_idx": 3,
+              "text": "GRANTED - With Conditions Space Bureau additional 60-day special temporary",
+              "column_header": false,
+              "row_header": false,
+              "row_section": false,
+              "fillable": false
+            }
+          ],
+          [
+            {
+              "bbox": {
+                "l": 32.25,
+                "t": 168.414,
+                "r": 126.57,
+                "b": 206.81400000000008,
+                "coord_origin": "TOPLEFT"
+              },
+              "row_span": 1,
+              "col_span": 1,
+              "start_row_offset_idx": 4,
+              "end_row_offset_idx": 5,
+              "start_col_offset_idx": 0,
+              "end_col_offset_idx": 1,
+              "text": "Orbital Location: (required station- keeping tolerance)",
+              "column_header": false,
+              "row_header": false,
+              "row_section": false,
+              "fillable": false
+            },
+            {
+              "row_span": 1,
+              "col_span": 1,
+              "start_row_offset_idx": 4,
+              "end_row_offset_idx": 5,
+              "start_col_offset_idx": 1,
+              "end_col_offset_idx": 2,
+              "text": "",
+              "column_header": false,
+              "row_header": false,
+              "row_section": false,
+              "fillable": false
+            },
+            {
+              "bbox": {
+                "l": 346.608,
+                "t": 98.21399999999994,
+                "r": 519.5759999999999,
+                "b": 262.70400000000006,
+                "coord_origin": "TOPLEFT"
+              },
+              "row_span": 7,
+              "col_span": 1,
+              "start_row_offset_idx": 0,
+              "end_row_offset_idx": 7,
+              "start_col_offset_idx": 2,
+              "end_col_offset_idx": 3,
+              "text": "GRANTED - With Conditions Space Bureau additional 60-day special temporary",
+              "column_header": false,
+              "row_header": false,
+              "row_section": false,
+              "fillable": false
+            }
+          ],
+          [
+            {
+              "bbox": {
+                "l": 32.25,
+                "t": 213.56399999999996,
+                "r": 114.91799999999998,
+                "b": 224.36400000000003,
+                "coord_origin": "TOPLEFT"
+              },
+              "row_span": 1,
+              "col_span": 1,
+              "start_row_offset_idx": 5,
+              "end_row_offset_idx": 6,
+              "start_col_offset_idx": 0,
+              "end_col_offset_idx": 1,
+              "text": "Administration:",
+              "column_header": false,
+              "row_header": false,
+              "row_section": false,
+              "fillable": false
+            },
+            {
+              "row_span": 1,
+              "col_span": 1,
+              "start_row_offset_idx": 5,
+              "end_row_offset_idx": 6,
+              "start_col_offset_idx": 1,
+              "end_col_offset_idx": 2,
+              "text": "",
+              "column_header": false,
+              "row_header": false,
+              "row_section": false,
+              "fillable": false
+            },
+            {
+              "bbox": {
+                "l": 346.608,
+                "t": 98.21399999999994,
+                "r": 519.5759999999999,
+                "b": 262.70400000000006,
+                "coord_origin": "TOPLEFT"
+              },
+              "row_span": 7,
+              "col_span": 1,
+              "start_row_offset_idx": 0,
+              "end_row_offset_idx": 7,
+              "start_col_offset_idx": 2,
+              "end_col_offset_idx": 3,
+              "text": "GRANTED - With Conditions Space Bureau additional 60-day special temporary",
+              "column_header": false,
+              "row_header": false,
+              "row_section": false,
+              "fillable": false
+            }
+          ],
+          [
+            {
+              "bbox": {
+                "l": 32.25,
+                "t": 231.11399999999992,
+                "r": 125.55000000000001,
+                "b": 241.914,
+                "coord_origin": "TOPLEFT"
+              },
+              "row_span": 1,
+              "col_span": 1,
+              "start_row_offset_idx": 6,
+              "end_row_offset_idx": 7,
+              "start_col_offset_idx": 0,
+              "end_col_offset_idx": 1,
+              "text": "Nature of Service:",
+              "column_header": false,
+              "row_header": false,
+              "row_section": false,
+              "fillable": false
+            },
+            {
+              "row_span": 1,
+              "col_span": 1,
+              "start_row_offset_idx": 6,
+              "end_row_offset_idx": 7,
+              "start_col_offset_idx": 1,
+              "end_col_offset_idx": 2,
+              "text": "",
+              "column_header": false,
+              "row_header": false,
+              "row_section": false,
+              "fillable": false
+            },
+            {
+              "bbox": {
+                "l": 346.608,
+                "t": 98.21399999999994,
+                "r": 519.5759999999999,
+                "b": 262.70400000000006,
+                "coord_origin": "TOPLEFT"
+              },
+              "row_span": 7,
+              "col_span": 1,
+              "start_row_offset_idx": 0,
+              "end_row_offset_idx": 7,
+              "start_col_offset_idx": 2,
+              "end_col_offset_idx": 3,
+              "text": "GRANTED - With Conditions Space Bureau additional 60-day special temporary",
+              "column_header": false,
+              "row_header": false,
+              "row_section": false,
+              "fillable": false
+            }
+          ],
+          [
+            {
+              "bbox": {
+                "l": 32.25,
+                "t": 251.904,
+                "r": 113.57399999999998,
+                "b": 262.70400000000006,
+                "coord_origin": "TOPLEFT"
+              },
+              "row_span": 1,
+              "col_span": 1,
+              "start_row_offset_idx": 7,
+              "end_row_offset_idx": 8,
+              "start_col_offset_idx": 0,
+              "end_col_offset_idx": 1,
+              "text": "Scope of Grant:",
+              "column_header": false,
+              "row_header": false,
+              "row_section": false,
+              "fillable": false
+            },
+            {
+              "bbox": {
+                "l": 133.5,
+                "t": 251.904,
+                "r": 279.28800000000007,
+                "b": 290.3040000000001,
+                "coord_origin": "TOPLEFT"
+              },
+              "row_span": 1,
+              "col_span": 2,
+              "start_row_offset_idx": 7,
+              "end_row_offset_idx": 8,
+              "start_col_offset_idx": 1,
+              "end_col_offset_idx": 3,
+              "text": "Myriota Pty. Ltd. (\"Myriota\"), authority (STA), to operate 4F3 (S2932) satellite",
+              "column_header": false,
+              "row_header": false,
+              "row_section": false,
+              "fillable": false
+            },
+            {
+              "bbox": {
+                "l": 133.5,
+                "t": 251.904,
+                "r": 279.28800000000007,
+                "b": 290.3040000000001,
+                "coord_origin": "TOPLEFT"
+              },
+              "row_span": 1,
+              "col_span": 2,
+              "start_row_offset_idx": 7,
+              "end_row_offset_idx": 8,
+              "start_col_offset_idx": 1,
+              "end_col_offset_idx": 3,
+              "text": "Myriota Pty. Ltd. (\"Myriota\"), authority (STA), to operate 4F3 (S2932) satellite",
+              "column_header": false,
+              "row_header": false,
+              "row_section": false,
+              "fillable": false
+            }
+          ],
+          [
+            {
+              "bbox": {
+                "l": 32.25,
+                "t": 297.054,
+                "r": 114.546,
+                "b": 307.85400000000004,
+                "coord_origin": "TOPLEFT"
+              },
+              "row_span": 1,
+              "col_span": 1,
+              "start_row_offset_idx": 8,
+              "end_row_offset_idx": 9,
+              "start_col_offset_idx": 0,
+              "end_col_offset_idx": 1,
+              "text": "Service Area(s):",
+              "column_header": false,
+              "row_header": false,
+              "row_section": false,
+              "fillable": false
+            },
+            {
+              "bbox": {
+                "l": 133.5,
+                "t": 297.054,
+                "r": 281.49600000000004,
+                "b": 307.85400000000004,
+                "coord_origin": "TOPLEFT"
+              },
+              "row_span": 1,
+              "col_span": 2,
+              "start_row_offset_idx": 8,
+              "end_row_offset_idx": 9,
+              "start_col_offset_idx": 1,
+              "end_col_offset_idx": 3,
+              "text": "The Continental United States,",
+              "column_header": false,
+              "row_header": false,
+              "row_section": false,
+              "fillable": false
+            },
+            {
+              "bbox": {
+                "l": 133.5,
+                "t": 297.054,
+                "r": 281.49600000000004,
+                "b": 307.85400000000004,
+                "coord_origin": "TOPLEFT"
+              },
+              "row_span": 1,
+              "col_span": 2,
+              "start_row_offset_idx": 8,
+              "end_row_offset_idx": 9,
+              "start_col_offset_idx": 1,
+              "end_col_offset_idx": 3,
+              "text": "The Continental United States,",
+              "column_header": false,
+              "row_header": false,
+              "row_section": false,
+              "fillable": false
+            }
+          ],
+          [
+            {
+              "bbox": {
+                "l": 32.25,
+                "t": 314.6039999999999,
+                "r": 98.23800000000001,
+                "b": 325.404,
+                "coord_origin": "TOPLEFT"
+              },
+              "row_span": 1,
+              "col_span": 1,
+              "start_row_offset_idx": 9,
+              "end_row_offset_idx": 10,
+              "start_col_offset_idx": 0,
+              "end_col_offset_idx": 1,
+              "text": "Frequencies:",
+              "column_header": false,
+              "row_header": false,
+              "row_section": false,
+              "fillable": false
+            },
+            {
+              "bbox": {
+                "l": 133.5,
+                "t": 314.6039999999999,
+                "r": 314.1239999999999,
+                "b": 392.104,
+                "coord_origin": "TOPLEFT"
+              },
+              "row_span": 1,
+              "col_span": 2,
+              "start_row_offset_idx": 9,
+              "end_row_offset_idx": 10,
+              "start_col_offset_idx": 1,
+              "end_col_offset_idx": 3,
+              "text": "Operations will be performed in 1626.5-1645.5 MHz (Earth-to-space) 1646.5-1660.5 MHz (Earth-to-space) 1525-1544 MHz (space-to-Earth)",
+              "column_header": false,
+              "row_header": false,
+              "row_section": false,
+              "fillable": false
+            },
+            {
+              "bbox": {
+                "l": 133.5,
+                "t": 314.6039999999999,
+                "r": 314.1239999999999,
+                "b": 392.104,
+                "coord_origin": "TOPLEFT"
+              },
+              "row_span": 1,
+              "col_span": 2,
+              "start_row_offset_idx": 9,
+              "end_row_offset_idx": 10,
+              "start_col_offset_idx": 1,
+              "end_col_offset_idx": 3,
+              "text": "Operations will be performed in 1626.5-1645.5 MHz (Earth-to-space) 1646.5-1660.5 MHz (Earth-to-space) 1525-1544 MHz (space-to-Earth)",
+              "column_header": false,
+              "row_header": false,
+              "row_section": false,
+              "fillable": false
+            }
+          ]
+        ]
+      },
+      "annotations": []
+    }
+  ],
+  "key_value_items": [],
+  "form_items": [],
+  "pages": {
+    "1": {
+      "size": {
+        "width": 595.0,
+        "height": 842.0
+      },
+      "page_no": 1
+    },
+    "2": {
+      "size": {
+        "width": 595.0,
+        "height": 842.0
+      },
+      "page_no": 2
+    }
+  }
+}
