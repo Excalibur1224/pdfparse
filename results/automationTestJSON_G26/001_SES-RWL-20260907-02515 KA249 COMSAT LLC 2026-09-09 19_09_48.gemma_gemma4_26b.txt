@@ -1,0 +1,15 @@
+```json
+{
+  "satellite_name": "INMARSAT Ltd-3",
+  "all_frequencies": [
+    "6454.4 6456.6",
+    "5925 6425",
+    "3700 4200",
+    "6440.8 6443",
+    "3629.4 3631.6"
+  ],
+  "active_or_inactive": "Not specified",
+  "source_or_company_origin": "USA",
+  "orbit_type": "178 E.L."
+}
+```

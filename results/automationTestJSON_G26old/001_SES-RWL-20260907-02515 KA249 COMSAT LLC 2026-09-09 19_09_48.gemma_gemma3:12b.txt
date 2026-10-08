@@ -1,0 +1,12 @@
+```json
+{
+  "satellite_name": "SES-RWL-20260907-02515",
+  "frequencies": [
+    "3700",
+    "4200"
+  ],
+  "active_or_inactive": "Active",
+  "source_or_company_origin": "COMSAT LLC",
+  "orbit_type": "Not specified"
+}
+```

@@ -1,0 +1,70 @@
+```json
+[
+  {
+    "satellite_name": "KA249",
+    "frequencies": [
+      "extended C-band frequencies",
+      "0/0 MHz",
+      "6454.4 6456.6 MHz",
+      "3700 4200 MHz",
+      "5925 6425 MHz",
+      "6440.8 6443 MHz",
+      "3629.4 3631.6 MHz"
+    ],
+    "active_or_inactive": "Active",
+    "source_or_company_origin": "COMSAT LLC",
+    "orbit_type": "Not specified"
+  },
+  {
+    "satellite_name": "INMARSAT Ltd-3",
+    "frequencies": "Not specified",
+    "active_or_inactive": "Not specified",
+    "source_or_company_origin": "Not specified",
+    "orbit_type": "Not specified"
+  },
+  {
+    "satellite_name": "undefined",
+    "frequencies": [
+      "420046 / 16899.75 / 260.155.23 / 5.36013MGeostationary6440.8",
+      "6443180 / 179252.56 / 253.2215.24 / 14.421.6413MGeostationary5925",
+      "642546 / 16899.75 / 260.155.23 / 5.3642.613MGeostationary3700",
+      "420046 / 16899.75 / 260.155.23 / 5.36013MGeostationary3629.4",
+      "3631.6180 / 179252.56 / 253.2215.24 / 14.42013MGeostationary6454.4"
+    ],
+    "active_or_inactive": "not specified",
+    "source_or_company_origin": "COMSAT LLC",
+    "orbit_type": "Geostationary"
+  },
+  {
+    "satellite_name": "INMARSAT Ltd.-2 POR",
+    "frequencies": "Not specified",
+    "active_or_inactive": "Not specified",
+    "source_or_company_origin": "USA",
+    "orbit_type": "179 DEGR"
+  },
+  {
+    "satellite_name": "PERMITTED LIST",
+    "frequencies": "Not specified",
+    "active_or_inactive": "Not specified",
+    "source_or_company_origin": "USA",
+    "orbit_type": "GSO"
+  },
+  {
+    "satellite_name": "ISAT List",
+    "frequencies": "Not specified",
+    "active_or_inactive": "Not specified",
+    "source_or_company_origin": "USA",
+    "orbit_type": "SYSTEM"
+  },
+  {
+    "satellite_name": "13M",
+    "frequencies": [
+      "1130, 13",
+      "5925 6425"
+    ],
+    "active_or_inactive": "Not mentioned",
+    "source_or_company_origin": "COMSAT LLC",
+    "orbit_type": "Geostationary"
+  }
+]
+```
