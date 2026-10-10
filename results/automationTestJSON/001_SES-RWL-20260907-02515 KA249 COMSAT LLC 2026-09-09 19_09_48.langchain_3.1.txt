@@ -1,0 +1,8 @@
+{
+  "Name": "INMARSAT Ltd-3",
+  "Frequencies": ["46 / 168"],
+  "Bandwidths": ["99.75 / 260.15", "5.23 / 5.36"],
+  "Status": "Active or inactive not specified",
+  "Source": "COMSAT LLC",
+  "OrbitType": "Geostationary"
+}

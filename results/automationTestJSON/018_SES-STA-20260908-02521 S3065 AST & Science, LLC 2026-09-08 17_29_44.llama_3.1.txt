@@ -1,0 +1,14 @@
+{
+  "Name": "AST SpaceMobile network",
+  "Frequencies": {
+    "Uplink": "817-824 MHz",
+    "Downlink": "862-869 MHz"
+  },
+  "Bandwidths": {
+    "Uplink": null,
+    "Downlink": null
+  },
+  "Status": "Active",
+  "Source": "AST & Science, LLC (AST SpaceMobile)",
+  "Orbit Type": "Nongeostationary orbit satellite constellation"
+}

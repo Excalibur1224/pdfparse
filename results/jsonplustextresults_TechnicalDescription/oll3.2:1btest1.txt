@@ -1,0 +1,12 @@
+Starting RAG Pipeline Test...
+RAG System Test Results
+==================================================
+
+Test 1: Describe satellite from json formatted description in terms of Name, frequencies and bandwidths, Active or inactive, source or origin, orbit type in comma seperated format to be inserted into a database
+----------------------------------------
+Response: Name, Frequencies, Bandwidths, Active/Inactive, Source/Organization, Orbit Type 
+FM-6, 2320.0-2332.5 MHz DARS, X-band, active, Sirius XM, GEO 
+FM-5, 7050.5-7072.5 MHz S-band, inactive, Intelsat, GEO 
+Sirius NGO satellites, 2320.0-2332.5 MHz DARS, X-band, active, Sirius XM, GEO
+Status: SUCCESS
+----------------------------------------

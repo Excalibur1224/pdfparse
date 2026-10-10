@@ -1,0 +1,16 @@
+Starting RAG Pipeline Test...
+RAG System Test Results
+==================================================
+
+Test 1: Describe satellite from json formatted description in terms of Name, frequencies and bandwidths, Active or inactive, source or origin, orbit type in comma seperated format to be inserted into a database
+----------------------------------------
+Response: Based on the provided JSON formatted description, here is the information in the requested format:
+
+Name: FM-6 Satellite
+Frequencies: X/S-band (X-band: 10.7 GHz, S-band: 14.2 GHz)
+Bandwidths: Varying bandwidths for communications carriers, ranging from wide angle X-band to S-band
+
+Active or inactive: Active
+Source or origin: Space Systems/Loral 1300 standard satellite platform
+Status: SUCCESS
+----------------------------------------

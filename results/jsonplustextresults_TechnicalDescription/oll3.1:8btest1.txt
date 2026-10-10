@@ -1,0 +1,12 @@
+Starting RAG Pipeline Test...
+RAG System Test Results
+==================================================
+
+Test 1: Describe satellite from json formatted description in terms of ID, Name, frequencies and bandwidths, Active or inactive, source or origin, orbit type in comma seperated format to be inserted into a database
+----------------------------------------
+Response: FM-6, FM-5, NGO satellites (3), Sirius XM Canada's subscribers in Canada, Sirius XM subscribers in the continental United States (CONUS - including its offshore waters), 
+116.15 degrees West Longitude, 96.0 degrees West Longitude, 85.0 degrees West Longitude, 
+2320.0-2332.5 MHz DARS radio frequency band, 7050.5-7072.5 MHz X-band frequencies, 
+Active, Sirius XM umbrella, Geostationary, Digital Audio Radio Service (DARS) satellite
+Status: SUCCESS
+----------------------------------------

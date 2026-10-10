@@ -1,0 +1,9 @@
+Starting RAG Pipeline Test...
+RAG System Test Results
+==================================================
+
+Test 1: Describe satellite from json formatted description in terms of ID, Name, frequencies and bandwidths, Active or inactive, source or origin, orbit type in comma seperated format to be inserted into a database
+----------------------------------------
+Response: ID: FM-6, Name: FM-6, Frequencies: 2320.0-2332.5 MHz (downlink), X-band (uplink 7050.5-7072.5 MHz), Active: Yes (operational), Source/Origin: Intelsat, Orbit Type: geostationary
+Status: SUCCESS
+----------------------------------------

@@ -1,0 +1,22 @@
+Starting RAG Pipeline Test...
+RAG System Test Results
+==================================================
+
+Test 1: Describe satellite from json formatted description in terms of ID, Name, frequencies and bandwidths, Active or inactive, source or origin, orbit type in comma seperated format to be inserted into a database
+----------------------------------------
+Response: file_path: /home/april/research/pdfparse/pdfs/TechnicalDescription.pdfconvert.json
+
+Based on the provided JSON formatted description, here is the information in the requested format:
+
+ID, Name, Frequencies, Bandwidths, Active/Inactive, Source/Organization, Orbit Type
+5, FM-6 Satellite, X/S-band (X-band), 10 MHz to 30 GHz, Active, Space Systems/Loral, Geostationary
+281, User Terminal, S-band (S-band), 1.2 Mbps to 4.8 Mbps, Inactive, Intelsat, Low Earth Orbit
+201, TT&C System, X/S-band (X-band), 10 MHz to 30 GHz, Active, Space Systems/Loral, Geostationary
+202, TT&C System, S-band (S-band), 1.2 Mbps to 4.8 Mbps, Inactive, Space Systems/Loral, Geostationary
+203, TT&C System, X/S-band (X-band), 10 MHz to 30 GHz, Active, Intelsat, Low Earth Orbit
+204, TT&C System, S-band (S-band), 1.2 Mbps to 4.8 Mbps, Inactive, Space Systems/Loral, Geostationary
+258, TT&C Network, X/S-band (X-band), 10 MHz to 30 GHz, Active, Intelsat, Geostationary
+259, TT&C System, S-band (S-band), 1.2 Mbps to 4.8 Mbps, Inactive, Space Systems/Loral, Geostationary
+260, TT&C System, X/S-band (X-band), 10 MHz to 30 GHz, Active, Intelsat, Low Earth Orbit
+Status: SUCCESS
+----------------------------------------

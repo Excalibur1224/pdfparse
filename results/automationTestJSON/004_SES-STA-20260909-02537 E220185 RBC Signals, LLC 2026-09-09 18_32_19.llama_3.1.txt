@@ -1,0 +1,12 @@
+{
+  "Name": "Impulse-2",
+  "Frequencies": [
+    {
+      "Band": "2025-2110 MHz"
+    }
+  ],
+  "Bandwidths": [],
+  "Status": "Active",
+  "Source": "RBC Signals, LLC",
+  "OrbitType": ""
+}

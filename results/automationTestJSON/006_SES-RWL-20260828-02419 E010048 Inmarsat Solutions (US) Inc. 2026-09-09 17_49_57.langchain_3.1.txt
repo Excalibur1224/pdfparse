@@ -1,0 +1,13 @@
+Based on the provided JSON data, there is no mention of a "satellite" that matches the query criteria. However, I can provide information about the entities mentioned in the context.
+
+Since there's no direct reference to a satellite, I'll focus on the relevant information related to the FCC filings and the company Inmarsat Solutions (US) Inc.
+
+Here's an attempt to extract relevant information:
+
+* Name: Inmarsat Solutions (US) Inc.
+* Frequencies and bandwidths: Not explicitly mentioned in the provided context. However, it is possible that this information might be present in other parts of the FCC filing or related documents.
+* Active or inactive: No specific information about the status of the company's satellite operations is available from the provided data.
+* Source or company origin: The company name suggests that it is a US-based entity, and Inmarsat Solutions (US) Inc. might be associated with the global satellite communications provider Inmarsat.
+* Orbit type: Not mentioned in the provided context.
+
+Please note that this answer relies on the information available within the given context and does not provide any additional knowledge or assumptions beyond what is explicitly stated.

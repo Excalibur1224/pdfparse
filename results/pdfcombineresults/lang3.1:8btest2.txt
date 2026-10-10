@@ -1,0 +1,11 @@
+Starting RAG Pipeline Test...
+RAG System Test Results
+==================================================
+
+Test 1: Describe satellite in terms of ID, Name, frequencies and bandwidths, Active or inactive, source or origin, orbit type
+----------------------------------------
+Response: Unfortunately, there is no mention of a satellite in the provided context information. The text appears to be related to PDF metadata and file structure, with references to font descriptors, document IDs, and instance IDs. There is no information about satellites, their characteristics, or any other space-related entities.
+
+However, if you'd like, I can provide some general information on what might be included in a description of a satellite in terms of ID, Name, frequencies, bandwidths, Active or inactive, source or origin, and orbit type. Please let me know!
+Status: SUCCESS
+----------------------------------------

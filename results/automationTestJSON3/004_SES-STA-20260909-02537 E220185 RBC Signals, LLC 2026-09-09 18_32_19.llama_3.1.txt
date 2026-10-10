@@ -1,0 +1,11 @@
+{
+  "satellite_name": "Impulse-2",
+  "frequencies": [
+    {
+      "band": "2025-2110 MHz"
+    }
+  ],
+  "status": "Active",
+  "source_company": "RBC Signals, LLC",
+  "orbit_type": "Not specified"
+}

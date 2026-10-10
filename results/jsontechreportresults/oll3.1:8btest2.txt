@@ -1,0 +1,25 @@
+Starting RAG Pipeline Test...
+RAG System Test Results
+==================================================
+
+Test 1: Describe satellite in terms of ID, Name, frequencies and bandwidths, Active or inactive, source or origin, orbit type
+----------------------------------------
+Response: Based on the provided data, it appears to be related to a technical report about satellites. However, the information is not directly related to individual satellites but rather contains text describing satellite networks.
+
+That being said, one specific mention of a satellite network can be found in the text:
+
+"MuSat-2 and Musat-3 is a new NGSO climate-focused satellite network."
+
+From this statement, we can infer some general characteristics about these satellites. However, without more detailed information, it's difficult to provide specific answers for each query.
+
+Assuming "NGSO" refers to Non-Geostationary Orbit, here are some possible descriptions based on the given text:
+
+* ID: Not specified
+* Name: MuSat-2 and Musat-3
+* Frequencies: Not specified
+* Bandwidths: Not specified
+* Active or inactive: Assuming they are active since they're part of a "satellite network"
+* Source or origin: Not specified, but likely from the company/organization mentioned in the report (Sched S Tech Report)
+* Orbit type: Non-Geostationary Orbit (NGSO)
+Status: SUCCESS
+----------------------------------------

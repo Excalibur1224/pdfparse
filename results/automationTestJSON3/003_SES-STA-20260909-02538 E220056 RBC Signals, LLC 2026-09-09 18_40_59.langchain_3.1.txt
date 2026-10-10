@@ -1,0 +1,9 @@
+{
+  "satellite": {
+    "name": "NGSO",
+    "frequencies": "480-550 km; 97.5\u00b0 inclination",
+    "status": "Active",
+    "source": "RBC Signals, LLC",
+    "orbit_type": "Non-Geostationary Orbit (NGSO)"
+  }
+}

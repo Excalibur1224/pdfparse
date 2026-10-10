@@ -1,0 +1,13 @@
+Starting RAG Pipeline Test...
+Describe satellite from description in terms of Name, frequencies and bandwidths, Active or inactive, source or company origin, and orbit typein the order as described
+----------------------------------------
+Response: Based on the provided context information, here is a description of the satellite in the requested order:
+
+1. **Name**: FM-6 (Digital Audio Radio Service)
+2. **Frequencies**: Downlink operation uses 2320.0-2332.5 MHz DARS radio frequency band.
+3. **Bandwidths**: X-band frequencies in the 7050.5-7072.5 MHz band, and S-band broadcast area coverage antenna for telemetry.
+4. **Active or inactive**: Active (currently operational)
+5. **Source or company origin**: Sirius XM Radio Inc.
+6. **Orbit type**: Geostationary (GEO) constellation configuration with a hybrid satellite constellation that will allow Sirius XM to continue providing service availability at the level they have come to expect, initially operating at 116.15° W.L. orbital location and later relocating to a new orbit with a minimum perigee of 350 km above the normal Geostationary Operational Orbit (GSO).
+Status: SUCCESS
+----------------------------------------

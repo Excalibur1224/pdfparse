@@ -1,0 +1,8 @@
+{
+  "Name": "AST SpaceMobile network",
+  "uplink_frequency": "817-824 MHz",
+  "downlink_frequency": "862-869 MHz",
+  "Status": "Active",
+  "Source": "AST & Science, LLC",
+  "Orbit_type": "nongeostationary orbit"
+}

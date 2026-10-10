@@ -1,0 +1,15 @@
+Starting RAG Pipeline Test...
+RAG System Test Results
+==================================================
+
+Test 1: Describe satellite in terms of ID, Name, frequencies and bandwidths, Active or inactive, source or origin, orbit type
+----------------------------------------
+Response: Based on the provided data, it appears to be related to a technical report about satellites. However, the information is not directly related to specific satellite details such as ID, name, frequencies, and bandwidths.
+
+But, one piece of relevant information can be found in the text of the "Description" field:
+
+"MuSat-2 and Musat-3 is a new NGSO climate-focused satellite network."
+
+This suggests that MuSat-2 and MuSat-3 are satellites, but it does not provide specific details about their ID, name, frequencies, bandwidths, or other characteristics.
+Status: SUCCESS
+----------------------------------------

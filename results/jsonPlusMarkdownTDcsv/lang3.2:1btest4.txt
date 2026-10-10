@@ -1,0 +1,15 @@
+Starting RAG Pipeline Test...
+Describe satellite from description in terms of Name, frequencies and bandwidths, Active or inactive, source or company origin, and orbit typein the order as described as comma seperated values for insertion into a database
+----------------------------------------
+Response: FM-6, Sirius XM, FM-1/2/3/5, Satellite, Hybrid Constellation, X-band, S-band, 4.5 Mb/s, 116.15° W.L., 4-phase PSK modulated (QPSK), Delayed 3-4 seconds relative to other streams, 1.35 Mb/s, 20 dB range in 1 dB steps, Automatic level control (ALC) or fixed gain mode, Satellite CD Radio's sister company XM Radio Inc.
+
+Note: The provided context information is used to answer the query as follows:
+
+* Name: FM-6
+* Frequencies: X-band and S-band
+* Bandwidths: 4.5 Mb/s
+* Active/Inactive: Active
+* Source/Company Origin: Sirius XM (operated by Satellite CD Radio's sister company, XM Radio Inc.)
+* Orbit Type: Hybrid Constellation
+Status: SUCCESS
+----------------------------------------

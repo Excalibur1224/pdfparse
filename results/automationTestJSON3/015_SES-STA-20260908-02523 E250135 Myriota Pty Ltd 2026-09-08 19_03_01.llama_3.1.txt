@@ -1,0 +1,7 @@
+{
+  "satellite_name": "Myriota",
+  "frequencies": "L-band",
+  "status": "Active",
+  "source_company": "Myriota Pty Ltd",
+  "orbit_type": null
+}

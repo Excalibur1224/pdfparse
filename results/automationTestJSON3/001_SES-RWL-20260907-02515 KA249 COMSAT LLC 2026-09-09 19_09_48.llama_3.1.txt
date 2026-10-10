@@ -1,0 +1,11 @@
+{
+  "satellite": {
+    "name": "13M",
+    "frequencies": [
+      "6454.4-6456.6 MHz"
+    ],
+    "status": "Active",
+    "source": "COMSAT LLC",
+    "orbit_type": "Geostationary"
+  }
+}

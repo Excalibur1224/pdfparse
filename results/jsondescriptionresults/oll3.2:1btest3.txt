@@ -1,0 +1,24 @@
+Starting RAG Pipeline Test...
+RAG System Test Results
+==================================================
+
+Test 1: Describe satellite in terms of ID, Name, frequencies and bandwidths, Active or inactive, source or origin, orbit type
+----------------------------------------
+Response: Based on the provided context information, here is a description of the Sirius XM satellites:
+
+1. **ID**: FM-6, FM-5
+2. **Name**: 
+   - FM-6 (geostationary DARS satellite)
+   - FM-5 (geostationary DARS satellite)
+3. **Frequencies**:
+   - FM-6: 2320.0-2332.5 MHz DARS radio frequency band, X-band frequencies in the 7050.5-7072.5 MHz band
+   - FM-5: X-band uplink broadcast frequency and command frequency transmissions
+4. **Bandwidths**:
+   - FM-6: 
+     - Downlink: 2320.0-2332.5 MHz DARS radio frequency band
+     - Uplink: X-band frequencies in the 7050.5-7072.5 MHz band
+5. **Active or inactive**: Active (operating)
+6. **Source or origin**: Sirius XM
+7. **Orbit type**: Geostationary
+Status: SUCCESS
+----------------------------------------

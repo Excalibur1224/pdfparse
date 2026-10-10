@@ -1,0 +1,31 @@
+Starting RAG Pipeline Test...
+RAG System Test Results
+==================================================
+
+Test 1: Describe satellite in terms of ID, Name, frequencies and bandwidths, Active or inactive, source or origin, orbit type
+----------------------------------------
+Response: Based on the provided context information, I will attempt to describe satellites in terms of the specified parameters.
+
+1. **ID**: 
+   - ID: 130 (TTN-8), 131 (TTN-10)
+   - Frequency: Not explicitly mentioned, but based on the context, it's likely referring to frequencies associated with these satellite designs.
+   - Bandwidths: Not provided in the context information.
+
+2. **Name**:
+   - Name: TTN (Tandem Traction Network), TTN-8 and TTN-10 are variants of this design.
+
+3. **Frequencies**:
+   - Frequency: Not explicitly mentioned, but based on the context, it's likely referring to frequencies associated with these satellite designs.
+   - Bandwidths: Not provided in the context information.
+
+4. **Active or inactive**: 
+   - Active: Both TTN-8 and TTN-10 are active satellites.
+
+5. **Source or origin**:
+   - Source: Earth, specifically from a launch site.
+   - Origin: The source of these satellites is Earth.
+
+6. **Orbit type**:
+   - Orbit Type: Geostationary orbit (GEO) for both TTN-8 and TTN-10.
+Status: SUCCESS
+----------------------------------------

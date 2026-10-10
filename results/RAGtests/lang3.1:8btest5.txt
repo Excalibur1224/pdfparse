@@ -1,0 +1,20 @@
+Starting RAG Pipeline Test...
+RAG System Test Results
+==================================================
+
+Test 1: Describe satellite in terms of ID, Name, MHz Frequency, kHz Bandwidth, Active or inactive, source, orbit type
+----------------------------------------
+Response: There is no mention of a "satellite" in the provided context information. However, I can provide a general description based on typical characteristics of satellites.
+
+A satellite would typically have an ID, which could be a unique identifier assigned to it for tracking and management purposes.
+The name of a satellite might reflect its purpose, location, or other distinguishing features.
+Satellites often operate within specific frequency ranges, such as MHz (megahertz) frequencies. The exact frequency used can depend on the type of communication or data being transmitted.
+Bandwidth in kHz (kilohertz) is another critical aspect, determining how much data can be transmitted at a given time.
+Whether a satellite is active or inactive would depend on its operational status and whether it's currently transmitting or receiving signals.
+The source of a satellite could be a government agency, private company, or research institution, depending on the purpose and funding behind its development.
+Orbit type refers to the path that the satellite follows around Earth. Common types include geostationary (GEO), low Earth orbit (LEO), medium Earth orbit (MEO), and highly elliptical orbit (HEO).
+Status: SUCCESS
+----------------------------------------
+
+RAG system is working correctly!
+You can now use the query_engine to ask questions about your documents.

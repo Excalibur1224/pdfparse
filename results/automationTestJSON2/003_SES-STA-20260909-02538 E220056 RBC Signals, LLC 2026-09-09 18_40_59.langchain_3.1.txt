@@ -1,0 +1,8 @@
+{
+  "Name": "NGSO",
+  "Uplink Frequency": null,
+  "Downlink Frequency": null,
+  "Active/Inactive": null,
+  "Source/Company Origin": "RBC Signals, LLC",
+  "Orbit Type": "480-550 km; 97.5\u00b0 inclination"
+}

@@ -1,0 +1,39 @@
+Starting RAG Pipeline Test...
+RAG System Test Results
+==================================================
+
+Test 1: Describe satellite in terms of ID, Name, frequencies and bandwidths, Active or inactive, source or origin, orbit type
+----------------------------------------
+Response: Based on the provided context information, here is a description of satellites in terms of ID, Name, frequencies, bandwidths, Active or inactive status, and source or origin:
+
+- **ID**: Unique identifier for each satellite.
+- **Name**: The name given to the satellite by its owner or operator.
+- **Frequencies**: The range of frequencies used by the satellite for communication or other purposes. These can include radio frequency (RF), microwave, infrared, etc.
+- **Bandwidths**: The amount of data that can be transmitted through a satellite in a given time period. This can vary depending on the specific application and usage.
+- **Active or inactive**: Indicates whether the satellite is currently operational or not. Active satellites are those that are transmitting or receiving signals, while inactive satellites may be turned off for maintenance, repair, or other reasons.
+- **Source or origin**: Describes where the satellite was created or developed. This can include countries, research institutions, private companies, etc.
+
+Examples of satellites based on this description:
+
+- ID: 1
+  Name: MuSat-2 and Musat-3 is a new NGSO climate-focused satellite network.
+  Frequencies: 17/24 GHz BSS space station
+  Bandwidths: Not specified
+  Active or inactive: Active
+  Source or origin: Private company
+
+- ID: 2
+  Name: Sched S Tech Report.pdfconvert.json
+  Frequencies: file_path: /home/april/research/pdfparse/pdfs/Sched S Tech Report.pdfconvert.json
+  Bandwidths: Not specified
+  Active or inactive: Inactive (not currently operational)
+  Source or origin: Research institution
+
+- ID: 3
+  Name: Question
+  Frequencies: Not specified
+  Bandwidths: Not specified
+  Active or inactive: Not specified
+  Source or origin: Self-referential table with no clear source or origin.
+Status: SUCCESS
+----------------------------------------

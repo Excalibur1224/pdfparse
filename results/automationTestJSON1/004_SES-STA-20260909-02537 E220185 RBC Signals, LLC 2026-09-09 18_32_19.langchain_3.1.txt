@@ -1,0 +1,8 @@
+{
+  "Name": "Impulse-2",
+  "Uplink Frequency": null,
+  "Downlink Frequency": "8495 MHz",
+  "Status": null,
+  "Company Origin": "RBC Signals, LLC",
+  "Orbit Type": "Non-Geostationary Orbit Spacecraft"
+}

@@ -1,0 +1,8 @@
+{
+  "Name": "13M",
+  "Uplink Frequencies": [6454.4, 6456.6],
+  "Downlink Frequencies": [6454.4, 6456.6],
+  "Status": "Active",
+  "Source/Company Origin": "COMSAT LLC",
+  "Orbit Type": "Geostationary"
+}

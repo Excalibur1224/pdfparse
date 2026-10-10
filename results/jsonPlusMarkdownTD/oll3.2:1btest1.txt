@@ -1,0 +1,15 @@
+Starting RAG Pipeline Test...
+Describe satellite from description in terms of Name, frequencies and bandwidths, Active or inactive, source or company origin, and orbit typein the order as described
+----------------------------------------
+Response: Based on the provided context information, here is a description of the satellite in the requested order:
+
+1. **Name**: FM-6 (Digital Audio Radio Service)
+2. **Frequencies**:
+   - Downlink frequency band: 2320.0-2332.5 MHz
+   - Uplink broadcast transmissions use X-band frequencies in the 7050.5-7072.5 MHz band
+3. **Bandwidths**: DARS (Digital Audio Radio Service) radio frequency band, X-band and S-band
+4. **Active or inactive**: Active (downlink operation)
+5. **Source or company origin**: Sirius XM Radio Inc.
+6. **Orbit type**: Geostationary (GEO) constellation
+Status: SUCCESS
+----------------------------------------

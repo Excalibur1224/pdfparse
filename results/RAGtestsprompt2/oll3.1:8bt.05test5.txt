@@ -1,0 +1,26 @@
+Starting RAG Pipeline Test...
+RAG System Test Results
+==================================================
+
+Test 1: Describe satellite in terms of ID, Name, frequencies and bandwidths, Active or inactive, source or origin, orbit type
+----------------------------------------
+Response: There is no mention of a satellite in the provided context information. The text appears to be a PDF file containing encoded data, possibly related to research or technical documentation. It includes various objects, streams, and metadata but does not reference any satellite-related information.
+
+However, if we were to interpret this response as an opportunity to provide general knowledge about satellites, here's a possible answer:
+
+A satellite is typically identified by its unique identifier (ID), which can be a combination of letters and numbers assigned by the organization that launched it. The name of the satellite often reflects its purpose or function.
+
+Satellites operate on specific frequencies, which are ranges of electromagnetic radiation used for communication, navigation, or other purposes. These frequencies can vary depending on the type of signal being transmitted or received.
+
+The bandwidth of a satellite refers to the range of frequencies it uses to transmit data. It's an essential factor in determining the capacity and efficiency of the satellite's communication system.
+
+As for its status, a satellite can be either active (operating as intended) or inactive (no longer functioning). The source or origin of a satellite is typically the organization that designed, built, and launched it.
+
+Orbit type refers to the path the satellite follows around the Earth. Common types include geostationary orbit (GEO), low Earth orbit (LEO), medium Earth orbit (MEO), and polar orbit, among others. Each type of orbit has its advantages and disadvantages depending on the mission requirements.
+
+Please note that this answer is not directly related to the provided context but rather a general description of satellites based on common knowledge.
+Status: SUCCESS
+----------------------------------------
+
+RAG system is working correctly!
+You can now use the query_engine to ask questions about your documents.

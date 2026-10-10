@@ -1,0 +1,16 @@
+{
+  "Name": "Anduril-216 Mission",
+  "Frequencies": [
+    {
+      "Band": "400.15-401 MHz"
+    }
+  ],
+  "Bandwidths": [
+    {
+      "Bandwidth": "0.85 MHz"
+    }
+  ],
+  "Status": "Active",
+  "Source": "RBC Signals, LLC",
+  "OrbitType": "Not specified"
+}

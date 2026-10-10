@@ -1,0 +1,17 @@
+Starting RAG Pipeline Test...
+RAG System Test Results
+==================================================
+
+Test 1: Describe satellite in terms of ID, Name, frequencies and bandwidths, Active or inactive, source or origin, orbit type
+----------------------------------------
+Response: Based on the provided context information from the PDF file, here is a description of satellites in terms of ID, Name, frequencies and bandwidths, Active or inactive, source or origin, and orbit type:
+
+- **ID**: The satellite's unique identifier.
+- **Name**: A descriptive name for the satellite.
+- **Frequencies**: The range of frequencies used by the satellite. In this case, it is mentioned that the applicable power-flux-density limits are 25.208 met, which suggests that the satellite operates at a specific frequency band.
+- **Bandwidths**: The range of bandwidths used by the satellite. However, in this context, it seems more relevant to focus on frequencies and their associated limitations rather than bandwidths directly.
+- **Active or inactive**: Indicates whether the satellite is currently operational (active) or not (inactive).
+- **Source or origin**: Refers to the location or source of the satellite. In this case, it mentions "NGSO" which stands for Near-Ground Space Object, indicating that the satellite is a space object orbiting near the Earth's surface.
+- **Orbit type**: Describes the type of orbit the satellite follows. The provided context information does not specify the exact orbit type but mentions "TOPLEFT", suggesting it could be an equatorial or similar orbit.
+Status: SUCCESS
+----------------------------------------

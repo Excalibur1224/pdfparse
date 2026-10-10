@@ -1,0 +1,14 @@
+Starting RAG Pipeline Test...
+Describe satellite from description in terms of Name, frequencies and bandwidths, Active or inactive, source or company origin, and orbit typein the order as described
+----------------------------------------
+Response: FM-6 Satellite:
+Name: FM-6
+Frequencies and Bandwidths: 
+   - Downlink frequency band: 2310-2360 MHz (no PFD limits)
+   - Uplink broadcast transmissions: X-band frequencies in the 7050.5-7072.5 MHz band
+   - DARS radio frequency band for downlink operation: 2320.0-2332.5 MHz
+Active or inactive: Active
+Source or company origin: Sirius XM
+Orbit type: Geostationary
+Status: SUCCESS
+----------------------------------------

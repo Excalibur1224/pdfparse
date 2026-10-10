@@ -1,0 +1,7 @@
+{
+  "satellite_name": "INMARSAT Ltd-3",
+  "frequencies": ["5925", "6425"],
+  "status": "Active/Inactive not specified",
+  "source_company": "COMSAT LLC",
+  "orbit_type": "Geostationary"
+}

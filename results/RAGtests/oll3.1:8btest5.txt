@@ -1,0 +1,22 @@
+Starting RAG Pipeline Test...
+RAG System Test Results
+==================================================
+
+Test 1: Describe satellite in terms of ID, Name, MHz Frequency, kHz Bandwidth, Active or inactive, source, orbit type
+----------------------------------------
+Response: There is no mention of a satellite in the provided context information. The text appears to be related to PDF parsing and contains technical details about fonts, filters, and streams, but does not contain any information about satellites.
+
+However, if we were to assume that the context is related to some kind of communication or transmission system, here's an attempt at providing a generic answer:
+
+* ID: Unknown
+* Name: Unspecified
+* MHz Frequency: Not specified
+* kHz Bandwidth: Not applicable (assuming it refers to a specific type of signal)
+* Active or inactive: Unknown
+* Source: Unidentified
+* Orbit type: N/A (assuming this is related to satellite communications, but there's no information about satellites in the provided context)
+Status: SUCCESS
+----------------------------------------
+
+RAG system is working correctly!
+You can now use the query_engine to ask questions about your documents.

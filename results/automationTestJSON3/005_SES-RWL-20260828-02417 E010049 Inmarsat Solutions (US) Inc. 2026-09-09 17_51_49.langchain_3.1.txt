@@ -1,0 +1,7 @@
+{
+  "Name": "",
+  "Frequencies": [],
+  "Status": "",
+  "Source": "",
+  "OrbitType": ""
+}

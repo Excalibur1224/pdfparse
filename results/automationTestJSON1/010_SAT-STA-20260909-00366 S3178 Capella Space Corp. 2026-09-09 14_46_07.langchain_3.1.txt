@@ -1,0 +1,8 @@
+{
+  "Name": "Capella Space Corp.",
+  "Uplink Frequency": null,
+  "Downlink Frequency": null,
+  "Status": "Active",
+  "Source/Company Origin": "Capella Space Corp.",
+  "Orbit Type": null
+}

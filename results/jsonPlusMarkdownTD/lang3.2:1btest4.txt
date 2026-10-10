@@ -1,0 +1,17 @@
+Starting RAG Pipeline Test...
+Describe satellite from description in terms of Name, frequencies and bandwidths, Active or inactive, source or company origin, and orbit typein the order as described
+----------------------------------------
+Response: Based on the provided context information, here is a description of the satellite in the requested order:
+
+1. **Name**: FM-6 (FM-6 Satellite)
+2. **Frequencies**:
+   - Active: X-band (4.5 Mb/s digital stream)
+   - Inactive: S-band (receiving signals from satellites and subscribers)
+3. **Bandwidths**:
+   - Digital Stream: 1.35 Mb/s
+   - S-band: up to 19 kW of power at the end of life (equinox), used for receiving signals from satellites and subscribers
+4. **Source or Company Origin**: Sirius XM, a company providing digital transmission services
+5. **Orbit Type**:
+   - Active: Geostationary (GEO) constellation with one satellite operating identically in the hybrid or GEO constellation when active
+Status: SUCCESS
+----------------------------------------

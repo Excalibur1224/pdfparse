@@ -1,0 +1,6 @@
+Starting RAG Pipeline Test...
+Describe satellite from description in terms of Name, frequencies and bandwidths, Active or inactive, source or company origin, and orbit typein the order as described as comma seperated values for insertion into a database
+----------------------------------------
+Response: FM-6, FM-1/2/3/5, Sirius XM, Satellite, Space Systems/Loral 1300 standard, X-band, S-band, PSK modulation, QPSK, convolutional encoding, outer coding, Reed Solomon, modulation diversity, time diversity, relay satellite, hybrid constellation, GEO constellation, FM-6 satellite, FM-1/2/3/5 satellites, Sirius XM programming center, New York City, Washington DC, remote studios, ground command, fixed gain mode, automatic level control (ALC), low density parity check code, BCH code, transmission capacity, uplink earth station complex, Vernon, NJ, delayed 3-4 seconds, 4-phase PSK modulation, X-band to S-band relay, satellite filter response, out-of-band attenuation, in-band gain and group delay response, solar array area, satellite body area, X-band antenna area, S-band antenna area, total Solar Pressure Area 'A', minimum disposal orbit perigee altitude, post-mission disposal fuel budget, launch contractor, collision avoidance maneuvers, launch analysis of in-flight profile planning
+Status: SUCCESS
+----------------------------------------

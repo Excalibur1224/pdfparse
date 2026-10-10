@@ -1,0 +1,8 @@
+{
+  "Name": "Anduril-216 Mission",
+  "Uplink Frequencies": null,
+  "Downlink Frequencies": "400.15 - 401 MHz (center frequency: 400.5 MHz)",
+  "Status": "Active",
+  "Source/Company Origin": "RBC Signals, LLC",
+  "Orbit Type": null
+}

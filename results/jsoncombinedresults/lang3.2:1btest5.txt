@@ -1,0 +1,44 @@
+Starting RAG Pipeline Test...
+RAG System Test Results
+==================================================
+examine
+Test 1: Describe satellite in terms of ID, Name, frequencies and bandwidths, Active or inactive, source or origin, orbit type
+----------------------------------------
+Response: Based on the provided JSON data, here is a description of satellites in terms of ID, Name, frequencies and bandwidths, Active or inactive, source or origin, and orbit type:
+
+- ID: 
+  - 29 (MuSat-2 and Musat-3)
+  - 215
+  - 216
+  - 217
+  - 218
+
+- Name:
+  - MuSat 2-3 Antenna Ga
+  - Attachment B Predicted Gain Contours
+  - Consistent with 47 C.F.R. \u00a7 25.114(c)(4)(vi)(B)
+  - 47 C.F.R. \u00a7 25.114(c)(4)(vi)(B): For space stations in non-geostationary orbits
+
+- Frequencies and Bandwidths:
+  - 29: 
+    - Frequency: Not specified
+    - Bandwidth: Not specified
+  - 215, 216, 217, 218: 
+    - Frequency: Not specified
+    - Bandwidth: Not specified
+
+- Active or Inactive:
+  - Attachment B Predicted Gain Contours (Active)
+  - Consistent with 47 C.F.R. \u00a7 25.114(c)(4)(vi)(B) (Active)
+
+- Source or Origin:
+  - MuSat 2-3 Antenna Ga: 
+    - Source: Not specified
+    - Origin: Not specified
+
+- Orbit Type:
+  - Attachment B Predicted Gain Contours: 
+    - Orbital Plane: Non-geostationary orbits
+    - Orbit Type: Not specified
+Status: SUCCESS
+----------------------------------------

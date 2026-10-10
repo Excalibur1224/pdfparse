@@ -1,0 +1,8 @@
+{
+  "Name": "Impulse-2",
+  "Uplink Frequency": null,
+  "Downlink Frequency": null,
+  "Status": "Active",
+  "Source/Company Origin": "RBC Signals, LLC",
+  "Orbit Type": null
+}

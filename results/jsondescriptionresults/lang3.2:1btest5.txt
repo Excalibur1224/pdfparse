@@ -1,0 +1,22 @@
+Starting RAG Pipeline Test...
+RAG System Test Results
+==================================================
+
+Test 1: Describe satellite in terms of ID, Name, frequencies and bandwidths, Active or inactive, source or origin, orbit type
+----------------------------------------
+Response: Based on the provided context information, here is a description of the satellite:
+
+- **ID**: FM-6 (FM-6 Satellite)
+- **Name**: The FM-6 satellite does not have a specific name mentioned in the given context.
+- **Frequencies**: The frequencies mentioned are:
+  - X-band: 2320-2332.5 MHz
+  - DARS band: 2320-2332.5 MHz (broadcast service), 2322.29 MHz (Chan. 1) or 2330.21 MHz (Chan. 2)
+  - LHC polarization: Left Hand Circular (LHC)
+- **Bandwidths**: The bandwidths mentioned are:
+  - X-band: 4.50 MHz
+  - DARS band: 4.50 MHz
+  - LHC polarization: 12.5 MHz
+- **Active or inactive**: The satellite is active and operational.
+- **Source or origin**: The source or origin of the satellite is not explicitly mentioned, but it can be inferred that it is a satellite launched by Space Systems/Loral (SSL) for Sirius Communications.
+Status: SUCCESS
+----------------------------------------

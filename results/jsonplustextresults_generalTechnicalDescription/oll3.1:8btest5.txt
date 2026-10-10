@@ -1,0 +1,11 @@
+Starting RAG Pipeline Test...
+RAG System Test Results
+==================================================
+
+Test 1: Describe satellite from json formatted description in terms of Name, frequencies and bandwidths, Active or inactive, source or origin, orbit type in comma seperated format to be inserted into a database
+----------------------------------------
+Response: FM-6, 2320.0-2332.5 MHz (DARS radio frequency band), Inactive, Sirius XM, Geostationary 
+
+Note: The information is based on the provided JSON formatted description and does not include any prior knowledge.
+Status: SUCCESS
+----------------------------------------

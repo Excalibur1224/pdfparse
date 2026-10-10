@@ -1,0 +1,14 @@
+{
+    "Name": "Impulse-2",
+    "Frequencies": {
+        "Transmit Center Frequency": 2044 MHz,
+        "Receive Center Frequency": null
+    },
+    "Bandwidths": [
+        135 kHz,
+        675 KHz
+    ],
+    "Status": "Active",
+    "Source": "RBC Signals, LLC",
+    "Orbit Type": "NGSO"
+}

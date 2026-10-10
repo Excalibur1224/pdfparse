@@ -1,0 +1,27 @@
+Starting RAG Pipeline Test...
+RAG System Test Results
+==================================================
+
+Test 1: Describe satellite in terms of ID, Name, frequencies and bandwidths, Active or inactive, source or origin, orbit type
+----------------------------------------
+Response: Based on the provided context information about the PDF file, here's a description of satellites in terms of ID, Name, frequencies, bandwidths, status (active/inactive), and origin/originator:
+
+- **ID**: The unique identifier for each satellite.
+- **Name**: A descriptive name or designation given to the satellite by its originator or source.
+- **Frequencies**: The range of radio frequencies used by the satellite. In this case, it's mentioned that there are various frequencies associated with different satellites.
+- **Bandwidths**: The range of bandwidths used by each satellite for transmitting and receiving data. This information is not explicitly provided in the query but can be inferred from the context.
+- **Active or inactive**: Indicates whether the satellite is currently operational (active) or not (inactive).
+- **Source or origin**: Refers to the entity that created, launched, or assigns the satellite. In this case, it's mentioned that the satellite was assigned by the Federal Communications Commission (FCC).
+
+Given the context information and without prior knowledge, we can infer some additional details:
+
+- The satellites are likely part of a larger system or network used for communication, data transmission, or other purposes.
+- The frequencies and bandwidths mentioned might be specific to certain applications or services provided by these satellites.
+- The originator or source of the satellite is the Federal Communications Commission (FCC), which is responsible for assigning unique identifiers and managing communications systems in the United States.
+
+Without more context or information about the specific satellites, it's challenging to provide a detailed description. However, based on the provided details, we can infer that these satellites are part of a larger system used for communication purposes, with various frequencies and bandwidths associated with them.
+Status: SUCCESS
+----------------------------------------
+
+RAG system is working correctly!
+You can now use the query_engine to ask questions about your documents.

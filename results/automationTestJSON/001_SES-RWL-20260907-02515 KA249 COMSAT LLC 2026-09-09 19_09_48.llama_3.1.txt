@@ -1,0 +1,12 @@
+{
+  "Name": "13M",
+  "Frequencies": [
+    {
+      "Range": "6454.4-6456.6 MHz"
+    }
+  ],
+  "Bandwidths": [],
+  "Status": "Active",
+  "Source": "COMSAT LLC",
+  "OrbitType": "Geostationary"
+}

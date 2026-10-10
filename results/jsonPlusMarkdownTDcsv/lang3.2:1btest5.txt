@@ -1,0 +1,6 @@
+Starting RAG Pipeline Test...
+Describe satellite from description in terms of Name, frequencies and bandwidths, Active or inactive, source or company origin, and orbit typein the order as described as comma seperated values for insertion into a database
+----------------------------------------
+Response: FM-6, FM-1/2/3/5, Sirius XM, Satellite, Earth Station Complex, Vernon, NJ, X-band, S-band, Hybrid Constellation, GEO Constellation, Low Density Parity Check (LDPC) Code, BCH Code, Delayed 3-4 seconds time diversity, 4-phase PSK modulation (QPSK), 1.35 Mb/s throughput
+Status: SUCCESS
+----------------------------------------

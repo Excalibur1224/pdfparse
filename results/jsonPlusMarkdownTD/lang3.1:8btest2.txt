@@ -1,0 +1,14 @@
+Starting RAG Pipeline Test...
+Describe satellite from description in terms of Name, frequencies and bandwidths, Active or inactive, source or company origin, and orbit typein the order as described
+----------------------------------------
+Response: FM-6 satellite
+Frequencies:
+- Command/Ranging Frequencies/Polarization: 7052.0 MHz (LHCP) 7056.0 MHz (LHCP)
+- Telemetry/Ranging Frequencies: 2321.5 MHz (RHCP), 2322.0 MHz (RHCP), 2330.5 MHz (RHCP), and 2331.0 MHz (RHCP)
+Bandwidths:
+- Not explicitly mentioned
+Active or inactive: Active
+Source or company origin: Space Systems/Loral
+Orbit type: GEO positioned at 116.15 o WL
+Status: SUCCESS
+----------------------------------------

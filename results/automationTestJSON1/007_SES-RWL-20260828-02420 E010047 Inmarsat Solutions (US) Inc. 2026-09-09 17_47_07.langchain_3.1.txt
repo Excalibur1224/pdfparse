@@ -1,0 +1,8 @@
+{
+  "Name": "",
+  "Uplink Frequencies": [],
+  "Downlink Frequencies": [],
+  "Status": "",
+  "Source/Company Origin": "",
+  "Orbit Type": ""
+}

@@ -1,0 +1,8 @@
+{
+  "Name": "Myriota",
+  "Frequencies": null,
+  "Bandwidths": null,
+  "Status": "Active",
+  "Source": "Myriota Pty Ltd",
+  "OrbitType": null
+}

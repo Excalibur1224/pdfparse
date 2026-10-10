@@ -1,0 +1,13 @@
+Starting RAG Pipeline Test...
+RAG System Test Results
+==================================================
+
+Test 1: Describe satellite from json formatted description in terms of ID, Name, frequencies and bandwidths, Active or inactive, source or origin, orbit type in comma seperated format to be inserted into a database
+----------------------------------------
+Response: file_path: /home/april/research/pdfparse/pdfs/TechnicalDescription.pdfconvert.json
+
+ satellite_id,Name,frequencies,bandwidth,active,source,orbit_type 
+ FM-6,Satellite XM,2320.0-2332.5 MHz,DARS,Active,Sirius XM,Geostationary 
+ Sirius  XM  Satellite  Fleet  currently  uses  the  X-band  uplink broadcast frequency and the command  frequency transmissions. Therefore, the uplink transmissions  out-of-band  flux  densities  will  not  interfere  with  any  other  operators'  on-orbit satellites.
+Status: SUCCESS
+----------------------------------------

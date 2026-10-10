@@ -1,0 +1,8 @@
+{
+  "Name": "",
+  "Frequencies": [],
+  "Bandwidths": [],
+  "Status": "Active",
+  "Source": "Capella Space Corp.",
+  "OrbitType": ""
+}

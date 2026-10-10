@@ -1,0 +1,15 @@
+Starting RAG Pipeline Test...
+RAG System Test Results
+==================================================
+
+Test 1: Describe satellite from json formatted description in terms of ID, Name, frequencies and bandwidths, Active or inactive, source or origin, orbit type in comma seperated format to be inserted into a database
+----------------------------------------
+Response: There is no mention of a "satellite" in the provided context information. However, based on the data, it appears to describe technical specifications related to an antenna system.
+
+If we were to extract relevant information from this data and insert it into a database, here's what it could look like:
+
+ID, Name, Frequencies, Bandwidths, Active/Inactive, Source, Orbit Type
+
+1, Omni Antenna, Nominal EIRP at Omni Antenna (dBm), Not specified, Inactive, CMD, Geostationary
+Status: SUCCESS
+----------------------------------------

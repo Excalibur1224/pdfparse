@@ -1,0 +1,8 @@
+{
+  "Name": "",
+  "Frequencies": [],
+  "Bandwidths": [],
+  "Active/Inactive": "",
+  "Source/Company Origin": "",
+  "Orbit Type": ""
+}

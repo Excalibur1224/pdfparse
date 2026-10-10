@@ -1,0 +1,19 @@
+Starting RAG Pipeline Test...
+RAG System Test Results
+==================================================
+
+Test 1: Describe satellite in terms of ID, Name, frequencies and bandwidths, Active or inactive, source or origin, orbit type
+----------------------------------------
+Response: The FM-6 satellite is identified as a geostationary DARS (Digital Audio Radio Service) satellite. It will use the 2320.0-2332.5 MHz DARS radio frequency band for downlink operation and has two selectable frequencies available for transponder operation.
+
+Its uplink broadcast transmissions will utilize X-band frequencies in the 7050.5-7072.5 MHz band.
+
+The FM-6 satellite is described as being transparent, or a 'bent-pipe', type of transponder, indicating it does not modify the signal but rather simply relays it.
+
+It supports digital communications traffic and has an orbital location at 116.15 degrees West Longitude.
+
+The source or origin of this information appears to be related to a request for Commission authority from Sirius XM.
+
+As for its status, the FM-6 satellite is described as being operational in early 2012, serving as backup to FM-5, and eventually transitioning to a two-satellite geostationary constellation configuration.
+Status: SUCCESS
+----------------------------------------

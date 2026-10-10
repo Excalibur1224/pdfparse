@@ -1,0 +1,10 @@
+{
+  "satellite": {
+    "name": "",
+    "frequencies": [],
+    "status": "inactive",
+    "source": "",
+    "company_origin": "",
+    "orbit_type": ""
+  }
+}

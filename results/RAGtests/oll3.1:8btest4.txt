@@ -1,0 +1,21 @@
+Starting RAG Pipeline Test...
+RAG System Test Results
+==================================================
+
+Test 1: Describe satellite in terms of ID, Name, MHz Frequency, kHz Bandwidth, Active or inactive, source, orbit type
+----------------------------------------
+Response: There is no mention of a "satellite" in the provided context. However, I can provide information on a different entity that matches some of the query parameters.
+
+ Entity:
+ID: Not specified
+Name: Sched S Tech Report.pdf
+MHz Frequency: Not applicable (this appears to be a PDF file)
+kHz Bandwidth: Not applicable
+Active or inactive: This is not relevant to a PDF file, but it can be considered as "active" since it's being referenced.
+Source: The source of this entity is likely a research project or a document repository.
+Orbit type: Not applicable (this appears to be a PDF file and does not relate to any orbit type)
+Status: SUCCESS
+----------------------------------------
+
+RAG system is working correctly!
+You can now use the query_engine to ask questions about your documents.

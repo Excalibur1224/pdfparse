@@ -1,0 +1,17 @@
+Starting RAG Pipeline Test...
+RAG System Test Results
+==================================================
+
+Test 1: Describe satellite in terms of ID, Name, frequencies and bandwidths, Active or inactive, source or origin, orbit type
+----------------------------------------
+Response: The FM-6 satellite is a geostationary DARS satellite located at 116.15 degrees West Longitude. It uses the 2320.0-2332.5 MHz DARS radio frequency band for downlink operation.
+
+The Sirius NGO satellites were launched in the latter portion of 2000.
+
+The FM-6 satellite will operate at the 116.15 degrees West Longitude orbital location.
+
+The Sirius XM satellite fleet currently uses X-band frequencies for uplink broadcast and command frequency transmissions, specifically in the 7050.5-7072.5 MHz band for uplink.
+
+The FM-5 satellite is planned to be relocated to a location close to 85.0 degrees West Longitude as part of a transition to a two geostationary satellite constellation.
+Status: SUCCESS
+----------------------------------------

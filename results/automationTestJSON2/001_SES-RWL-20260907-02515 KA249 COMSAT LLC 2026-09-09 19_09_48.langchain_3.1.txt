@@ -1,0 +1,8 @@
+{
+  "Name": "INMARSAT Ltd-3",
+  "Uplink Frequencies": [5925, 6425],
+  "Downlink Frequencies": [46, 168],
+  "Status": "Active or Inactive not specified",
+  "Source/Company Origin": "COMSAT LLC",
+  "Orbit Type": "Geostationary"
+}

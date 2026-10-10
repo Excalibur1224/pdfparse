@@ -1,0 +1,14 @@
+Starting RAG Pipeline Test...
+Describe satellite from description in terms of Name, frequencies and bandwidths, Active or inactive, source or company origin, and orbit typein the order as described
+----------------------------------------
+Response: The satellite system involves satellites such as FM-6 and FM-5, along with three Sirius NGO satellites.
+
+Regarding frequencies and bandwidths, the FM-6 satellite uses the 2320.0-2332.5 MHz DARS radio frequency band for downlink operation, and uplink broadcast transmissions use X-band frequencies in the 7050.5-7072.5 MHz band.
+
+The communications link transmissions from the satellite can be turned on and off by ground command, allowing for cessation of emissions.
+
+The origin is associated with Sirius XM Radio Inc.
+
+The FM-6 satellite is described as a geostationary DARS satellite.
+Status: SUCCESS
+----------------------------------------

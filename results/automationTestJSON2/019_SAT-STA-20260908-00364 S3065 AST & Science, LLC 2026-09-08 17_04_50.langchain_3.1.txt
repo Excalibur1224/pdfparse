@@ -1,0 +1,8 @@
+{
+  "Name": "AST SpaceMobile network's broadband supplemental coverage from space (SCS)",
+  "Uplink Frequency": "817-824 MHz",
+  "Downlink Frequency": "862-869 MHz",
+  "Status": "Active",
+  "Source/Company Origin": "AST & Science, LLC",
+  "Orbit Type": "Nongeostationary orbit"
+}

@@ -1,0 +1,20 @@
+Starting RAG Pipeline Test...
+RAG System Test Results
+==================================================
+
+Test 1: Describe satellite in terms of ID, Name, MHz Frequency, kHz Bandwidth, Active or inactive, source, orbit type
+----------------------------------------
+Response: There is no mention of a "satellite" in the provided context. However, I can provide information on a hypothetical entity that matches the query.
+
+ID: Unknown
+Name: Unnamed Entity
+MHz Frequency: Not specified
+kHz Bandwidth: Not specified
+Active or inactive: Unknown
+Source: No source mentioned
+Orbit type: No orbit type mentioned
+Status: SUCCESS
+----------------------------------------
+
+RAG system is working correctly!
+You can now use the query_engine to ask questions about your documents.

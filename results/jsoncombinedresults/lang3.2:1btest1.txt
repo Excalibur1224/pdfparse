@@ -1,0 +1,52 @@
+Starting RAG Pipeline Test...
+RAG System Test Results
+==================================================
+examine
+Test 1: Describe satellite in terms of ID, Name, frequencies and bandwidths, Active or inactive, source or origin, orbit type
+----------------------------------------
+Response: Based on the provided JSON data, here is a description of satellites in terms of ID, Name, frequencies and bandwidths, Active or inactive, source or origin, and orbit type:
+
+- ID: 
+  - 29: MuSat-2 and Musat-3
+  - 215: MuSat 2-3 Antenna Ga
+  - 216: Attachment B Predicted Gain Contours
+  - 217: MuSat 2-3 Antenna Ga
+
+- Name:
+  - MuSat 2-3 Antenna Ga
+  - Attachment B Predicted Gain Contours
+  - Consistent with 47 C.F.R. \u00a7 25.114(c)(4)(vi)(B), below, Muon Space provides predicted antenna gain contours depicted on the surface of the earth at the anticipated initial earth station locations.
+
+- Frequencies and Bandwidths:
+  - 29: 
+    - Frequency: Not specified
+    - Bandwidth: Not specified
+
+  - 215: 
+    - Frequency: FCC License Application Technical Attachment (not specified)
+    - Bandwidth: Not specified
+
+  - 216: 
+    - Frequency: Attachment B Predicted Gain Contours (not specified)
+    - Bandwidth: Not specified
+
+  - 217: 
+    - Frequency: Consistent with 47 C.F.R. \u00a7 25.114(c)(4)(vi)(B), below, Muon Space provides predicted antenna gain contours depicted on the surface of the earth at the anticipated initial earth station locations.
+
+- Active or Inactive:
+  - 29: Active
+  - 215: Inactive
+  - 216: Inactive
+  - 217: Active
+
+- Source or Origin:
+  - MuSat 2-3 Antenna Ga: Muon Space
+  - Attachment B Predicted Gain Contours: Consistent with 47 C.F.R. \u00a7 25.114(c)(4)(vi)(B), below, Muon Space provides predicted antenna gain contours depicted on the surface of the earth at the anticipated initial earth station locations.
+
+- Orbit Type:
+  - 29: Geostationary orbit
+  - 215: Non-geostationary orbit
+  - 216: Not specified
+  - 217: Geostationary orbit
+Status: SUCCESS
+----------------------------------------

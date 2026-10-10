@@ -1,0 +1,12 @@
+{
+  "satellite": {
+    "name": "Impulse-2",
+    "frequencies": [
+      "8495 MHz",
+      "2.9 MHz"
+    ],
+    "status": "Active", // Assuming it's active based on the context
+    "source": "RBC Signals, LLC",
+    "orbit_type": "Non-Geostationary Orbit (NGSO)"
+  }
+}

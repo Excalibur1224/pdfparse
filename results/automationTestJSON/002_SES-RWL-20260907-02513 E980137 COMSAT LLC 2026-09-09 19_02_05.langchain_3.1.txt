@@ -1,0 +1,8 @@
+{
+  "Name": "SATMEX-9",
+  "Frequencies": null,
+  "Bandwidths": null,
+  "Status": "Active",
+  "Source": "COMSAT LLC",
+  "OrbitType": null
+}

@@ -1,0 +1,6 @@
+Starting RAG Pipeline Test...
+Describe satellite from description in terms of Name, frequencies and bandwidths, Active or inactive, source or company origin, and orbit typein the order as described as comma seperated values for insertion into a database
+----------------------------------------
+Response: FM-6, 2320.0-2332.5 MHz downlink and 7050.5-7072.5 MHz uplink, active, Sirius XM, geostationary
+Status: SUCCESS
+----------------------------------------

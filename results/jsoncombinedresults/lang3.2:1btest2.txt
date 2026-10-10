@@ -1,0 +1,16 @@
+Starting RAG Pipeline Test...
+RAG System Test Results
+==================================================
+
+Test 1: Describe satellite in terms of ID, Name, frequencies and bandwidths, Active or inactive, source or origin, orbit type
+----------------------------------------
+Response: Based on the provided JSON data, here is a description of satellites in terms of ID, Name, frequencies and bandwidths, Active or inactive, source or origin, and orbit type:
+
+- **ID**: Various IDs are assigned to different satellites, but they can be grouped into categories such as "MuSat" (mentioned multiple times), "HSR", "FCC License Application Technical Attachment", etc.
+- **Name**: The names of the satellites include specific details like "MuSat 2-3 Antenna Ga.pdfconvert.json", which indicates their purpose and location. Other names mentioned are related to technical attachments, such as "Attachment B Predicted Gain Contours".
+- **Frequencies and Bandwidths**: Satellites have various frequencies and bandwidths associated with them. For example, the "HSR Tx antenna footprints Hartebeesthoek station at nadir" satellite has a specific frequency range mentioned.
+- **Active or Inactive**: The status of satellites can be either active or inactive. Some satellites are mentioned as having been used for specific purposes (e.g., "Attachment B Predicted Gain Contours"), while others may not be actively in use.
+- **Source or Origin**: Satellites can originate from various sources, including space stations, ground-based facilities, and even other countries. The origin of the "HSR Tx antenna footprints Hartebeesthoek station at nadir" satellite is specified as being related to a specific location (Hartebeesthoek).
+- **Orbit Type**: Satellites can be classified into different orbit types based on their altitude, inclination, and other characteristics. The "MuSat 2-3 Antenna Ga.pdfconvert.json" satellite is mentioned to have an active status in a specific orbit type ("nadir"), while the "HSR Tx antenna footprints Hartebeesthoek station at nadir" satellite has a different orbit type (atmospheric).
+Status: SUCCESS
+----------------------------------------

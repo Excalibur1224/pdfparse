@@ -1,0 +1,24 @@
+Starting RAG Pipeline Test...
+RAG System Test Results
+==================================================
+
+Test 1: Describe satellite in terms of ID, Name, frequencies and bandwidths, Active or inactive, source or origin, orbit type
+----------------------------------------
+Response: The satellite is identified as FM-6. It will be a geostationary DARS (Digital Audio Radio Service) satellite located at 116.15 degrees West Longitude.
+
+It can receive the X-band feeder link on any of three carriers in the 7050.5-7072.5 MHz band, and transmit on either of three carriers in the 2320-2332.5 MHz band.
+
+The bandwidths mentioned are:
+
+* A 4.50 MHz bandwidth centered at either 2322.29 MHz (Chan. 1) or 2330.21 MHz (Chan. 2)
+* A 12.5 MHz bandwidth channel centered at 2326.25 MHz (Channel 3)
+
+It is also stated that the satellite will operate identically in either the hybrid or GEO constellation.
+
+The source or origin of the satellite is Sirius XM, and it will be used to provide backup to FM-5.
+
+As for its status, it is mentioned that when FM-6 becomes operational in early 2012, the NGO satellites will be 12 years old. This implies that FM-6 was planned to be active at some point in time.
+
+The orbit type of the satellite is geostationary.
+Status: SUCCESS
+----------------------------------------

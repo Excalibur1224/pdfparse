@@ -1,0 +1,15 @@
+Starting RAG Pipeline Test...
+RAG System Test Results
+==================================================
+
+Test 1: Describe satellite in terms of ID, Name, frequencies and bandwidths, Active or inactive, source or origin, orbit type
+----------------------------------------
+Response: The satellite is identified as FM-6. It will be a geostationary DARS (Digital Audio Radio Service) satellite located at 116.15 degrees West Longitude.
+
+It can receive the X-band feeder link on any of three carriers in the 7050.5-7072.5 MHz band, and it has the capability to transmit on either of three carriers in the 2320-2332.5 MHz band.
+
+The satellite will operate identically in either the hybrid or GEO constellation, and when active, it will transmit the legacy and overlay modulated signal to system receivers.
+
+It is not specified whether the satellite is currently active or inactive, but it is mentioned that FM-6 will become operational in early 2012.
+Status: SUCCESS
+----------------------------------------

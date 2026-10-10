@@ -1,0 +1,9 @@
+{
+  "Name": null,
+  "Frequencies": null,
+  "Bandwidths": null,
+  "Active": false,
+  "Source": null,
+  "Company Origin": null,
+  "Orbit Type": null
+}

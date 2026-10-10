@@ -1,0 +1,20 @@
+Starting RAG Pipeline Test...
+RAG System Test Results
+==================================================
+
+Test 1: Describe satellite from the document in terms of ID, Name, MHz Frequency, kHz Bandwidth, Active or inactive, source, orbit type
+----------------------------------------
+Response: Based on the provided context information, I will attempt to describe the satellite from the document in terms of the specified parameters.
+
+- ID: Not explicitly mentioned, but based on the format and content, it appears to be a PDF file containing technical data about satellites.
+- Name: The name "Schedule S System" suggests that this is related to a specific system or network used by the Federal Communications Commission (FCC).
+- MHz Frequency: 25076.3877 MHz
+- kHz Bandwidth: Not explicitly mentioned, but based on the context, it seems to be a high-frequency signal.
+- Active or inactive: The document does not provide clear information about whether this satellite is active or inactive.
+- Source: The source of the data appears to be the Federal Communications Commission (FCC).
+- Orbit type: The orbit type is not explicitly mentioned, but based on the context, it seems to be a geostationary orbit.
+Status: SUCCESS
+----------------------------------------
+
+RAG system is working correctly!
+You can now use the query_engine to ask questions about your documents.

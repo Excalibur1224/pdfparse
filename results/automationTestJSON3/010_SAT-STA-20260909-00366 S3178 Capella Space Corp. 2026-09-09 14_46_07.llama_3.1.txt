@@ -1,0 +1,10 @@
+{
+  "Name": "Capella Space Corp. satellites",
+  "frequencies": {
+    "uplink": "2025 -2110 MHz (center frequency 2036 MHz, 1.4 MHz bandwidth)",
+    "downlink": "8025 -8400 MHz (center frequency 8027 MHz, 1.4 MHz bandwidth)"
+  },
+  "status": "Active",
+  "source": "Capella Space Corp.",
+  "orbit_type": "Mid-Inclination"
+}

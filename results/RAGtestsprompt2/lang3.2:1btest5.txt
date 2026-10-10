@@ -1,0 +1,22 @@
+Starting RAG Pipeline Test...
+RAG System Test Results
+==================================================
+
+Test 1: Describe satellite in terms of ID, Name, frequencies and bandwidths, Active or inactive, source or origin, orbit type
+----------------------------------------
+Response: Based on the provided context information about the PDF file, here's a description of satellites in terms of ID, Name, frequencies and bandwidths, Active or inactive, source or origin, and orbit type:
+
+- **ID**: The unique identifier for each satellite.
+- **Name**: A descriptive name given to the satellite by its owner or operator.
+- **Frequencies**: The range of radio frequencies used by the satellite. In this case, it's mentioned that there are various frequencies used, but no specific ones are listed.
+- **Bandwidths**: The amount of data that can be transmitted through a particular frequency band per unit time. Again, specific bandwidths are not provided.
+- **Active or inactive**: Indicates whether the satellite is currently operational (active) or not (inactive).
+- **Source or origin**: Refers to where the satellite was manufactured or acquired from. In this case, it's mentioned that the satellite was manufactured by Federal Communications Commission (FCC), indicating its source of origin.
+- **Orbit type**: Describes the path that the satellite follows as it orbits around a celestial body, such as Earth.
+
+Given the context information provided in the PDF file, it appears to be related to data transmission and communication systems. The mention of frequencies, bandwidths, and orbit types suggests that the document is discussing satellite-based communication systems or data transmission protocols.
+Status: SUCCESS
+----------------------------------------
+
+RAG system is working correctly!
+You can now use the query_engine to ask questions about your documents.

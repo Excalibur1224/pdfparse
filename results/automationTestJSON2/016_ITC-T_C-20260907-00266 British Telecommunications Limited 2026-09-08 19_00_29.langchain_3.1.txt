@@ -1,0 +1,8 @@
+{
+  "Name": "",
+  "Uplink Frequency": null,
+  "Downlink Frequency": null,
+  "Status": "Inactive",
+  "Source": "",
+  "Orbit Type": ""
+}
