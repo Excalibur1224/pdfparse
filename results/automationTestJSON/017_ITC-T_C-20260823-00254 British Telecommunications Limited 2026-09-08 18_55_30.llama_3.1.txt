@@ -1,8 +1,0 @@
-{
-  "Name": null,
-  "frequencies": null,
-  "bandwidths": null,
-  "Active_or_inactive": null,
-  "source_company_origin": null,
-  "orbit_type": null
-}

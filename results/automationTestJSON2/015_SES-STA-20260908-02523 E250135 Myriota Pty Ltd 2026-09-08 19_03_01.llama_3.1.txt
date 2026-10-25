@@ -1,8 +1,0 @@
-{
-  "Name": "Myriota",
-  "Uplink Frequency": null,
-  "Downlink Frequency": null,
-  "Status": "Active",
-  "Source/Company Origin": "Myriota Pty Ltd",
-  "Orbit Type": null
-}

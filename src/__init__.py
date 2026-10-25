@@ -47,11 +47,11 @@ def rag(parent=DEFAULT_ROOT, output=DEFAULT_RAG_OUT, model="llama3.1:8b",
                               context_window=context_window)
 
 
-def merge(csv_file=DEFAULT_CSV, inputs=(DEFAULT_RAG_OUT,), company=None,
+def merge(csv_file=DEFAULT_CSV, inputs=(DEFAULT_RAG_OUT,),
           plain_bw=False, create=True, backup=True):
-    """Merge LLM output (JSON after the first ```) into the CSV, one row per band."""
-    from .insert import merge_into_csv                 # standard library only
-    return merge_into_csv(Path(csv_file), [Path(i) for i in inputs], company=company,
+    """Merge LLM output into the CSV, one row per band."""
+    from .insert import merge_into_csv                # standard library only
+    return merge_into_csv(Path(csv_file), [Path(i) for i in inputs],
                           plain_bw=plain_bw, create=create, backup=backup)
 
 
@@ -62,4 +62,4 @@ def run_all(root=DEFAULT_ROOT, output=DEFAULT_RAG_OUT, csv_file=DEFAULT_CSV,
     scrape(root, headless=headless, max_filings=max_filings)
     convert(root, formats=formats)
     rag(root, output, model=model, embed=embed, **rag_options)
-    return merge(csv_file, [output], company=company)
+    return merge(csv_file, [output])

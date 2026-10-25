@@ -1,9 +1,0 @@
-{
-  "Satellite": {
-    "Name": "Capella Space Corp.",
-    "Frequencies": null,
-    "Status": "Active",
-    "Source": "Company Origin",
-    "Orbit Type": null
-  }
-}

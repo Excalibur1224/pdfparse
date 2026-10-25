@@ -1,8 +1,0 @@
-{
-  "Name": null,
-  "Frequencies": null,
-  "Bandwidths": null,
-  "Status": "inactive",
-  "Source": "Vyvx, LLC",
-  "OrbitType": null
-}

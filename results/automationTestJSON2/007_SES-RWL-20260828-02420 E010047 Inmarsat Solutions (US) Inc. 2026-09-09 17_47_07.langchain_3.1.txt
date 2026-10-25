@@ -1,8 +1,0 @@
-{
-  "Name": null,
-  "Uplink Frequencies": null,
-  "Downlink Frequencies": null,
-  "Status": null,
-  "Source/Company Origin": null,
-  "Orbit Type": null
-}

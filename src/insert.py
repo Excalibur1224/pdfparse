@@ -5,7 +5,7 @@ add one CSV row per frequency band, in the satellite database format.
 Library use:   from satellite_pipeline import merge
 CLI use:
   python -m satellite_pipeline.insert database.csv out/ --backup
-  python -m satellite_pipeline.insert database.csv out/file.txt --source FCC --plain-bw
+  python -m satellite_pipeline.insert database.csv out/file.txt --plain-bw
 """
 import argparse
 import csv
@@ -92,10 +92,9 @@ def _frequencies(rec):
     return []
 
 
-def merge_into_csv(csv_file, inputs, company=None, plain_bw=False, create=True, backup=True):
+def merge_into_csv(csv_file, inputs, plain_bw=False, create=True, backup=True):
     """Merge LLM output files into the CSV, one row per frequency band.
 
-    company  - fixed value for the Source column instead of the one in the JSON
     plain_bw - write bandwidth as a bare number without ' kHz'
     create   - False: only fill gaps in existing rows, never add new ones
     backup   - copy the CSV to <csv>.bak before overwriting it
@@ -141,7 +140,7 @@ def merge_into_csv(csv_file, inputs, company=None, plain_bw=False, create=True, 
                     C_BW: NONE if bw is None else (repr(bw) if plain_bw else f"{bw!r} kHz"),
                     C_STATUS: clean(rec.get("active_or_inactive")),
                     C_DESC: NONE,
-                    C_SRC: company or clean(rec.get("source_or_company_origin")),
+                    C_SRC: clean(rec.get("source_or_company_origin")),   # 'None' if not found
                     C_ORBIT: clean(rec.get("orbit_type")),
                 }
                 key = (norm(name), center, bw)
@@ -180,12 +179,11 @@ def main(argv=None):
                                  formatter_class=argparse.RawDescriptionHelpFormatter)
     ap.add_argument("csv_file")
     ap.add_argument("inputs", nargs="+")
-    ap.add_argument("--source", help="fixed value for Source (e.g. FCC) instead of the JSON value")
     ap.add_argument("--plain-bw", action="store_true", help="write bandwidth as a number without ' kHz'")
     ap.add_argument("--no-create", action="store_true", help="don't add new rows, only fill existing ones")
     ap.add_argument("--backup", action="store_true")
     a = ap.parse_args(argv)
-    merge_into_csv(a.csv_file, a.inputs, company=a.source, plain_bw=a.plain_bw,
+    merge_into_csv(a.csv_file, a.inputs, plain_bw=a.plain_bw,
                    create=not a.no_create, backup=a.backup)
 
 
