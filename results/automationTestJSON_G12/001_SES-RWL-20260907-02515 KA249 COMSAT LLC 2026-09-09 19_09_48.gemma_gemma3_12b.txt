@@ -1,9 +1,0 @@
-```json
-{
-  "satellite_name": "INMARSAT Ltd.-2 POR",
-  "frequencies": "Not specified",
-  "active_or_inactive": "Not specified",
-  "source_or_company_origin": "Not specified",
-  "orbit_type": "179 DEGR"
-}
-```
