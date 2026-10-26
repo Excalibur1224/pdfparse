@@ -1,0 +1,12 @@
+README.md
+pyproject.toml
+src/satellite_pipeline/__init__.py
+src/satellite_pipeline/gemma_workflow.py
+src/satellite_pipeline/insert.py
+src/satellite_pipeline/parse.py
+src/satellite_pipeline/scrape.py
+src/satellite_pipeline.egg-info/PKG-INFO
+src/satellite_pipeline.egg-info/SOURCES.txt
+src/satellite_pipeline.egg-info/dependency_links.txt
+src/satellite_pipeline.egg-info/requires.txt
+src/satellite_pipeline.egg-info/top_level.txt

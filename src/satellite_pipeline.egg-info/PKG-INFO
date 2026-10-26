@@ -1,0 +1,195 @@
+Metadata-Version: 2.4
+Name: satellite_pipeline
+Version: 0.2.0
+Requires-Python: >=3.10
+Description-Content-Type: text/markdown
+Requires-Dist: selenium>=4.6
+Requires-Dist: docling
+Requires-Dist: ollama
+Requires-Dist: pydantic>=2
+
+# satellite_pipeline
+
+Scrape recent FCC ICFS filings, convert them to markdown, extract satellite details with an LLM (Ollama), and merge the results into a CSV database.
+
+```
+scrape  ->  convert  ->  extract (LLM)  ->  merge
+ .scrape    .parse       .gemma_workflow    .insert
+```
+
+| Step | Python function | What it does |
+|---|---|---|
+| 1. Download | `download_filings()` | Selenium downloads every document of the recent filings into one folder per filing |
+| 2. Convert | `convert()` | docling converts each document to markdown (`<file>.convert.md`) |
+| 3. Extract | `rag()` | An Ollama model reads each filing's markdown and writes one JSON result per filing |
+| 4. Merge | `merge()` | Adds one CSV row per frequency band, in the satellite database format |
+| All | `run_all()` | Runs the four steps in order |
+
+## Requirements
+
+- Python 3.10+
+- Google Chrome (for step 1)
+- A running [Ollama](https://ollama.com) server with the model pulled (for step 3)
+
+## Installation
+
+From the project root (the folder containing `pyproject.toml`):
+
+```bash
+pip install -e .
+```
+
+## Ollama setup
+
+```bash
+ollama serve                 # skip if it already runs as a service
+ollama pull gemma4:26b
+export OLLAMA_BASE_URL=http://127.0.0.1:11434
+```
+
+`OLLAMA_BASE_URL` is required for step 3 unless you pass `base_url=` to `rag()`. It must start with `http://` or `https://`.
+
+## Quick start
+
+```python
+import satellite_pipeline as sp
+
+sp.run_all(max_filings=3, model="gemma4:26b")
+```
+
+This creates, relative to the current directory:
+
+```
+fcc_recent_filings/            downloaded filings, one subfolder each
+rag_output/                    one JSON result per filing (.txt)
+satellites.csv                 the merged database
+```
+
+## Using each step
+
+### 1. Download
+
+```python
+sp.download_filings(download_root="fcc_recent_filings", headless=True, max_filings=None)
+```
+
+- Returns the list of saved files.
+- `headless=False` shows the browser window.
+- `max_filings=3` stops after the first three filings (useful for testing).
+- Set the `CHROME_BINARY` environment variable if Chrome is not in a standard location.
+
+Result layout:
+
+```
+fcc_recent_filings/
+├── 001_<filing number and details>/
+│   ├── application.pdf
+│   └── ...
+└── 002_.../
+```
+
+### 2. Convert
+
+```python
+sp.convert(root="fcc_recent_filings", overwrite=False)
+```
+
+- Writes `<file>.convert.md` next to each original, for example `application.pdf.convert.md`.
+- Files that already have a converted version are skipped unless `overwrite=True`.
+- A file that fails to convert is reported and skipped; the rest continue.
+
+### 3. Extract
+
+```python
+sp.rag(parent="fcc_recent_filings", output="rag_output",
+       model="gemma4:26b", embed="mock",
+       base_url=None, timeout=1200.0, context_window=16384)
+```
+
+- Reads the `.md` files in each filing subfolder and asks the model for the satellite name, frequency ranges, status (`Active`, `Inactive`, `Not specified`), owning company and orbit type.
+- Writes `rag_output/<filing>.<embed>_<model>.txt` containing JSON. `embed` is only a label in the file name.
+- Filings too long for the context window are summarized in parts first, then merged.
+- Each filing is retried up to three times; failures are printed as `[FAIL]` and skipped.
+- Lower `context_window` (for example `8192`) if you run out of memory.
+
+Example result:
+
+```json
+{
+  "satellite_name": "EXAMPLE-1",
+  "frequency_ranges": ["1525-1559 MHz"],
+  "active_or_inactive": "Active",
+  "source_or_company_origin": "Example Corp",
+  "orbit_type": "GEO"
+}
+```
+
+### 4. Merge
+
+```python
+sp.merge(csv_file="satellites.csv", inputs=["rag_output"],
+         plain_bw=False, create=True, backup=True)
+```
+
+- `inputs` can be folders (all `*.txt` files inside) or individual files.
+- Each frequency range becomes one row: `Frequency [MHz]` is the band centre and `Bandwidth [kHz]/Baud` the band width (`1525-1559 MHz` becomes `1542.0` MHz and `34000.0 kHz`).
+- Source comes from the model's company value; it is `None` when none was found.
+- A row for the same name, frequency and bandwidth is never duplicated or overwritten. Only its empty Status, Source or Orbit cells are filled in.
+- `create=False` fills existing rows only and adds none.
+- `plain_bw=True` writes the bandwidth as a bare number without ` kHz`.
+- `backup=True` copies the existing CSV to `satellites.csv.bak` first.
+- The CSV is created if it does not exist. Returns `{"added", "filled", "skipped", "failed"}`.
+
+CSV columns: `(index)`, `ID`, `Name`, `Frequency [MHz]`, `Bandwidth [kHz]/Baud`, `Status`, `Description`, `Source`, `Orbit`. Missing values are written as `None`.
+
+### All steps
+
+```python
+sp.run_all(
+    root="fcc_recent_filings", output="rag_output", csv_file="satellites.csv",
+    headless=True, max_filings=None,
+    model="gemma4:26b", embed="mock",
+    base_url="http://127.0.0.1:11434",   # extra keyword arguments go to rag()
+)
+```
+
+## Command line
+
+Every module can also be run on its own from any directory:
+
+```bash
+python -m satellite_pipeline.scrape fcc_recent_filings --max-filings 3 [--no-headless]
+python -m satellite_pipeline.parse fcc_recent_filings [--overwrite]
+python -m satellite_pipeline.gemma_workflow MODEL EMBED PARENT OUTPUT [--num-ctx 16384]
+python -m satellite_pipeline.insert satellites.csv rag_output [--backup] [--plain-bw] [--no-create]
+```
+
+The command-line defaults for `gemma_workflow` are model `gemma4:26b` and embed label `gemma`, while `run_all()` defaults to `gemma4:26b` and `mock`. Pass the model explicitly if you mix the two.
+
+Optional short commands can be added to `pyproject.toml`:
+
+```toml
+[project.scripts]
+sat-scrape  = "satellite_pipeline.scrape:main"
+sat-parse   = "satellite_pipeline.parse:main"
+sat-extract = "satellite_pipeline.gemma_workflow:main"
+sat-merge   = "satellite_pipeline.insert:main"
+```
+
+## Environment variables
+
+| Variable | Used by | Meaning |
+|---|---|---|
+| `OLLAMA_BASE_URL` | extract step | Ollama server URL, for example `http://127.0.0.1:11434` |
+| `NUM_CTX` | `gemma_workflow` command line | Default context window (default `16384`) |
+| `CHROME_BINARY` | scrape step | Path to the Chrome executable, if not auto-detected |
+| `HEADLESS` | `scrape` command line | Set to `0` to show the browser |
+
+## Troubleshooting
+
+- **`OLLAMA_BASE_URL is not set`**: export it, or pass `base_url=` to `rag()` or `run_all()`.
+- **`[WARN] context full, input likely truncated`**: raise `context_window`, or use a model with a larger context.
+- **`[FAIL] <filing>` in the extract step**: the model did not return valid JSON after three tries. Try a larger model.
+- **Rows with `None` frequency**: the model found no frequency range in that filing.
+- **Browser crashes in a container or WSL**: the scraper already passes `--no-sandbox` and `--disable-dev-shm-usage`; make sure Chrome is installed and `CHROME_BINARY` points to it.
+- **Very slow extraction**: the model is running on CPU. Check that Ollama can see your GPU.

@@ -1,0 +1,4 @@
+selenium>=4.6
+docling
+ollama
+pydantic>=2
